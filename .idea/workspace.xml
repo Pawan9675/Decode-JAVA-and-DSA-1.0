@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decode JAVA and DSA 1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/AsciiValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/FirstProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/Hierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/ModulusOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/MoreOnTypecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/SumOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/UpdatingVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1_Basics/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/AbsoluteNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/AreaVsPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/CalculatorUsingSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/DivisibleBy5OR3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/GradeOfStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/Greatest3Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/Greatest3NumberUsingNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/IdentifyQuadrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/ThreeDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Conditional/TriangleOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/ArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/BasicsOfLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/CheckComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/CountAndReverseAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/ForWhileDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/OddNumBYFOrLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Binary_To_Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Decimal_To_Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/GenerateArmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/GeneratePrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/InfinitelyForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Input_Till_Number_Is_Negative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Interview_Bulb_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/PalindromeMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/PalindromeMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/PrintDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/PrintPrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/SieveOfEratosthenesPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/Sum_Of_Two_Prime_Is_Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Practice/TrailingZeroesInAFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/Print1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/PrintEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2_Loops/TableOf19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/Assignment_Methods/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/Assignment_Methods/CountDigitAndPrintSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/Assignment_Methods/OddNumberBetweenTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/Assignment_Methods/SquareOfFirstNaturalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/CombinationAndPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/FactorialFrom1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/PascalTriangleUsingCombinationFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Methods/SwapPassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/AlphabetSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Assignment_Pattern/Question9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/BinaryTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/FloydsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Butterfly_Star_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Diamond_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Diamond_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Hourglass_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Reversed_Triangle_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Triangle_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/K_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Left_Half_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Mirror_Image_Triangle_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Changing_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Increasing_Reversed_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Increasing_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Triangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Palindrome_Triangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Pascal_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Reversed_Left_Half_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Reversed_Number_Triangle_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Reversed_Right_Half_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Rhombus_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Right_Half_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Right_Pascal_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Square_Fill_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Triangle_Star_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/GeeksForGeeks_Pattern/Zero_One_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberAlphabetTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberPyramidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/NumberTriangleFlipped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/OddNumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/Alphabet_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/M_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/Numerical_Rectangular_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/Prime_Pattern_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/Prime_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/Reversed_Alphabet_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/Practice_Pattern/Small_Capital_Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarTriangleFlipped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3_Patterns/StarTriangleReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayBuiltInFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/ArrayListQuestion/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/ArrayListQuestion/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/ArrayListQuestion/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/ArrayListQuestion/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/ArrayListQuestion/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/AscendingAndDescendingArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/BasicOfArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayList/ReverseArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayReference/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayReference/ArrayCopyUsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayReference/CloningArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ArrayReference/ShallowCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/BasicsOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/DoubletSumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/FindSecondMaximum_ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/FindSecondMinimum_ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/FindUniqueElement_ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/FirstRepeatingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/IsSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/LastOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/LastRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/MaximumAndMinimumElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/MaximumElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/OccurrencesOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/PrefixSum_WithUsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/PrefixSum_WithoutUsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/Queries_ElementPresentInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/SortSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/Sort_0_and_1_Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/Sort_0_and_1_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/StrictlyGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/SumOfElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/TripletSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/PassingArraysToMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/AbsoluteDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/EqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/EvenElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/FirstRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/MinimumElementUsingStandardLibraryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/MissingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/OccurrencesOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/OddIndicesInStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/PeakElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/PositiveAndNegativeElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/PositiveValuesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/SumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/UnionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/PreviousGreatestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ProductOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ReverseArray_UsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ReverseArray_WithoutUsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/RotateArray2_WithoutUsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/RotateArray_UsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/SecondLargest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Sort_0_1_and_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Sort_0_1_and_2_DutchFlagAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Sort_0_and_1_Method3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Sort_0_and_1_UsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Sort_0_and_1_WithoutUsingExtraArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/TraversingArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2d37W0QXQ7idakr68PfCzrNwG9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlternatePositiveAndNegative.executor": "Run",
+    "Application.DuplicateElements.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factorial_Of_Large__Number.executor": "Run",
+    "Application.FirstNonRepeatingNumbers.executor": "Run",
+    "Application.FirstRepeatingElement.executor": "Run",
+    "Application.FirstRepeatingNumbers.executor": "Run",
+    "Application.IsSortedArray.executor": "Run",
+    "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
+    "Application.MinimumPlatform.executor": "Run",
+    "Application.Modify_Even_and_Odd_Indices.executor": "Run",
+    "Application.Move_All_Zeroes_To_End.executor": "Run",
+    "Application.Palindrome_Array.executor": "Run",
+    "Application.PrefixSum.executor": "Run",
+    "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
+    "Application.Smallest_Missing_Positive_Number.executor": "Run",
+    "Application.SortSquares.executor": "Run",
+    "Application.SortSquaresOfNumber_NonDecreasing.executor": "Run",
+    "Application.Sort_0_and_1_Method1.executor": "Run",
+    "Application.Sort_0_and_1_Method2.executor": "Run",
+    "Application.Sort_Even_and_Odd.executor": "Run",
+    "Application.Sum_Of_Even_and_Odd_Indices.executor": "Run",
+    "Application.ThreeLargest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\Practice_Array" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Week_4_Arrays.Assignment_Package" />
+      <recent name="Week_4_Arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Move_All_Zeroes_To_End">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_2_Loops.Practice.Factorial" />
+      <module name="Decode Java and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_2_Loops.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial_Of_Large__Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Assignment_Package.Factorial_Of_Large__Number" />
+      <module name="Decode Java and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4_Arrays.Assignment_Package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNonRepeatingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Assignment_Package.FirstNonRepeatingNumbers" />
+      <module name="Decode Java and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4_Arrays.Assignment_Package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Move_All_Zeroes_To_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Assignment_Package.Move_All_Zeroes_To_End" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4_Arrays.Assignment_Package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Assignment_Package.Palindrome_Array" />
+      <module name="Decode Java and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4_Arrays.Assignment_Package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Decode Java and DSA 1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Decode Java and DSA 1.0" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Factorial_Of_Large__Number" />
+      <item itemvalue="Application.FirstNonRepeatingNumbers" />
+      <item itemvalue="Application.Move_All_Zeroes_To_End" />
+      <item itemvalue="Application.Palindrome_Array" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Move_All_Zeroes_To_End" />
+        <item itemvalue="Application.FirstNonRepeatingNumbers" />
+        <item itemvalue="Application.Factorial_Of_Large__Number" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Palindrome_Array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="" />
+      <created>1709224939484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709224939484</updated>
+      <workItem from="1709224941381" duration="341000" />
+      <workItem from="1709309787183" duration="66000" />
+      <workItem from="1709402362675" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
