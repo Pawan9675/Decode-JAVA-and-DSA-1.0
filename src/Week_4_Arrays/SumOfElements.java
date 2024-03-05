@@ -1,5 +1,5 @@
 package Week_4_Arrays;
-
+// Sum of elements
 import java.util.Scanner;
 
 public class SumOfElements {
