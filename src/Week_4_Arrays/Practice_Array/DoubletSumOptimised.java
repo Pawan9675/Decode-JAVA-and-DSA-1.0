@@ -1,4 +1,8 @@
-package Week_4_Arrays.ExtraPractice;
+// Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order,
+// find two numbers such that they add up to a specific target number.
+// Return the indices of the two numbers added by one. Return -1 if pair does not exist.
+
+package Week_4_Arrays.Practice_Array;
 
 import java.util.Scanner;
 
@@ -17,10 +21,11 @@ public class DoubletSumOptimised {
 
         int left = 0, right = n-1;
         boolean flag = false;
-        while (left<=right){
+        while (left<right){
             if (arr[left]+arr[right] == target){
                 System.out.println("Indices are : "+(++left)+" , "+(++right));
                 flag = true;
+                break;
             }
             else if (arr[left]+arr[right] > target) right--;
             else left++;

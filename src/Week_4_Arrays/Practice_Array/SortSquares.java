@@ -1,7 +1,7 @@
 // Given an integer array 'a' sorted in non-descending order,
 // return an array of the sequences of each number sorted in non-decreasing order.
 
-package Week_4_Arrays.ExtraPractice;
+package Week_4_Arrays.Practice_Array;
 
 import java.util.Scanner;
 
