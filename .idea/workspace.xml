@@ -6,10 +6,248 @@
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/EqualSumPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/EqualSumPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/RangeQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/RangeQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/DoubletSumOptimised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/DoubletSumOptimised.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/SortSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/SortSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/ArithmeticOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/AsciiValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/FirstProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/Hierarchy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/ModulusOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/MoreOnTypecasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/SimpleInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/SumOfTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/UpdatingVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_1_Basics/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/AbsoluteNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/AreaVsPerimeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/CalculatorUsingSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/DivisibleBy5OR3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/GradeOfStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/Greatest3Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/Greatest3NumberUsingNested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/IdentifyQuadrant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/OddEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/ProfitLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/ThreeDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Conditional/TriangleOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/ArithmeticProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/BasicsOfLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/CheckComposite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/CountAndReverseAndSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/ForWhileDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/GeometricProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/OddNumBYFOrLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/ArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Binary_To_Decimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/CheckPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Decimal_To_Binary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/GenerateArmstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/GeneratePrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/InfinitelyForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Input_Till_Number_Is_Negative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Interview_Bulb_Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/PalindromeMethod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/PalindromeMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/PrintDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/PrintPrimeFactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/SieveOfEratosthenesPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/Sum_Of_Two_Prime_Is_Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Practice/TrailingZeroesInAFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/Print1To100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/PrintEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_2_Loops/TableOf19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/Assignment_Methods/AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/Assignment_Methods/CountDigitAndPrintSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/Assignment_Methods/OddNumberBetweenTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/Assignment_Methods/SquareOfFirstNaturalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/CombinationAndPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/FactorialFrom1ToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/PascalTriangleUsingCombinationFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/PassByValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Methods/SwapPassByValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/AlphabetSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Assignment_Pattern/Question9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/BinaryTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/FloydsTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Butterfly_Star_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Diamond_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Diamond_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Hourglass_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Reversed_Triangle_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Hallow_Triangle_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/K_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Left_Half_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Mirror_Image_Triangle_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Changing_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Increasing_Reversed_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Increasing_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Number_Triangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Palindrome_Triangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Pascal_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Reversed_Left_Half_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Reversed_Number_Triangle_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Reversed_Right_Half_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Rhombus_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Right_Half_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Right_Pascal_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Square_Fill_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Triangle_Star_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/GeeksForGeeks_Pattern/Zero_One_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberAlphabetTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberPyramidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberSpiral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/NumberTriangleFlipped.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/OddNumberTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/Alphabet_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/M_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/Numerical_Rectangular_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/Prime_Pattern_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/Prime_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/Reversed_Alphabet_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/Practice_Pattern/Small_Capital_Alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarCross.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarDiamond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarRhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarTriangleFlipped.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_3_Patterns/StarTriangleReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayBuiltInFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/ArrayListQuestion/Question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/ArrayListQuestion/Question2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/ArrayListQuestion/Question3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/ArrayListQuestion/Question4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/ArrayListQuestion/Question5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/AscendingAndDescendingArraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/BasicOfArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayList/ReverseArraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayReference/ArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayReference/ArrayCopyUsingLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayReference/CloningArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ArrayReference/ShallowCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/CountTriplets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/DuplicateElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/Factorial_Of_Large__Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/FindUniqueElement_ArrayManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/FirstNonRepeatingNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/IsSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/MergeTwoSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/MinimumElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/Modify_Even_and_Odd_Indices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/Move_All_Zeroes_To_End.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/Palindrome_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/ProductOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/Smallest_Missing_Positive_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/StrictlyGreater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/Sum_Of_Even_and_Odd_Indices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Assignment_Package/ThreeLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/BasicsOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/CopyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/DoubletSumInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/EqualSumPartition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/FindSecondMaximum_ArrayManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/FindSecondMinimum_ArrayManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/FindUniqueElement_ArrayManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/FirstRepeatingNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/IsSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/LastOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/LastRepeatingElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/MaximumAndMinimumElementArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/MaximumElementInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/OccurrencesOfElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/PairSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/PrefixSum_WithUsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/PrefixSum_WithoutUsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/Queries_ElementPresentInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/RangeQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/SortSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/Sort_0_and_1_Method1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/Sort_0_and_1_Method2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/Sort_Even_and_Odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/StrictlyGreater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/SumOfElementInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/TripletSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/MaximumElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/MergeTwoSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/MinimumElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/NextGreaterElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/PassingArraysToMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/AbsoluteDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/AlternatePositiveAndNegative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/DoubletSumOptimised.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/EqualArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/EvenElementsInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/FirstRepeatingElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/KthSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/M_GreaterThan_NumberOfUnique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/MinimumElementUsingStandardLibraryMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/MinimumPlatform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/MissingElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/OccurrencesOfElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/OddIndicesInStringArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/PeakElementInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/PositiveAndNegativeElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/PositiveValuesInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/SortSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/SumSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Practice_Array/UnionArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/PreviousGreatestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ProductOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ReverseArray_UsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ReverseArray_WithoutUsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/RotateArray2_WithoutUsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/RotateArray_UsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/SecondLargest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Sort_0_1_and_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Sort_0_1_and_2_DutchFlagAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Sort_0_and_1_Method3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Sort_0_and_1_UsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/Sort_0_and_1_WithoutUsingExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/StudentMarks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/SumOfElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/TraversingArray.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,49 +272,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AlternatePositiveAndNegative.executor": "Run",
-    "Application.BasicsOfArrays.executor": "Run",
-    "Application.DoubletSumOptimised.executor": "Run",
-    "Application.DuplicateElements.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Factorial_Of_Large__Number.executor": "Run",
-    "Application.FirstNonRepeatingNumbers.executor": "Run",
-    "Application.FirstRepeatingElement.executor": "Run",
-    "Application.FirstRepeatingNumbers.executor": "Run",
-    "Application.IsSortedArray.executor": "Run",
-    "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
-    "Application.MinimumPlatform.executor": "Run",
-    "Application.Modify_Even_and_Odd_Indices.executor": "Run",
-    "Application.Move_All_Zeroes_To_End.executor": "Run",
-    "Application.Palindrome_Array.executor": "Run",
-    "Application.PrefixSum.executor": "Run",
-    "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
-    "Application.RangeQuery.executor": "Run",
-    "Application.Smallest_Missing_Positive_Number.executor": "Run",
-    "Application.SortSquares.executor": "Run",
-    "Application.SortSquaresOfNumber_NonDecreasing.executor": "Run",
-    "Application.Sort_0_and_1_Method1.executor": "Run",
-    "Application.Sort_0_and_1_Method2.executor": "Run",
-    "Application.Sort_Even_and_Odd.executor": "Run",
-    "Application.Sum_Of_Even_and_Odd_Indices.executor": "Run",
-    "Application.ThreeLargest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AlternatePositiveAndNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicsOfArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubletSumOptimised.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial_Of_Large__Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatingElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.M_GreaterThan_NumberOfUnique.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumPlatform.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modify_Even_and_Odd_Indices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Move_All_Zeroes_To_End.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixSum_WithoutUsingExtraArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeQuery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Missing_Positive_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortSquaresOfNumber_NonDecreasing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_0_and_1_Method1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_0_and_1_Method2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_Even_and_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_Of_Even_and_Odd_Indices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeLargest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\Practice_Array" />
