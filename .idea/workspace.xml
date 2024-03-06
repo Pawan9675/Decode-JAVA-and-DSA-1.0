@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/zz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/zz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/ConsecutiveSub_arrayWithOddSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/EqualSumPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_4_Arrays/ExtraPractice/EqualSumPartition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/EqualSumPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/ExtraPractice/EqualSumPartition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
+    "Application.EqualSumPartition.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Factorial_Of_Large__Number.executor": "Run",
     "Application.FirstNonRepeatingNumbers.executor": "Run",
@@ -86,7 +90,7 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConsecutiveSub_arrayWithOddSum">
+  <component name="RunManager" selected="Application.EqualSumPartition">
     <configuration name="BasicsOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.BasicsOfArrays" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -126,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Move_All_Zeroes_To_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Assignment_Package.Move_All_Zeroes_To_End" />
-      <module name="Decode Java and DSA 1.0" />
+    <configuration name="EqualSumPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.ExtraPractice.EqualSumPartition" />
+      <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4_Arrays.Assignment_Package.*" />
+          <option name="PATTERN" value="Week_4_Arrays.ExtraPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,18 +158,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ConsecutiveSub_arrayWithOddSum" />
+      <item itemvalue="Application.EqualSumPartition" />
       <item itemvalue="Application.DoubletSumOptimised" />
       <item itemvalue="Application.RangeQuery" />
       <item itemvalue="Application.BasicsOfArrays" />
-      <item itemvalue="Application.Move_All_Zeroes_To_End" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualSumPartition" />
         <item itemvalue="Application.ConsecutiveSub_arrayWithOddSum" />
         <item itemvalue="Application.DoubletSumOptimised" />
         <item itemvalue="Application.RangeQuery" />
         <item itemvalue="Application.BasicsOfArrays" />
-        <item itemvalue="Application.Move_All_Zeroes_To_End" />
       </list>
     </recent_temporary>
   </component>

@@ -24,12 +24,55 @@ Algorithm 1:
             return true
 -> Otherwise return false
 
+Algorithm 2:
+No need to make suffix array, just prefix array se apna answer nikaal sakte hain.
+1. Calculate the total sum of the array
+2. suffixSum = TotalSum - prefixSum
+3. Compare (suffixSum == prefixSum)
 
+Algorithm 3:
+prefixSum array banane ki bhi jarurat nhi hai.
+Kyunki prefixSum hum har point pe calculate kar sakte hain.
+
+1. For each i, whenever we are arriving at i, we can calculate prefixSum
+2. Then suffixSum = TotalSum - prefixSum
+3. Compare (suffixSum == prefixSum)
 */
 package Week_4_Arrays.ExtraPractice;
 
-public class EqualSumPartition {
-    public static void main(String[] args) {
+import java.util.Scanner;
 
+public class EqualSumPartition {
+    public static int findArraySum(int[] arr){
+        int totalSum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            totalSum += arr[i];
+        }
+        return totalSum;
+    }
+    public  static boolean equalSumPartition(int[] arr){
+        int totalSum = findArraySum(arr);
+
+        int prefSum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            prefSum += arr[i];
+            int suffixSum = totalSum - prefSum;
+            if (suffixSum == prefSum){
+                return true;
+            }
+        }
+        return false;
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the size of the Array: ");
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+        System.out.print("Enter the elements of Array: ");
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+
+        System.out.println("Equal Partition possible: "+equalSumPartition(arr));
     }
 }
