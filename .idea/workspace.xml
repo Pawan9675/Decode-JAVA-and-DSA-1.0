@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_With_Using_Extra_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_Without_Using_Extra_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/BasicDeclaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Largest_and_Smallest_Element_In_2D_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Roll_No_and_Marks_Of_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Sum_and_Product_Of_Elements_In_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/TraversalsThrough2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Rotate_Matrix_By_90_Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Row_and_Column_Printing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Spiral_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Transform_Into_Transpose_Of_Square_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Transpose_Using_Column_Wise_Printing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Transpose_Using_New_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Waveform_Printing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,24 +59,33 @@
     "Application.MinimumPlatform.executor": "Run",
     "Application.Modify_Even_and_Odd_Indices.executor": "Run",
     "Application.Move_All_Zeroes_To_End.executor": "Run",
+    "Application.NumberSpiral.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
     "Application.PrefixSum.executor": "Run",
     "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
     "Application.RangeQuery.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
+    "Application.Rotate_Matrix_By_90_Degree.executor": "Run",
+    "Application.Row_and_Column_Printing.executor": "Run",
     "Application.Smallest_Missing_Positive_Number.executor": "Run",
     "Application.SortSquares.executor": "Run",
     "Application.SortSquaresOfNumber_NonDecreasing.executor": "Run",
     "Application.Sort_0_and_1_Method1.executor": "Run",
     "Application.Sort_0_and_1_Method2.executor": "Run",
     "Application.Sort_Even_and_Odd.executor": "Run",
+    "Application.Spiral_Matrix.executor": "Run",
     "Application.SuffixSum.executor": "Run",
     "Application.SuffixSumWithUsingExtraArray.executor": "Run",
     "Application.Sum_Of_Elements_In_Array.executor": "Run",
     "Application.Sum_Of_Even_and_Odd_Indices.executor": "Run",
     "Application.Sum_and_Product_Of_Elements_In_Array.executor": "Run",
     "Application.ThreeLargest.executor": "Run",
+    "Application.Transform_Into_Transpose_Of_Square_Matrix.executor": "Run",
+    "Application.Transpose_Of_Square_Matrix.executor": "Run",
+    "Application.Transpose_Using_Column_Wise_Printing.executor": "Run",
+    "Application.Transpose_Using_New_Matrix.executor": "Run",
     "Application.TraversalsThrough2DArray.executor": "Run",
+    "Application.Waveform_Printing.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -89,7 +98,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -104,9 +113,22 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Addition_Of_Two_Matrices_With_Using_Extra_Array">
-    <configuration name="Addition_Of_Two_Matrices_With_Using_Extra_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Addition_Of_Two_Matrices_With_Using_Extra_Array" />
+  <component name="RunManager" selected="Application.Spiral_Matrix">
+    <configuration name="NumberSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_3_Patterns.NumberSpiral" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_3_Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rotate_Matrix_By_90_Degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Rotate_Matrix_By_90_Degree" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Addition_Of_Two_Matrices_Without_Using_Extra_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Addition_Of_Two_Matrices_Without_Using_Extra_Array" />
+    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Spiral_Matrix" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largest_and_Smallest_Element_In_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Largest_and_Smallest_Element_In_2D_Array" />
+    <configuration name="Transform_Into_Transpose_Of_Square_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Transform_Into_Transpose_Of_Square_Matrix" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -144,21 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Roll_No_and_Marks_Of_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Roll_No_and_Marks_Of_Student" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_and_Product_Of_Elements_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Sum_and_Product_Of_Elements_In_Array" />
+    <configuration name="Waveform_Printing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Waveform_Printing" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -171,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Addition_Of_Two_Matrices_With_Using_Extra_Array" />
-      <item itemvalue="Application.Addition_Of_Two_Matrices_Without_Using_Extra_Array" />
-      <item itemvalue="Application.Largest_and_Smallest_Element_In_2D_Array" />
-      <item itemvalue="Application.Roll_No_and_Marks_Of_Student" />
-      <item itemvalue="Application.Sum_and_Product_Of_Elements_In_Array" />
+      <item itemvalue="Application.NumberSpiral" />
+      <item itemvalue="Application.Spiral_Matrix" />
+      <item itemvalue="Application.Waveform_Printing" />
+      <item itemvalue="Application.Rotate_Matrix_By_90_Degree" />
+      <item itemvalue="Application.Transform_Into_Transpose_Of_Square_Matrix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Addition_Of_Two_Matrices_With_Using_Extra_Array" />
-        <item itemvalue="Application.Addition_Of_Two_Matrices_Without_Using_Extra_Array" />
-        <item itemvalue="Application.Sum_and_Product_Of_Elements_In_Array" />
-        <item itemvalue="Application.Largest_and_Smallest_Element_In_2D_Array" />
-        <item itemvalue="Application.Roll_No_and_Marks_Of_Student" />
+        <item itemvalue="Application.Spiral_Matrix" />
+        <item itemvalue="Application.NumberSpiral" />
+        <item itemvalue="Application.Waveform_Printing" />
+        <item itemvalue="Application.Rotate_Matrix_By_90_Degree" />
+        <item itemvalue="Application.Transform_Into_Transpose_Of_Square_Matrix" />
       </list>
     </recent_temporary>
   </component>
