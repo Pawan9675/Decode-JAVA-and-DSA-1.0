@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Rotate_Matrix_By_90_Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Row_and_Column_Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Spiral_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Transform_Into_Transpose_Of_Square_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Transpose_Using_Column_Wise_Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Transpose_Using_New_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Waveform_Printing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
