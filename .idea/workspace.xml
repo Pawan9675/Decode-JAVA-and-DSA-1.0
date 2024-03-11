@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ArrayList_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Multiplication_Of_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/CharAt_and_Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Contains_StartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Count_Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/IndexOf_and_CompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/ToLower_and_Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/What_and_Why_Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +44,10 @@
     "Application.ArrayList_2D.executor": "Run",
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
+    "Application.CharAt_and_Length.executor": "Run",
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
+    "Application.Contains_StartsWith.executor": "Run",
+    "Application.Count_Vowels.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.EqualSumPartition.executor": "Run",
@@ -49,10 +56,12 @@
     "Application.FirstNonRepeatingNumbers.executor": "Run",
     "Application.FirstRepeatingElement.executor": "Run",
     "Application.FirstRepeatingNumbers.executor": "Run",
+    "Application.IndexOf_and_CompareTo.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
+    "Application.MissingElement.executor": "Run",
     "Application.Modify_Even_and_Odd_Indices.executor": "Run",
     "Application.Move_All_Zeroes_To_End.executor": "Run",
     "Application.Multiplication_Of_Matrix.executor": "Run",
@@ -78,12 +87,14 @@
     "Application.Sum_Of_Even_and_Odd_Indices.executor": "Run",
     "Application.Sum_and_Product_Of_Elements_In_Array.executor": "Run",
     "Application.ThreeLargest.executor": "Run",
+    "Application.ToLower_and_Concat.executor": "Run",
     "Application.Transform_Into_Transpose_Of_Square_Matrix.executor": "Run",
     "Application.Transpose_Of_Square_Matrix.executor": "Run",
     "Application.Transpose_Using_Column_Wise_Printing.executor": "Run",
     "Application.Transpose_Using_New_Matrix.executor": "Run",
     "Application.TraversalsThrough2DArray.executor": "Run",
     "Application.Waveform_Printing.executor": "Run",
+    "Application.What_and_Why_Strings.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -111,13 +122,13 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MissingElement">
-    <configuration name="ArrayList_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ArrayList_2D" />
+  <component name="RunManager" selected="Application.ToLower_and_Concat">
+    <configuration name="CharAt_and_Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.CharAt_and_Length" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.*" />
+          <option name="PATTERN" value="Week_6_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Practice_Array.MissingElement" />
+    <configuration name="Contains_StartsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Contains_StartsWith" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4_Arrays.Practice_Array.*" />
+          <option name="PATTERN" value="Week_6_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication_Of_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Multiplication_Of_Matrix" />
+    <configuration name="Count_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Count_Vowels" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.*" />
+          <option name="PATTERN" value="Week_6_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangleUsingCombinationFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_3_Methods.PascalTriangleUsingCombinationFunction" />
+    <configuration name="IndexOf_and_CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.IndexOf_and_CompareTo" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_3_Methods.*" />
+          <option name="PATTERN" value="Week_6_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Spiral_Matrix" />
+    <configuration name="ToLower_and_Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.ToLower_and_Concat" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.*" />
+          <option name="PATTERN" value="Week_6_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MissingElement" />
-      <item itemvalue="Application.Multiplication_Of_Matrix" />
-      <item itemvalue="Application.ArrayList_2D" />
-      <item itemvalue="Application.PascalTriangleUsingCombinationFunction" />
-      <item itemvalue="Application.Spiral_Matrix" />
+      <item itemvalue="Application.CharAt_and_Length" />
+      <item itemvalue="Application.Contains_StartsWith" />
+      <item itemvalue="Application.Count_Vowels" />
+      <item itemvalue="Application.IndexOf_and_CompareTo" />
+      <item itemvalue="Application.ToLower_and_Concat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MissingElement" />
-        <item itemvalue="Application.Multiplication_Of_Matrix" />
-        <item itemvalue="Application.PascalTriangleUsingCombinationFunction" />
-        <item itemvalue="Application.ArrayList_2D" />
-        <item itemvalue="Application.Spiral_Matrix" />
+        <item itemvalue="Application.ToLower_and_Concat" />
+        <item itemvalue="Application.Contains_StartsWith" />
+        <item itemvalue="Application.IndexOf_and_CompareTo" />
+        <item itemvalue="Application.Count_Vowels" />
+        <item itemvalue="Application.CharAt_and_Length" />
       </list>
     </recent_temporary>
   </component>
