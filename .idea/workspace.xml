@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/CharAt_and_Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Contains_StartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Count_Vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/IndexOf_and_CompareTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/ToLower_and_Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/What_and_Why_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Convert_Int_To_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Interning_and_New_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Plus_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Print_All_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/Total_Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/UpdateEvenPositions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -47,6 +51,7 @@
     "Application.CharAt_and_Length.executor": "Run",
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
     "Application.Contains_StartsWith.executor": "Run",
+    "Application.Convert_Int_To_String.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
@@ -57,6 +62,7 @@
     "Application.FirstRepeatingElement.executor": "Run",
     "Application.FirstRepeatingNumbers.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
+    "Application.Interning_and_New_Keyword.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
@@ -68,8 +74,10 @@
     "Application.NumberSpiral.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
+    "Application.Plus_Operator.executor": "Run",
     "Application.PrefixSum.executor": "Run",
     "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
+    "Application.Print_All_Substring.executor": "Run",
     "Application.RangeQuery.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
     "Application.Rotate_Matrix_By_90_Degree.executor": "Run",
@@ -81,6 +89,7 @@
     "Application.Sort_0_and_1_Method2.executor": "Run",
     "Application.Sort_Even_and_Odd.executor": "Run",
     "Application.Spiral_Matrix.executor": "Run",
+    "Application.SubString.executor": "Run",
     "Application.SuffixSum.executor": "Run",
     "Application.SuffixSumWithUsingExtraArray.executor": "Run",
     "Application.Sum_Of_Elements_In_Array.executor": "Run",
@@ -88,11 +97,13 @@
     "Application.Sum_and_Product_Of_Elements_In_Array.executor": "Run",
     "Application.ThreeLargest.executor": "Run",
     "Application.ToLower_and_Concat.executor": "Run",
+    "Application.Total_Digit.executor": "Run",
     "Application.Transform_Into_Transpose_Of_Square_Matrix.executor": "Run",
     "Application.Transpose_Of_Square_Matrix.executor": "Run",
     "Application.Transpose_Using_Column_Wise_Printing.executor": "Run",
     "Application.Transpose_Using_New_Matrix.executor": "Run",
     "Application.TraversalsThrough2DArray.executor": "Run",
+    "Application.UpdateEvenPositions.executor": "Run",
     "Application.Waveform_Printing.executor": "Run",
     "Application.What_and_Why_Strings.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -122,9 +133,9 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ToLower_and_Concat">
-    <configuration name="CharAt_and_Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.CharAt_and_Length" />
+  <component name="RunManager" selected="Application.UpdateEvenPositions">
+    <configuration name="Convert_Int_To_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Convert_Int_To_String" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Contains_StartsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Contains_StartsWith" />
+    <configuration name="Interning_and_New_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Interning_and_New_Keyword" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Count_Vowels" />
+    <configuration name="Plus_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Plus_Operator" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOf_and_CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.IndexOf_and_CompareTo" />
+    <configuration name="Total_Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.Total_Digit" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -175,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToLower_and_Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.ToLower_and_Concat" />
+    <configuration name="UpdateEvenPositions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings.UpdateEvenPositions" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -189,19 +200,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CharAt_and_Length" />
-      <item itemvalue="Application.Contains_StartsWith" />
-      <item itemvalue="Application.Count_Vowels" />
-      <item itemvalue="Application.IndexOf_and_CompareTo" />
-      <item itemvalue="Application.ToLower_and_Concat" />
+      <item itemvalue="Application.Convert_Int_To_String" />
+      <item itemvalue="Application.Interning_and_New_Keyword" />
+      <item itemvalue="Application.Plus_Operator" />
+      <item itemvalue="Application.Total_Digit" />
+      <item itemvalue="Application.UpdateEvenPositions" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ToLower_and_Concat" />
-        <item itemvalue="Application.Contains_StartsWith" />
-        <item itemvalue="Application.IndexOf_and_CompareTo" />
-        <item itemvalue="Application.Count_Vowels" />
-        <item itemvalue="Application.CharAt_and_Length" />
+        <item itemvalue="Application.UpdateEvenPositions" />
+        <item itemvalue="Application.Interning_and_New_Keyword" />
+        <item itemvalue="Application.Total_Digit" />
+        <item itemvalue="Application.Convert_Int_To_String" />
+        <item itemvalue="Application.Plus_Operator" />
       </list>
     </recent_temporary>
   </component>
