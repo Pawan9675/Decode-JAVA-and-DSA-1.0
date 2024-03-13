@@ -34,23 +34,29 @@ public class Addition_Of_Two_Matrices_With_Using_Extra_Array {
             }
         }
 
+        int[][] res = new int[m][n];
+        boolean flag = true;
+
         if (m == k && n == l){
             for (int i = 0; i < m; i++) {
                 for (int j = 0; j < n; j++) {
-                    mat1[i][j] = mat1[i][j] + mat2[i][j];
+                    res[i][j] = mat1[i][j] + mat2[i][j];
                 }
-            }
-
-            System.out.println("Addition of two matrices: ");
-            for (int i = 0; i < m; i++) {
-                for (int j = 0; j <n; j++) {
-                    System.out.print(mat1[i][j] + " ");
-                }
-                System.out.println();
             }
         }
         else {
             System.out.println("ADDITION NOT POSSIBLE!");
+            flag = false;
+        }
+
+        if (flag){
+            System.out.println("Addition of two matrices: ");
+            for (int i = 0; i < res.length; i++) {
+                for (int j = 0; j < res[i].length; j++) {
+                    System.out.print(res[i][j] + " ");
+                }
+                System.out.println();
+            }
         }
     }
 }
