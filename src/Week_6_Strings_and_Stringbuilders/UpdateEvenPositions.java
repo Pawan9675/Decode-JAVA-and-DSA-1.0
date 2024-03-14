@@ -1,5 +1,6 @@
-package Week_6_Strings;
+package Week_6_Strings_and_Stringbuilders;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class UpdateEvenPositions {
@@ -22,6 +23,16 @@ public class UpdateEvenPositions {
         String updatedString = updateEvenPositions(inputString);
         // Display the updated string
         System.out.println("Updated String: " + updatedString);
+
+        /*
+        We can use this approach too:
+        char[] ch = new char[inputString.length()];
+        for (int i = 0; i < ch.length; i++) {
+            ch[i] = inputString.charAt(i);
+        }
+        String str =  new String(ch);
+
+        System.out.println(str);*/
     }
 
 }

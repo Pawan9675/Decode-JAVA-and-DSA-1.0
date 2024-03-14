@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Addition_Of_Two_Matrices_Without_Using_Extra_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Generate_Spiral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Largest_Element_In_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Middle_Row_And_Middle_Column_Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Printing_Diagonals_Of_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Rotate_90_AntiClockWise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Row_Of_Maximum_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Store_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Sum_Of_Rectangle_In_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Waveform_Printing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Modify_Character_In_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_With_Using_Extra_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_With_Using_Extra_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_Without_Using_Extra_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_Without_Using_Extra_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings/UpdateEvenPositions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings/UpdateEvenPositions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_With_Using_Extra_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_With_Using_Extra_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_Without_Using_Extra_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Addition_Of_Two_Matrices_Without_Using_Extra_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Generate_Spiral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Generate_Spiral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings/UpdateEvenPositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +71,7 @@
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
     "Application.MissingElement.executor": "Run",
+    "Application.Modify_Character_In_String.executor": "Run",
     "Application.Modify_Even_and_Odd_Indices.executor": "Run",
     "Application.Move_All_Zeroes_To_End.executor": "Run",
     "Application.Multiplication_Of_Matrix.executor": "Run",
@@ -154,7 +143,7 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Generate_Spiral">
+  <component name="RunManager" selected="Application.UpdateEvenPositions">
     <configuration name="Generate_Spiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Generate_Spiral" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -168,25 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Middle_Row_And_Middle_Column_Printing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Middle_Row_And_Middle_Column_Printing" />
+    <configuration name="Modify_Character_In_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Modify_Character_In_String" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Printing_Diagonals_Of_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Printing_Diagonals_Of_Matrix" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,6 +176,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateEvenPositions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.UpdateEvenPositions" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,19 +210,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Modify_Character_In_String" />
+      <item itemvalue="Application.UpdateEvenPositions" />
       <item itemvalue="Application.Generate_Spiral" />
-      <item itemvalue="Application.Middle_Row_And_Middle_Column_Printing" />
-      <item itemvalue="Application.Printing_Diagonals_Of_Matrix" />
       <item itemvalue="Application.Rotate_90_AntiClockWise" />
       <item itemvalue="Application.Waveform_Printing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UpdateEvenPositions" />
+        <item itemvalue="Application.Modify_Character_In_String" />
         <item itemvalue="Application.Generate_Spiral" />
         <item itemvalue="Application.Waveform_Printing" />
         <item itemvalue="Application.Rotate_90_AntiClockWise" />
-        <item itemvalue="Application.Printing_Diagonals_Of_Matrix" />
-        <item itemvalue="Application.Middle_Row_And_Middle_Column_Printing" />
       </list>
     </recent_temporary>
   </component>
