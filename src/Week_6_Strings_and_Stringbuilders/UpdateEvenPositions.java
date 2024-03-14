@@ -25,14 +25,28 @@ public class UpdateEvenPositions {
         System.out.println("Updated String: " + updatedString);
 
         /*
-        We can use this approach too:
-        char[] ch = new char[inputString.length()];
+        Approach 1:
+        String s = "MAVEN";
+        char[] ch = new char[s.length()];
         for (int i = 0; i < ch.length; i++) {
-            ch[i] = inputString.charAt(i);
+            ch[i] = s.charAt(i);
+        }
+        for (int i = 0; i < ch.length; i += 2) {
+            ch[i] = 'a';
         }
         String str =  new String(ch);
+        System.out.println(str);
 
-        System.out.println(str);*/
+
+        Approach 2:
+        String s = "MAVEN";
+        String str = "";
+        for (int i = 0; i < s.length(); i++) {
+            if (i%2 == 0) str += 'a';
+            else str += s.chatAt(i);
+        }
+        System.out.println(str);
+        */
     }
 
 }

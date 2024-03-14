@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Modify_Character_In_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Generate_Spiral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays/Generate_Spiral.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings/UpdateEvenPositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
