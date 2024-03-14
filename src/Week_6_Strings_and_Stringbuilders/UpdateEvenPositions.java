@@ -1,6 +1,5 @@
 package Week_6_Strings_and_Stringbuilders;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class UpdateEvenPositions {
@@ -45,7 +44,8 @@ public class UpdateEvenPositions {
             if (i%2 == 0) str += 'a';
             else str += s.chatAt(i);
         }
-        System.out.println(str);
+        s = str;
+        System.out.println(s);
         */
     }
 
