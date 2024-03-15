@@ -47,6 +47,8 @@ public class UpdateEvenPositions {
         s = str;
         System.out.println(s);
         */
+
+        // Note: Performance of string: Poor performance because of immutability.
     }
 
 }

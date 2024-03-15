@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Appending_In_StringBuilders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Insert_and_Delete_In_StringBuilders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/String_Builders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Toggle_Character.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +49,7 @@
     "Application.Addition_Of_Two_Matrices.executor": "Run",
     "Application.Addition_Of_Two_Matrices_With_Using_Extra_Array.executor": "Run",
     "Application.AlternatePositiveAndNegative.executor": "Run",
+    "Application.Appending_In_StringBuilders.executor": "Run",
     "Application.ArrayList_2D.executor": "Run",
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
@@ -54,6 +61,7 @@
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.EqualSumPartition.executor": "Run",
+    "Application.Equals.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Factorial_Of_Large__Number.executor": "Run",
     "Application.FirstNonRepeatingNumbers.executor": "Run",
@@ -61,6 +69,7 @@
     "Application.FirstRepeatingNumbers.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
+    "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
     "Application.Interning_and_New_Keyword.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
@@ -93,6 +102,7 @@
     "Application.Sort_0_and_1_Method2.executor": "Run",
     "Application.Sort_Even_and_Odd.executor": "Run",
     "Application.Spiral_Matrix.executor": "Run",
+    "Application.String_Builders.executor": "Run",
     "Application.SubString.executor": "Run",
     "Application.SuffixSum.executor": "Run",
     "Application.SuffixSumWithUsingExtraArray.executor": "Run",
@@ -102,6 +112,7 @@
     "Application.Sum_and_Product_Of_Elements_In_Array.executor": "Run",
     "Application.ThreeLargest.executor": "Run",
     "Application.ToLower_and_Concat.executor": "Run",
+    "Application.Toggle_Character.executor": "Run",
     "Application.Total_Digit.executor": "Run",
     "Application.Transform_Into_Transpose_Of_Square_Matrix.executor": "Run",
     "Application.Transpose_Of_Square_Matrix.executor": "Run",
@@ -140,22 +151,9 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UpdateEvenPositions">
-    <configuration name="Generate_Spiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Generate_Spiral" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Modify_Character_In_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Modify_Character_In_String" />
+  <component name="RunManager" selected="Application.Insert_and_Delete_In_StringBuilders">
+    <configuration name="Appending_In_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Appending_In_StringBuilders" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -167,21 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate_90_AntiClockWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Rotate_90_AntiClockWise" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpdateEvenPositions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.UpdateEvenPositions" />
+    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Equals" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -193,12 +178,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Waveform_Printing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Waveform_Printing" />
+    <configuration name="Insert_and_Delete_In_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Insert_and_Delete_In_StringBuilders" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Builders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.String_Builders" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Toggle_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Toggle_Character" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Modify_Character_In_String" />
-      <item itemvalue="Application.UpdateEvenPositions" />
-      <item itemvalue="Application.Generate_Spiral" />
-      <item itemvalue="Application.Rotate_90_AntiClockWise" />
-      <item itemvalue="Application.Waveform_Printing" />
+      <item itemvalue="Application.Appending_In_StringBuilders" />
+      <item itemvalue="Application.Equals" />
+      <item itemvalue="Application.Insert_and_Delete_In_StringBuilders" />
+      <item itemvalue="Application.String_Builders" />
+      <item itemvalue="Application.Toggle_Character" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UpdateEvenPositions" />
-        <item itemvalue="Application.Modify_Character_In_String" />
-        <item itemvalue="Application.Generate_Spiral" />
-        <item itemvalue="Application.Waveform_Printing" />
-        <item itemvalue="Application.Rotate_90_AntiClockWise" />
+        <item itemvalue="Application.Insert_and_Delete_In_StringBuilders" />
+        <item itemvalue="Application.Appending_In_StringBuilders" />
+        <item itemvalue="Application.Toggle_Character" />
+        <item itemvalue="Application.String_Builders" />
+        <item itemvalue="Application.Equals" />
       </list>
     </recent_temporary>
   </component>
