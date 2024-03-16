@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Appending_In_StringBuilders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Insert_and_Delete_In_StringBuilders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/String_Builders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Toggle_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Reverse_Each_Word_In_a_Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Reverse_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Sorting_String_And_StringBuilders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/String_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/UpdateEvenPositions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +87,8 @@
     "Application.Print_All_Substring.executor": "Run",
     "Application.Printing_Diagonals_Of_Matrix.executor": "Run",
     "Application.RangeQuery.executor": "Run",
+    "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
+    "Application.Reverse_StringBuilder.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
     "Application.Rotate_90_AntiClockWise.executor": "Run",
     "Application.Rotate_Matrix_By_90_Degree.executor": "Run",
@@ -101,7 +100,9 @@
     "Application.Sort_0_and_1_Method1.executor": "Run",
     "Application.Sort_0_and_1_Method2.executor": "Run",
     "Application.Sort_Even_and_Odd.executor": "Run",
+    "Application.Sorting_String_And_StringBuilders.executor": "Run",
     "Application.Spiral_Matrix.executor": "Run",
+    "Application.String_Array.executor": "Run",
     "Application.String_Builders.executor": "Run",
     "Application.SubString.executor": "Run",
     "Application.SuffixSum.executor": "Run",
@@ -151,33 +152,7 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Insert_and_Delete_In_StringBuilders">
-    <configuration name="Appending_In_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Appending_In_StringBuilders" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Equals" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.String_Array">
     <configuration name="Insert_and_Delete_In_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Insert_and_Delete_In_StringBuilders" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -191,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Builders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.String_Builders" />
+    <configuration name="Reverse_Each_Word_In_a_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Reverse_Each_Word_In_a_Sentence" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -204,8 +179,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Toggle_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Toggle_Character" />
+    <configuration name="Reverse_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Reverse_StringBuilder" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting_String_And_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Sorting_String_And_StringBuilders" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.String_Array" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -218,19 +219,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Appending_In_StringBuilders" />
-      <item itemvalue="Application.Equals" />
+      <item itemvalue="Application.Reverse_Each_Word_In_a_Sentence" />
+      <item itemvalue="Application.Reverse_StringBuilder" />
+      <item itemvalue="Application.Sorting_String_And_StringBuilders" />
+      <item itemvalue="Application.String_Array" />
       <item itemvalue="Application.Insert_and_Delete_In_StringBuilders" />
-      <item itemvalue="Application.String_Builders" />
-      <item itemvalue="Application.Toggle_Character" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Array" />
+        <item itemvalue="Application.Sorting_String_And_StringBuilders" />
+        <item itemvalue="Application.Reverse_Each_Word_In_a_Sentence" />
+        <item itemvalue="Application.Reverse_StringBuilder" />
         <item itemvalue="Application.Insert_and_Delete_In_StringBuilders" />
-        <item itemvalue="Application.Appending_In_StringBuilders" />
-        <item itemvalue="Application.Toggle_Character" />
-        <item itemvalue="Application.String_Builders" />
-        <item itemvalue="Application.Equals" />
       </list>
     </recent_temporary>
   </component>
