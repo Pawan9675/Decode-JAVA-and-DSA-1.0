@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Reverse_Each_Word_In_a_Sentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Reverse_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Sorting_String_And_StringBuilders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/String_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Largest_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +67,10 @@
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
     "Application.Interning_and_New_Keyword.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
+    "Application.Largest_String.executor": "Run",
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
+    "Application.Maximum_Occurring_Character_In_a_String.executor": "Run",
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
     "Application.MissingElement.executor": "Run",
@@ -152,9 +152,22 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String_Array">
-    <configuration name="Insert_and_Delete_In_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Insert_and_Delete_In_StringBuilders" />
+  <component name="RunManager" selected="Application.Largest_String">
+    <configuration name="Largest_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Largest_String" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximum_Occurring_Character_In_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Maximum_Occurring_Character_In_a_String" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -168,19 +181,6 @@
     </configuration>
     <configuration name="Reverse_Each_Word_In_a_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Reverse_Each_Word_In_a_Sentence" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reverse_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Reverse_StringBuilder" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -219,19 +219,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Largest_String" />
+      <item itemvalue="Application.Maximum_Occurring_Character_In_a_String" />
       <item itemvalue="Application.Reverse_Each_Word_In_a_Sentence" />
-      <item itemvalue="Application.Reverse_StringBuilder" />
       <item itemvalue="Application.Sorting_String_And_StringBuilders" />
       <item itemvalue="Application.String_Array" />
-      <item itemvalue="Application.Insert_and_Delete_In_StringBuilders" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Largest_String" />
+        <item itemvalue="Application.Maximum_Occurring_Character_In_a_String" />
         <item itemvalue="Application.String_Array" />
         <item itemvalue="Application.Sorting_String_And_StringBuilders" />
         <item itemvalue="Application.Reverse_Each_Word_In_a_Sentence" />
-        <item itemvalue="Application.Reverse_StringBuilder" />
-        <item itemvalue="Application.Insert_and_Delete_In_StringBuilders" />
       </list>
     </recent_temporary>
   </component>
