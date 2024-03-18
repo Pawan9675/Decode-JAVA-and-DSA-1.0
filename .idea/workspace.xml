@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Largest_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/First_Half_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Different_Neighbouring_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Most_Occurring_Word_In_a_Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Split_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/String_Compression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +33,9 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -53,6 +62,7 @@
     "Application.Contains_StartsWith.executor": "Run",
     "Application.Convert_Int_To_String.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
+    "Application.Different_Neighbouring_Character.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.EqualSumPartition.executor": "Run",
@@ -62,6 +72,7 @@
     "Application.FirstNonRepeatingNumbers.executor": "Run",
     "Application.FirstRepeatingElement.executor": "Run",
     "Application.FirstRepeatingNumbers.executor": "Run",
+    "Application.First_Half_Reverse.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
@@ -71,11 +82,13 @@
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
     "Application.Maximum_Occurring_Character_In_a_String.executor": "Run",
+    "Application.Maximum_Occurring_Character_In_a_String1.executor": "Run",
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
     "Application.MissingElement.executor": "Run",
     "Application.Modify_Character_In_String.executor": "Run",
     "Application.Modify_Even_and_Odd_Indices.executor": "Run",
+    "Application.Most_Occurring_Word_In_a_Sentence.executor": "Run",
     "Application.Move_All_Zeroes_To_End.executor": "Run",
     "Application.Multiplication_Of_Matrix.executor": "Run",
     "Application.NumberSpiral.executor": "Run",
@@ -102,8 +115,10 @@
     "Application.Sort_Even_and_Odd.executor": "Run",
     "Application.Sorting_String_And_StringBuilders.executor": "Run",
     "Application.Spiral_Matrix.executor": "Run",
+    "Application.Split_Word.executor": "Run",
     "Application.String_Array.executor": "Run",
     "Application.String_Builders.executor": "Run",
+    "Application.String_Compression.executor": "Run",
     "Application.SubString.executor": "Run",
     "Application.SuffixSum.executor": "Run",
     "Application.SuffixSumWithUsingExtraArray.executor": "Run",
@@ -152,9 +167,9 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Largest_String">
-    <configuration name="Largest_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Largest_String" />
+  <component name="RunManager" selected="Application.Most_Occurring_Word_In_a_Sentence">
+    <configuration name="Different_Neighbouring_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Different_Neighbouring_Character" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Occurring_Character_In_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Maximum_Occurring_Character_In_a_String" />
+    <configuration name="Maximum_Occurring_Character_In_a_String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Maximum_Occurring_Character_In_a_String1" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Each_Word_In_a_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Reverse_Each_Word_In_a_Sentence" />
+    <configuration name="Maximum_Occurring_Character_In_a_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Maximum_Occurring_Character_In_a_String2" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting_String_And_StringBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Sorting_String_And_StringBuilders" />
+    <configuration name="Most_Occurring_Word_In_a_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Most_Occurring_Word_In_a_Sentence" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -205,8 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.String_Array" />
+    <configuration name="Split_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Split_Word" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -219,19 +234,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Largest_String" />
-      <item itemvalue="Application.Maximum_Occurring_Character_In_a_String" />
-      <item itemvalue="Application.Reverse_Each_Word_In_a_Sentence" />
-      <item itemvalue="Application.Sorting_String_And_StringBuilders" />
-      <item itemvalue="Application.String_Array" />
+      <item itemvalue="Application.Different_Neighbouring_Character" />
+      <item itemvalue="Application.Maximum_Occurring_Character_In_a_String1" />
+      <item itemvalue="Application.Most_Occurring_Word_In_a_Sentence" />
+      <item itemvalue="Application.Split_Word" />
+      <item itemvalue="Application.Maximum_Occurring_Character_In_a_String2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Largest_String" />
-        <item itemvalue="Application.Maximum_Occurring_Character_In_a_String" />
-        <item itemvalue="Application.String_Array" />
-        <item itemvalue="Application.Sorting_String_And_StringBuilders" />
-        <item itemvalue="Application.Reverse_Each_Word_In_a_Sentence" />
+        <item itemvalue="Application.Most_Occurring_Word_In_a_Sentence" />
+        <item itemvalue="Application.Split_Word" />
+        <item itemvalue="Application.Maximum_Occurring_Character_In_a_String1" />
+        <item itemvalue="Application.Maximum_Occurring_Character_In_a_String2" />
+        <item itemvalue="Application.Different_Neighbouring_Character" />
       </list>
     </recent_temporary>
   </component>

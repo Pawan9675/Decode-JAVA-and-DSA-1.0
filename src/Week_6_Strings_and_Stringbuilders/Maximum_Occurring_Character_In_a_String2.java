@@ -3,10 +3,9 @@
 
 package Week_6_Strings_and_Stringbuilders;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Maximum_Occurring_Character_In_a_String {
+public class Maximum_Occurring_Character_In_a_String2 {
     public static void main(String[] args) {
         // Create a scanner object to read input from the user
         Scanner sc = new Scanner(System.in);
