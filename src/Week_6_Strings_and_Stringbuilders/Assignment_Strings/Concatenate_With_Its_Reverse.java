@@ -1,3 +1,5 @@
+// Input a string and concatenate with its reverse string and print it.
+
 package Week_6_Strings_and_Stringbuilders.Assignment_Strings;
 
 import java.util.Scanner;
