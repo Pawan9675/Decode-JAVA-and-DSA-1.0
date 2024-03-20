@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings/First_Half_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Different_Neighbouring_Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Most_Occurring_Word_In_a_Sentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Split_Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/String_Compression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Check_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Convert_To_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Count_Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Reverse_Second_Half.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Update_Odd_Position_To_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Most_Occurring_Word_In_a_Sentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Most_Occurring_Word_In_a_Sentence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +57,12 @@
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
+    "Application.Check_Palindrome.executor": "Run",
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
     "Application.Contains_StartsWith.executor": "Run",
     "Application.Convert_Int_To_String.executor": "Run",
+    "Application.Convert_To_Integer.executor": "Run",
+    "Application.Count_Consonants.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
@@ -101,6 +103,7 @@
     "Application.Printing_Diagonals_Of_Matrix.executor": "Run",
     "Application.RangeQuery.executor": "Run",
     "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
+    "Application.Reverse_Second_Half.executor": "Run",
     "Application.Reverse_StringBuilder.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
     "Application.Rotate_90_AntiClockWise.executor": "Run",
@@ -136,8 +139,10 @@
     "Application.Transpose_Using_New_Matrix.executor": "Run",
     "Application.TraversalsThrough2DArray.executor": "Run",
     "Application.UpdateEvenPositions.executor": "Run",
+    "Application.Update_Odd_Position_To_Character.executor": "Run",
     "Application.Waveform_Printing.executor": "Run",
     "Application.What_and_Why_Strings.executor": "Run",
+    "Application.demo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -167,13 +172,13 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Most_Occurring_Word_In_a_Sentence">
-    <configuration name="Different_Neighbouring_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Different_Neighbouring_Character" />
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="Check_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Check_Palindrome" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Occurring_Character_In_a_String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Maximum_Occurring_Character_In_a_String1" />
+    <configuration name="Convert_To_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Convert_To_Integer" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Occurring_Character_In_a_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Maximum_Occurring_Character_In_a_String2" />
+    <configuration name="Count_Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Count_Consonants" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Most_Occurring_Word_In_a_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Most_Occurring_Word_In_a_Sentence" />
+    <configuration name="Reverse_Second_Half" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Reverse_Second_Half" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Split_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Split_Word" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.demo" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.*" />
+          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Different_Neighbouring_Character" />
-      <item itemvalue="Application.Maximum_Occurring_Character_In_a_String1" />
-      <item itemvalue="Application.Most_Occurring_Word_In_a_Sentence" />
-      <item itemvalue="Application.Split_Word" />
-      <item itemvalue="Application.Maximum_Occurring_Character_In_a_String2" />
+      <item itemvalue="Application.Check_Palindrome" />
+      <item itemvalue="Application.Convert_To_Integer" />
+      <item itemvalue="Application.Count_Consonants" />
+      <item itemvalue="Application.Reverse_Second_Half" />
+      <item itemvalue="Application.demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Most_Occurring_Word_In_a_Sentence" />
-        <item itemvalue="Application.Split_Word" />
-        <item itemvalue="Application.Maximum_Occurring_Character_In_a_String1" />
-        <item itemvalue="Application.Maximum_Occurring_Character_In_a_String2" />
-        <item itemvalue="Application.Different_Neighbouring_Character" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Convert_To_Integer" />
+        <item itemvalue="Application.Reverse_Second_Half" />
+        <item itemvalue="Application.Check_Palindrome" />
+        <item itemvalue="Application.Count_Consonants" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +269,7 @@
       <workItem from="1709403845477" duration="277000" />
       <workItem from="1709404139564" duration="377000" />
       <workItem from="1709409761614" duration="5000" />
+      <workItem from="1710948928153" duration="176000" />
     </task>
     <servers />
   </component>
