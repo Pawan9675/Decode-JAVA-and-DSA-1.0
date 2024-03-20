@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Check_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Convert_To_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Count_Consonants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Reverse_Second_Half.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Update_Odd_Position_To_Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Concatenate_With_Its_Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Most_Occurring_Word_In_a_Sentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Most_Occurring_Word_In_a_Sentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Convert_To_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Convert_To_Integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Assignment_Strings/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Convert_To_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Convert_To_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Assignment_Strings/demo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,7 @@
     "Application.BasicsOfArrays.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
     "Application.Check_Palindrome.executor": "Run",
+    "Application.Concatenate_With_Its_Reverse.executor": "Run",
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
     "Application.Contains_StartsWith.executor": "Run",
     "Application.Convert_Int_To_String.executor": "Run",
@@ -172,7 +171,7 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo">
+  <component name="RunManager" selected="Application.Concatenate_With_Its_Reverse">
     <configuration name="Check_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Check_Palindrome" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -186,8 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Convert_To_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Convert_To_Integer" />
+    <configuration name="Concatenate_With_Its_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Concatenate_With_Its_Reverse" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Count_Consonants" />
+    <configuration name="Convert_To_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Convert_To_Integer" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -240,18 +239,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Check_Palindrome" />
+      <item itemvalue="Application.Concatenate_With_Its_Reverse" />
       <item itemvalue="Application.Convert_To_Integer" />
-      <item itemvalue="Application.Count_Consonants" />
       <item itemvalue="Application.Reverse_Second_Half" />
       <item itemvalue="Application.demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Concatenate_With_Its_Reverse" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.Convert_To_Integer" />
         <item itemvalue="Application.Reverse_Second_Half" />
         <item itemvalue="Application.Check_Palindrome" />
-        <item itemvalue="Application.Count_Consonants" />
       </list>
     </recent_temporary>
   </component>

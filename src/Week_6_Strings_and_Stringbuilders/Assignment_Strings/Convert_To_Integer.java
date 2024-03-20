@@ -1,3 +1,4 @@
+// Input a string of length less than 10 and convert it into integer without using builtin function.
 package Week_6_Strings_and_Stringbuilders.Assignment_Strings;
 
 import java.util.Scanner;
