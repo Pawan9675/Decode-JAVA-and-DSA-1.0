@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_7_Time_and_Space_Complexity/Approximations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_Optimised_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Built_In_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/IsSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Selection_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Maximum_Lexicographical_Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_6_Strings_and_Stringbuilders/Assignment_Strings/Maximum_Lexicographical_Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +61,8 @@
     "Application.ArrayList_2D.executor": "Run",
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
+    "Application.Bubble_Sort.executor": "Run",
+    "Application.Built_In_Sort.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
     "Application.Check_Anagram.executor": "Run",
     "Application.Check_Palindrome.executor": "Run",
@@ -118,6 +124,7 @@
     "Application.Row_Of_Maximum_Sum.executor": "Run",
     "Application.Row_and_Column_Printing.executor": "Run",
     "Application.Second_Largest_Digit.executor": "Run",
+    "Application.Selection_Sort.executor": "Run",
     "Application.Smallest_Missing_Positive_Number.executor": "Run",
     "Application.SortSquares.executor": "Run",
     "Application.SortSquaresOfNumber_NonDecreasing.executor": "Run",
@@ -175,19 +182,20 @@
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\Practice_Array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Week_8_Basic_Sorting" />
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
       <recent name="Week_4_Arrays.Practice_Array" />
       <recent name="Week_4_Arrays.Assignment_Package" />
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Find_Duplicate_Approach_3">
-    <configuration name="Check_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Check_Anagram" />
+  <component name="RunManager" selected="Application.Selection_Sort">
+    <configuration name="Bubble_Sort_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Bubble_Sort_1" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
+          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Duplicate_Approach_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7_Time_and_Space_Complexity.Find_Duplicate_Approach_1" />
+    <configuration name="Built_In_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Built_In_Sort" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_7_Time_and_Space_Complexity.*" />
+          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Lexicographical_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.Maximum_Lexicographical_Word" />
+    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Selection_Sort" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6_Strings_and_Stringbuilders.Assignment_Strings.*" />
+          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Find_Duplicate_Approach_1" />
+      <item itemvalue="Application.Bubble_Sort_1" />
+      <item itemvalue="Application.Built_In_Sort" />
+      <item itemvalue="Application.Selection_Sort" />
       <item itemvalue="Application.Find_Duplicate_Approach_2" />
       <item itemvalue="Application.Find_Duplicate_Approach_3" />
-      <item itemvalue="Application.Check_Anagram" />
-      <item itemvalue="Application.Maximum_Lexicographical_Word" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Selection_Sort" />
+        <item itemvalue="Application.Bubble_Sort_1" />
+        <item itemvalue="Application.Built_In_Sort" />
         <item itemvalue="Application.Find_Duplicate_Approach_3" />
         <item itemvalue="Application.Find_Duplicate_Approach_2" />
-        <item itemvalue="Application.Find_Duplicate_Approach_1" />
-        <item itemvalue="Application.Maximum_Lexicographical_Word" />
-        <item itemvalue="Application.Check_Anagram" />
       </list>
     </recent_temporary>
   </component>
