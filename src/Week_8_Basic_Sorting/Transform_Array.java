@@ -1,18 +1,12 @@
-/*
-Time complexity :
-    Worst Case Time Complexity is: O(N^2)
-    Average Case Time Complexity is: O(N^2)
-    Best Case Time Complexity is: O(N^2)
+// Given an array with N distinct elements, convert the given array to a form where all elements are in the range
+// from 0 to N-1. The order of elements is the same, i.e., 0 is placed in the place of the smallest element, 1 is placed for
+//the second-smallest element, ... N-1 is placed for the largest element.
 
-Space Complexity : O(1)
-
-Stability? : Unstable
-*/
 package Week_8_Basic_Sorting;
 
 import java.util.Scanner;
 
-public class Selection_Sort {
+public class Transform_Array {
     public static void printArray(int[] arr){
         for (int element : arr){
             System.out.print(element + " ");
@@ -32,22 +26,25 @@ public class Selection_Sort {
         System.out.println("Original Array: ");
         printArray(arr);
 
-        for (int i = 0; i < n-1; i++) {
+        int x = 0;
+        for (int i = 0; i < n; i++) {
             int minValue = Integer.MAX_VALUE;
             int minIndex = -1;
-            for (int j = i; j < n; j++) {
-                if (arr[j] < minValue){
+            for (int j = 0; j < n; j++) {
+                if (arr[j] < minValue && arr[j] > 0){
                     minValue = arr[j];
                     minIndex = j;
                 }
             }
-
-            int temp = arr[i];
-            arr[i] = arr[minIndex];
-            arr[minIndex] = temp;
+            arr[minIndex] = x;
+            x--;
         }
 
-        System.out.println("Sorted Array: ");
+        for (int i = 0; i < n; i++) {
+            arr[i] *= -1;
+        }
+
+        System.out.println("Transformed Array: ");
         printArray(arr);
     }
 }

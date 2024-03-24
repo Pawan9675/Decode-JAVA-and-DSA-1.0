@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_Optimised_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Built_In_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/IsSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_vs_Selection_vs_Insertion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Decending_Using_Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Selection_Sort_With_Maximum_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Transform_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_7_Time_and_Space_Complexity/Find_Duplicate_Approach_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Selection_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Selection_Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Selection_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     "Application.Convert_To_Integer.executor": "Run",
     "Application.Count_Consonants.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
+    "Application.Decending_Using_Bubble_Sort.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
@@ -90,6 +89,7 @@
     "Application.Generate_Spiral.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
+    "Application.Insertion_Sort.executor": "Run",
     "Application.Interning_and_New_Keyword.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
     "Application.Largest_String.executor": "Run",
@@ -125,6 +125,7 @@
     "Application.Row_and_Column_Printing.executor": "Run",
     "Application.Second_Largest_Digit.executor": "Run",
     "Application.Selection_Sort.executor": "Run",
+    "Application.Selection_Sort_With_Maximum_Element.executor": "Run",
     "Application.Smallest_Missing_Positive_Number.executor": "Run",
     "Application.SortSquares.executor": "Run",
     "Application.SortSquaresOfNumber_NonDecreasing.executor": "Run",
@@ -189,9 +190,9 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Selection_Sort">
-    <configuration name="Bubble_Sort_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Bubble_Sort_1" />
+  <component name="RunManager" selected="Application.Transform_Array">
+    <configuration name="Decending_Using_Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Decending_Using_Bubble_Sort" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -203,38 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Built_In_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Built_In_Sort" />
+    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Insertion_Sort" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find_Duplicate_Approach_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7_Time_and_Space_Complexity.Find_Duplicate_Approach_2" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_7_Time_and_Space_Complexity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find_Duplicate_Approach_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7_Time_and_Space_Complexity.Find_Duplicate_Approach_3" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_7_Time_and_Space_Complexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,20 +230,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selection_Sort_With_Maximum_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Selection_Sort_With_Maximum_Element" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Transform_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Transform_Array" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Bubble_Sort_1" />
-      <item itemvalue="Application.Built_In_Sort" />
+      <item itemvalue="Application.Decending_Using_Bubble_Sort" />
+      <item itemvalue="Application.Insertion_Sort" />
+      <item itemvalue="Application.Selection_Sort_With_Maximum_Element" />
+      <item itemvalue="Application.Transform_Array" />
       <item itemvalue="Application.Selection_Sort" />
-      <item itemvalue="Application.Find_Duplicate_Approach_2" />
-      <item itemvalue="Application.Find_Duplicate_Approach_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Transform_Array" />
+        <item itemvalue="Application.Insertion_Sort" />
+        <item itemvalue="Application.Selection_Sort_With_Maximum_Element" />
+        <item itemvalue="Application.Decending_Using_Bubble_Sort" />
         <item itemvalue="Application.Selection_Sort" />
-        <item itemvalue="Application.Bubble_Sort_1" />
-        <item itemvalue="Application.Built_In_Sort" />
-        <item itemvalue="Application.Find_Duplicate_Approach_3" />
-        <item itemvalue="Application.Find_Duplicate_Approach_2" />
       </list>
     </recent_temporary>
   </component>

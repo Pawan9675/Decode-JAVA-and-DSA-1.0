@@ -1,18 +1,10 @@
-/*
-Time complexity :
-    Worst Case Time Complexity is: O(N^2)
-    Average Case Time Complexity is: O(N^2)
-    Best Case Time Complexity is: O(N^2)
-
-Space Complexity : O(1)
-
-Stability? : Unstable
-*/
+// Sort a given Array in increasing order using selection sort, but in each pass,
+// put the kth maximum element at the right position.
 package Week_8_Basic_Sorting;
 
 import java.util.Scanner;
 
-public class Selection_Sort {
+public class Selection_Sort_With_Maximum_Element {
     public static void printArray(int[] arr){
         for (int element : arr){
             System.out.print(element + " ");
@@ -32,19 +24,19 @@ public class Selection_Sort {
         System.out.println("Original Array: ");
         printArray(arr);
 
-        for (int i = 0; i < n-1; i++) {
-            int minValue = Integer.MAX_VALUE;
-            int minIndex = -1;
-            for (int j = i; j < n; j++) {
-                if (arr[j] < minValue){
-                    minValue = arr[j];
-                    minIndex = j;
+        for (int i = n-1; i > 0; i--) {
+            int maxValue = Integer.MIN_VALUE;
+            int maxIndex = -1;
+            for (int j = i; j >= 0; j--) {
+                if (arr[j] > maxValue){
+                    maxValue = arr[j];
+                    maxIndex = j;
                 }
             }
 
             int temp = arr[i];
-            arr[i] = arr[minIndex];
-            arr[minIndex] = temp;
+            arr[i] = arr[maxIndex];
+            arr[maxIndex] = temp;
         }
 
         System.out.println("Sorted Array: ");
