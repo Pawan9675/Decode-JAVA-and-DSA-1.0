@@ -15,9 +15,7 @@ public class Built_In_Sort {
         }
 
         System.out.println("Original Array: " + Arrays.toString(arr));
-        Arrays.sort(arr);
+        Arrays.sort(arr);               // Time Complexity of Arrays.sort(arr) : O(N*log(N))
         System.out.println("Sorted Array: " + Arrays.toString(arr));
-
-
     }
 }
