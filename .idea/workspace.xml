@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Addition_and_Multiplication_Of_Two_Matrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Reverse_Each_Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Transpose_Of_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Built_In_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Built_In_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_Optimised_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Bubble_Sort_Optimised_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

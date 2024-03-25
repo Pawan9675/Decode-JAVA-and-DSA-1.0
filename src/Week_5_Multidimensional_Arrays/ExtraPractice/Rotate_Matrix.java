@@ -22,7 +22,7 @@ public class Rotate_Matrix {
         }
     }
     public static void reverse(int[]arr){
-        int i =
+
     }
     public static void rotateMatrix(int[][] matrix, int n){
         transposeInPlace(matrix, n, n);
