@@ -55,7 +55,7 @@ public class Bubble_Sort_Optimised_3 {
 /*
 Observation :
     1. In each pass the nth maximum element goes to its right position.
-    2. If there are 'n' elements, then we require 'n-1' passes to sort.
+    2. If there are 'n' elements, then we require at most 'n-1' passes to sort.
 
 Algorithm:
     In each pass, swap two adjacent elements if arr[i] > arr[i+1].
