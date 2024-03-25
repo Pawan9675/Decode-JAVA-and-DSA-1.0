@@ -6,7 +6,7 @@ package Week_8_Basic_Sorting;
 
 import java.util.Scanner;
 
-public class Transform_Array {
+public class Transform_Array_Approach_2 {
     public static void printArray(int[] arr){
         for (int element : arr){
             System.out.print(element + " ");
@@ -27,7 +27,7 @@ public class Transform_Array {
         printArray(arr);
 
         int x = 0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {                       // Selection Sort
             int minValue = Integer.MAX_VALUE;
             int minIndex = -1;
             for (int j = 0; j < n; j++) {
