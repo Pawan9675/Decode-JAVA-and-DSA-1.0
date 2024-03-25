@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Transform_Array_Approach_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Transform_Array_Approach_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Pascal_Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Transform_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Zeroes_To_End_Maintaining_Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Zeroes_To_End_Maintaining_Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Transform_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Transform_Array_Approach_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Rotate_Matrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +106,7 @@
     "Application.NumberSpiral.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
+    "Application.Pascal_Triangle.executor": "Run",
     "Application.Plus_Operator.executor": "Run",
     "Application.PrefixSum.executor": "Run",
     "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
@@ -120,6 +119,7 @@
     "Application.Reverse_StringBuilder.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
     "Application.Rotate_90_AntiClockWise.executor": "Run",
+    "Application.Rotate_Matrix.executor": "Run",
     "Application.Rotate_Matrix_By_90_Degree.executor": "Run",
     "Application.Row_Of_Maximum_Sum.executor": "Run",
     "Application.Row_and_Column_Printing.executor": "Run",
@@ -196,13 +196,26 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Transform_Array_Approach_3">
-    <configuration name="Sort_String_Decreasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Sort_String_Decreasing" />
+  <component name="RunManager" selected="Application.Pascal_Triangle">
+    <configuration name="Pascal_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Pascal_Triangle" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rotate_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Rotate_Matrix" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +249,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Transpose_Of_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Transpose_Of_Matrix" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zeroes_To_End_Maintaining_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Zeroes_To_End_Maintaining_Order" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -263,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sort_String_Decreasing" />
+      <item itemvalue="Application.Pascal_Triangle" />
+      <item itemvalue="Application.Rotate_Matrix" />
       <item itemvalue="Application.Transform_Array_Approach_1" />
       <item itemvalue="Application.Transform_Array_Approach_3" />
       <item itemvalue="Application.Zeroes_To_End_Maintaining_Order" />
-      <item itemvalue="Application.Transpose_Of_Matrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pascal_Triangle" />
+        <item itemvalue="Application.Rotate_Matrix" />
         <item itemvalue="Application.Transform_Array_Approach_3" />
         <item itemvalue="Application.Transform_Array_Approach_1" />
         <item itemvalue="Application.Zeroes_To_End_Maintaining_Order" />
-        <item itemvalue="Application.Sort_String_Decreasing" />
-        <item itemvalue="Application.Transpose_Of_Matrix" />
       </list>
     </recent_temporary>
   </component>

@@ -6,7 +6,7 @@ public class Rotate_Matrix {
     public static void printMatrix(int[][] matrix) {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
-                System.out.print(matrix[i][j] + " ");
+                System.out.print(matrix[i][j] + "\t");
             }
             System.out.println();
         }
@@ -22,7 +22,14 @@ public class Rotate_Matrix {
         }
     }
     public static void reverse(int[]arr){
-
+        int i = 0, j = arr.length-1;
+        while (i<j){
+            int temp = arr[i];
+            arr[i]= arr[j];
+            arr[j] = temp;
+            i++;
+            j--;
+        }
     }
     public static void rotateMatrix(int[][] matrix, int n){
         transposeInPlace(matrix, n, n);
@@ -30,6 +37,9 @@ public class Rotate_Matrix {
         for (int i = 0; i < n; i++) {
             reverse(matrix[i]);
         }
+
+        System.out.println("Rotated Matrix: ");
+        printMatrix(matrix);
     }
 
 
@@ -52,6 +62,8 @@ public class Rotate_Matrix {
 
         System.out.println("Original Matrix: ");
         printMatrix(mat);
+
+        rotateMatrix(mat, n);
 
     }
 }
