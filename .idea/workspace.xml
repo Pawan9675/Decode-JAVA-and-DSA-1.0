@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Almost_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Decending_Using_Bubble_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Minimum_Sum_From_Digits_Of_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Sort_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/KthSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Sorted_After_Subtracting_K.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Sorted_After_Subtracting_K.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +91,7 @@
     "Application.Insertion_Sort.executor": "Run",
     "Application.Interning_and_New_Keyword.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
+    "Application.KthSmallest.executor": "Run",
     "Application.Largest_String.executor": "Run",
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
@@ -214,7 +211,7 @@
       <recent name="Week_4_Arrays.Assignment_Package" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sort_String">
+  <component name="RunManager" selected="Application.KthSmallest">
     <configuration name="Almost_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.Almost_Sorted_Array" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -230,6 +227,19 @@
     </configuration>
     <configuration name="Decending_Using_Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.Decending_Using_Bubble_Sort" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.KthSmallest" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -267,33 +277,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorted_After_Subtracting_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Sorted_After_Subtracting_K" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Almost_Sorted_Array" />
       <item itemvalue="Application.Decending_Using_Bubble_Sort" />
+      <item itemvalue="Application.KthSmallest" />
       <item itemvalue="Application.Minimum_Sum_From_Digits_Of_Array" />
       <item itemvalue="Application.Sort_String" />
-      <item itemvalue="Application.Sorted_After_Subtracting_K" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthSmallest" />
         <item itemvalue="Application.Sort_String" />
         <item itemvalue="Application.Minimum_Sum_From_Digits_Of_Array" />
         <item itemvalue="Application.Almost_Sorted_Array" />
         <item itemvalue="Application.Decending_Using_Bubble_Sort" />
-        <item itemvalue="Application.Sorted_After_Subtracting_K" />
       </list>
     </recent_temporary>
   </component>
