@@ -1,0 +1,4 @@
+package Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum;
+
+public class Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols {
+}

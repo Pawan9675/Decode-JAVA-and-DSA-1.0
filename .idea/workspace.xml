@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Spiral_Matrix_Generation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Spiral_Matrix_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_Brute_Force_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Sorted_After_Subtracting_K.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +57,7 @@
     "Application.ArrayList_2D.executor": "Run",
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
+    "Application.BinaryTriangle.executor": "Run",
     "Application.Bubble_Sort.executor": "Run",
     "Application.Built_In_Sort.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
@@ -82,7 +85,9 @@
     "Application.FirstRepeatingElement.executor": "Run",
     "Application.FirstRepeatingNumbers.executor": "Run",
     "Application.First_Half_Reverse.executor": "Run",
+    "Application.FloydsTriangle.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
+    "Application.Hallow_Hourglass_Pattern.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
     "Application.Insertion_Sort.executor": "Run",
@@ -103,6 +108,8 @@
     "Application.Move_All_Zeroes_To_End.executor": "Run",
     "Application.Multiplication_Of_Matrix.executor": "Run",
     "Application.NumberSpiral.executor": "Run",
+    "Application.Number_Triangular.executor": "Run",
+    "Application.OddNumberTriangle.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
     "Application.Pascal_Triangle.executor": "Run",
@@ -111,11 +118,14 @@
     "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
     "Application.Print_All_Substring.executor": "Run",
     "Application.Printing_Diagonals_Of_Matrix.executor": "Run",
+    "Application.Question13.executor": "Run",
+    "Application.Question14.executor": "Run",
     "Application.RangeQuery.executor": "Run",
     "Application.Reverse_Each_Row.executor": "Run",
     "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
     "Application.Reverse_Second_Half.executor": "Run",
     "Application.Reverse_StringBuilder.executor": "Run",
+    "Application.Right_Pascal_Triangle.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
     "Application.Rotate_90_AntiClockWise.executor": "Run",
     "Application.Rotate_Matrix.executor": "Run",
@@ -132,10 +142,14 @@
     "Application.Sort_0_and_1_Method2.executor": "Run",
     "Application.Sort_Even_and_Odd.executor": "Run",
     "Application.Sort_String_Decreasing.executor": "Run",
+    "Application.Sorted_After_Subtracting_K.executor": "Run",
     "Application.Sorting_String_And_StringBuilders.executor": "Run",
     "Application.Spiral_Matrix.executor": "Run",
+    "Application.Spiral_Matrix_Generation.executor": "Run",
     "Application.Spiral_Matrix_Traversal.executor": "Run",
     "Application.Split_Word.executor": "Run",
+    "Application.StarTriangle.executor": "Run",
+    "Application.StarTriangleFlipped.executor": "Run",
     "Application.String_Array.executor": "Run",
     "Application.String_Builders.executor": "Run",
     "Application.String_Compression.executor": "Run",
@@ -196,13 +210,13 @@
       <recent name="Week_4_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Spiral_Matrix_Generation">
-    <configuration name="Pascal_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Pascal_Triangle" />
+  <component name="RunManager" selected="Application.Sorted_After_Subtracting_K">
+    <configuration name="Number_Triangular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_3_Patterns.GeeksForGeeks_Pattern.Number_Triangular" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
+          <option name="PATTERN" value="Week_3_Patterns.GeeksForGeeks_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Rotate_Matrix" />
+    <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_3_Patterns.Assignment_Pattern.Question13" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
+          <option name="PATTERN" value="Week_3_Patterns.Assignment_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix_Generation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Spiral_Matrix_Generation" />
+    <configuration name="Question14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_3_Patterns.Assignment_Pattern.Question14" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
+          <option name="PATTERN" value="Week_3_Patterns.Assignment_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,21 +250,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Spiral_Matrix_Traversal" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Transform_Array_Approach_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Transform_Array_Approach_3" />
+    <configuration name="Sorted_After_Subtracting_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Sorted_After_Subtracting_K" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -262,20 +263,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StarTriangleFlipped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_3_Patterns.StarTriangleFlipped" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_3_Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Spiral_Matrix_Generation" />
-      <item itemvalue="Application.Spiral_Matrix_Traversal" />
-      <item itemvalue="Application.Pascal_Triangle" />
-      <item itemvalue="Application.Rotate_Matrix" />
-      <item itemvalue="Application.Transform_Array_Approach_3" />
+      <item itemvalue="Application.Sorted_After_Subtracting_K" />
+      <item itemvalue="Application.Number_Triangular" />
+      <item itemvalue="Application.Question13" />
+      <item itemvalue="Application.Question14" />
+      <item itemvalue="Application.StarTriangleFlipped" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Spiral_Matrix_Generation" />
-        <item itemvalue="Application.Spiral_Matrix_Traversal" />
-        <item itemvalue="Application.Pascal_Triangle" />
-        <item itemvalue="Application.Rotate_Matrix" />
-        <item itemvalue="Application.Transform_Array_Approach_3" />
+        <item itemvalue="Application.Sorted_After_Subtracting_K" />
+        <item itemvalue="Application.Number_Triangular" />
+        <item itemvalue="Application.Question13" />
+        <item itemvalue="Application.Question14" />
+        <item itemvalue="Application.StarTriangleFlipped" />
       </list>
     </recent_temporary>
   </component>
