@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +162,8 @@
     "Application.Sum_Of_Even_and_Odd_Indices.executor": "Run",
     "Application.Sum_Of_Rectangle_In_Matrix.executor": "Run",
     "Application.Sum_Of_Rectangle_Using_Brute_Force_Method.executor": "Run",
+    "Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row.executor": "Run",
+    "Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.executor": "Run",
     "Application.Sum_and_Product_Of_Elements_In_Array.executor": "Run",
     "Application.ThreeLargest.executor": "Run",
     "Application.ToLower_and_Concat.executor": "Run",
@@ -212,22 +214,9 @@
       <recent name="Week_4_Arrays.Assignment_Package" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row">
+  <component name="RunManager" selected="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols">
     <configuration name="KthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.KthSmallest" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sort_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.Sort_String" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -278,20 +267,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
       <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_Brute_Force_Method" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
       <item itemvalue="Application.KthSmallest" />
-      <item itemvalue="Application.Sort_String" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_Brute_Force_Method" />
         <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
         <item itemvalue="Application.KthSmallest" />
-        <item itemvalue="Application.Sort_String" />
       </list>
     </recent_temporary>
   </component>
