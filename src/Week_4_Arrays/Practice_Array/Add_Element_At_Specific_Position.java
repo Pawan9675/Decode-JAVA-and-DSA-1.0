@@ -18,6 +18,12 @@ public class Add_Element_At_Specific_Position {
         System.out.print("Enter the position of the element: ");
         int position = sc.nextInt(); // Read the position where the element should be inserted
 
+        System.out.println("Arrays before insertion: ");
+        for (int i = 0; i < n; i++) {
+            System.out.print(arr[i]+" "); // Print the array before insertion
+        }
+        System.out.println();
+
         // Shift elements to the right from position to n-1
         for (int i = n - 1; i >= position; i--) {
             arr[i + 1] = arr[i]; // Move each element one position to the right starting from the last element
@@ -29,11 +35,7 @@ public class Add_Element_At_Specific_Position {
         // Increment the size of the array
         n++; // Increase the size of the array since a new element is added
 
-        System.out.println("Arrays before insertion: ");
-        for (int i = 0; i < n; i++) {
-            System.out.print(arr[i]+" "); // Print the array before insertion
-        }
-        System.out.println();
+
 
         System.out.println("Arrays after insertion: ");
         for (int i = 0; i < n; i++) {

@@ -16,19 +16,21 @@ public class Delete_Element_At_Specific_Position {
         System.out.print("Enter the position of the element to be deleted: ");
         int position = sc.nextInt(); // Read the position of the element to be deleted
 
-        // Shift elements to the left from position+1 to n-1
-        for (int i = position + 1; i <= n - 1; i++) {
-            arr[i - 1] = arr[i]; // Move each element one position to the left starting from the position+1
-        }
-
-        // Decrement the size of the array
-        n--; // Decrease the size of the array since an element is deleted
-
         System.out.println("Arrays before deletion: ");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i]+" "); // Print the array before deletion
         }
         System.out.println();
+
+        // Shift elements to the left from position+1 to n-1
+        for (int i = position ; i <= n - 1; i++) {
+            arr[i] = arr[i+1]; // Move each element one position to the left starting from the position+1
+        }
+
+        // Decrement the size of the array
+        n--; // Decrease the size of the array since an element is deleted
+
+
 
         System.out.println("Arrays after deletion: ");
         for (int i = 0; i < n; i++) {
