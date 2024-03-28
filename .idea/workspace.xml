@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Minimum_Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Minimum_Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Minimum_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Minimum_Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/Add_Element_At_Specific_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/Delete_Element_At_Specific_Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Add_Element_At_Specific_Position.executor": "Run",
     "Application.Addition_Of_Two_Matrices.executor": "Run",
     "Application.Addition_Of_Two_Matrices_With_Using_Extra_Array.executor": "Run",
     "Application.Addition_and_Multiplication_Of_Two_Matrices.executor": "Run",
@@ -69,6 +71,7 @@
     "Application.Count_Consonants.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
     "Application.Decending_Using_Bubble_Sort.executor": "Run",
+    "Application.Delete_Element_At_Specific_Position.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
@@ -215,39 +218,39 @@
       <recent name="Week_4_Arrays.Assignment_Package" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Minimum_Operation">
+  <component name="RunManager" selected="Application.Delete_Element_At_Specific_Position">
+    <configuration name="Add_Element_At_Specific_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Practice_Array.Add_Element_At_Specific_Position" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4_Arrays.Practice_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Delete_Element_At_Specific_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Practice_Array.Delete_Element_At_Specific_Position" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4_Arrays.Practice_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Minimum_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.Minimum_Operation" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_Of_Rectangle_In_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.Sum_Of_Rectangle_In_Matrix" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_Of_Rectangle_Using_Brute_Force_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.Sum_Of_Rectangle_Using_Brute_Force_Method" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +285,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Add_Element_At_Specific_Position" />
+      <item itemvalue="Application.Delete_Element_At_Specific_Position" />
       <item itemvalue="Application.Minimum_Operation" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
-      <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
-      <item itemvalue="Application.Sum_Of_Rectangle_Using_Brute_Force_Method" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Delete_Element_At_Specific_Position" />
+        <item itemvalue="Application.Add_Element_At_Specific_Position" />
         <item itemvalue="Application.Minimum_Operation" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
-        <item itemvalue="Application.Sum_Of_Rectangle_Using_Brute_Force_Method" />
-        <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
       </list>
     </recent_temporary>
   </component>
