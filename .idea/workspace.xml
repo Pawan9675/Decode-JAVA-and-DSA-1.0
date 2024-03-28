@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/Delete_Element_At_Specific_Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4_Arrays/Practice_Array/Delete_Element_At_Specific_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Convert_1D_To_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Reverse_Each_Row.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Search_In_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Searching_In_Sorted_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Sum_Of_Rectangle_In_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +139,8 @@
     "Application.Rotate_Matrix_By_90_Degree.executor": "Run",
     "Application.Row_Of_Maximum_Sum.executor": "Run",
     "Application.Row_and_Column_Printing.executor": "Run",
+    "Application.Search_In_Matrix.executor": "Run",
+    "Application.Searching_In_Sorted_Matrix.executor": "Run",
     "Application.Second_Largest_Digit.executor": "Run",
     "Application.Selection_Sort.executor": "Run",
     "Application.Selection_Sort_With_Maximum_Element.executor": "Run",
@@ -209,14 +216,14 @@
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\Practice_Array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Week_5_Multidimensional_Arrays.Practice_Matrix" />
       <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
       <recent name="Week_8_Basic_Sorting" />
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
       <recent name="Week_4_Arrays.Practice_Array" />
-      <recent name="Week_4_Arrays.Assignment_Package" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Add_Element_At_Specific_Position">
+  <component name="RunManager" selected="Application.Searching_In_Sorted_Matrix">
     <configuration name="Add_Element_At_Specific_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Practice_Array.Add_Element_At_Specific_Position" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -230,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delete_Element_At_Specific_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Practice_Array.Delete_Element_At_Specific_Position" />
+    <configuration name="Reverse_Each_Row" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Reverse_Each_Row" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4_Arrays.Practice_Array.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.Minimum_Operation" />
+    <configuration name="Search_In_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Search_In_Matrix" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
+    <configuration name="Searching_In_Sorted_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Searching_In_Sorted_Matrix" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
+    <configuration name="Sum_Of_Rectangle_In_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Sum_Of_Rectangle_In_Matrix" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.ExtraPractice.Prefix_Sum.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,18 +291,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Add_Element_At_Specific_Position" />
-      <item itemvalue="Application.Delete_Element_At_Specific_Position" />
-      <item itemvalue="Application.Minimum_Operation" />
-      <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
-      <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
+      <item itemvalue="Application.Reverse_Each_Row" />
+      <item itemvalue="Application.Search_In_Matrix" />
+      <item itemvalue="Application.Searching_In_Sorted_Matrix" />
+      <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Searching_In_Sorted_Matrix" />
+        <item itemvalue="Application.Reverse_Each_Row" />
+        <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
+        <item itemvalue="Application.Search_In_Matrix" />
         <item itemvalue="Application.Add_Element_At_Specific_Position" />
-        <item itemvalue="Application.Delete_Element_At_Specific_Position" />
-        <item itemvalue="Application.Minimum_Operation" />
-        <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
-        <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
       </list>
     </recent_temporary>
   </component>
