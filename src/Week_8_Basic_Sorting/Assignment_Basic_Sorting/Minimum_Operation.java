@@ -6,19 +6,21 @@ package Week_8_Basic_Sorting.Assignment_Basic_Sorting;
 import java.util.Scanner;
 
 public class Minimum_Operation {
-    public static boolean isSorted (int[] arr){
-        for (int i = 0; i < arr.length-1; i++) {
-            if (arr[i] > arr[i+1]) return false;
+    public static boolean isSorted(int[] arr) {
+        for (int i = 0; i < arr.length - 1; i++) {
+            if (arr[i] > arr[i + 1]) return false;
         }
         return true;
     }
-    public static void setZero (int[] arr, int temp){
+
+    public static void setZero(int[] arr, int temp) {
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == temp){
+            if (arr[i] == temp) {
                 arr[i] = 0;
             }
         }
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the Array: ");
@@ -31,9 +33,9 @@ public class Minimum_Operation {
 
         int noOfOperation = 0;
 
-        while (!isSorted(arr)){
-            for (int i = 0; i < arr.length-1; i++) {
-                if (arr[i] > arr[i+1]){
+        while (!isSorted(arr)) {
+            for (int i = 0; i < arr.length - 1; i++) {
+                if (arr[i] > arr[i + 1]) {
                     int temp = arr[i];
                     setZero(arr, temp);
                     noOfOperation++;
@@ -42,6 +44,6 @@ public class Minimum_Operation {
             }
         }
 
-        System.out.println("Minimum operations required to sort the array in increasing order: "+noOfOperation);
+        System.out.println("Minimum operations required to sort the array in increasing order: " + noOfOperation);
     }
 }
