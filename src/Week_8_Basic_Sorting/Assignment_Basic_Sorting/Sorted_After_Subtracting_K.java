@@ -25,7 +25,7 @@ Mathematics used in this Question:
                 k < (am + am-1)/2 --> Max
 
 */
-package Week_8_Basic_Sorting;
+package Week_8_Basic_Sorting.Assignment_Basic_Sorting;
 
 import java.util.Scanner;
 

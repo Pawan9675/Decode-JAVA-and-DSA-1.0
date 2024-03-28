@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/ExtraPractice/Prefix_Sum/Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Assignment_Basic_Sorting/Minimum_Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Sorted_After_Subtracting_K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Sorted_After_Subtracting_K.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +101,7 @@
     "Application.Maximum_Occurring_Character_In_a_String1.executor": "Run",
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
+    "Application.Minimum_Operation.executor": "Run",
     "Application.Minimum_Sum_From_Digits_Of_Array.executor": "Run",
     "Application.MissingElement.executor": "Run",
     "Application.Modify_Character_In_String.executor": "Run",
@@ -213,9 +216,9 @@
       <recent name="Week_4_Arrays.Assignment_Package" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols">
-    <configuration name="KthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.KthSmallest" />
+  <component name="RunManager" selected="Application.Minimum_Operation">
+    <configuration name="Minimum_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Assignment_Basic_Sorting.Minimum_Operation" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -280,19 +283,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Minimum_Operation" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
       <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_Brute_Force_Method" />
       <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
-      <item itemvalue="Application.KthSmallest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Operation" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row" />
         <item itemvalue="Application.Sum_Of_Rectangle_Using_Brute_Force_Method" />
         <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
-        <item itemvalue="Application.KthSmallest" />
       </list>
     </recent_temporary>
   </component>
