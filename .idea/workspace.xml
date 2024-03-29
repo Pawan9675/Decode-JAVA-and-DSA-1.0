@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Convert_1D_To_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Reverse_Each_Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Search_In_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Searching_In_Sorted_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Sum_Of_Rectangle_In_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Lower_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Upper_Bound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Practice_Matrix/Searching_In_Sorted_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Practice_Matrix/Searching_In_Sorted_Matrix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
+    "Application.Binary_Search.executor": "Run",
     "Application.Bubble_Sort.executor": "Run",
     "Application.Built_In_Sort.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
@@ -100,6 +101,7 @@
     "Application.KthSmallest.executor": "Run",
     "Application.Largest_String.executor": "Run",
     "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
+    "Application.Lower_Bound.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
     "Application.Maximum_Lexicographical_Word.executor": "Run",
     "Application.Maximum_Occurring_Character_In_a_String.executor": "Run",
@@ -189,6 +191,7 @@
     "Application.TraversalsThrough2DArray.executor": "Run",
     "Application.UpdateEvenPositions.executor": "Run",
     "Application.Update_Odd_Position_To_Character.executor": "Run",
+    "Application.Upper_Bound.executor": "Run",
     "Application.Waveform_Printing.executor": "Run",
     "Application.What_and_Why_Strings.executor": "Run",
     "Application.Zeroes_To_End_Maintaining_Order.executor": "Run",
@@ -216,20 +219,33 @@
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\Practice_Array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Week_9_Binary_Search" />
       <recent name="Week_5_Multidimensional_Arrays.Practice_Matrix" />
       <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
       <recent name="Week_8_Basic_Sorting" />
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
-      <recent name="Week_4_Arrays.Practice_Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Searching_In_Sorted_Matrix">
-    <configuration name="Add_Element_At_Specific_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4_Arrays.Practice_Array.Add_Element_At_Specific_Position" />
+  <component name="RunManager" selected="Application.Upper_Bound">
+    <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Binary_Search" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4_Arrays.Practice_Array.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lower_Bound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Lower_Bound" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +255,6 @@
     </configuration>
     <configuration name="Reverse_Each_Row" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Reverse_Each_Row" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search_In_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Search_In_Matrix" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -276,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Of_Rectangle_In_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Sum_Of_Rectangle_In_Matrix" />
+    <configuration name="Upper_Bound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Upper_Bound" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Add_Element_At_Specific_Position" />
+      <item itemvalue="Application.Binary_Search" />
+      <item itemvalue="Application.Lower_Bound" />
+      <item itemvalue="Application.Upper_Bound" />
       <item itemvalue="Application.Reverse_Each_Row" />
-      <item itemvalue="Application.Search_In_Matrix" />
       <item itemvalue="Application.Searching_In_Sorted_Matrix" />
-      <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Upper_Bound" />
+        <item itemvalue="Application.Lower_Bound" />
+        <item itemvalue="Application.Binary_Search" />
         <item itemvalue="Application.Searching_In_Sorted_Matrix" />
         <item itemvalue="Application.Reverse_Each_Row" />
-        <item itemvalue="Application.Sum_Of_Rectangle_In_Matrix" />
-        <item itemvalue="Application.Search_In_Matrix" />
-        <item itemvalue="Application.Add_Element_At_Specific_Position" />
       </list>
     </recent_temporary>
   </component>
