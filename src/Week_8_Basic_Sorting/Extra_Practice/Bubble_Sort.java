@@ -22,7 +22,7 @@ TIME COMPLEXITY:
 
 SPACE COMPLEXITY - O(1).
 
-Maximum no of swaps in worst case in Bubble Sort - n(n-1)/2.
+Maximum no. of swaps in worst case in Bubble Sort - n(n-1)/2.
 
 Is Bubble sort stable? - YES.
 
