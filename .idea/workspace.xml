@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Multiplication_Of_Two_Matrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Rotate_90_AntiClockWise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Toeplitz_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Extra_Practice/Bubble_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
     "Application.BasicsOfArrays.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
     "Application.Binary_Search.executor": "Run",
-    "Application.Bubble_Sort.executor": "Run",
+    "Application.Bubble_Sort.executor": "Debug",
     "Application.Built_In_Sort.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
     "Application.Check_Anagram.executor": "Run",
@@ -226,13 +224,13 @@
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Toeplitz_Matrix">
-    <configuration name="Lower_Bound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Lower_Bound" />
+  <component name="RunManager" selected="Application.Bubble_Sort">
+    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Extra_Practice.Bubble_Sort" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.*" />
+          <option name="PATTERN" value="Week_8_Basic_Sorting.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,19 +291,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Bubble_Sort" />
       <item itemvalue="Application.Multiplication_Of_Two_Matrices" />
       <item itemvalue="Application.Rotate_90_AntiClockWise" />
       <item itemvalue="Application.Toeplitz_Matrix" />
-      <item itemvalue="Application.Lower_Bound" />
       <item itemvalue="Application.Upper_Bound" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_Sort" />
         <item itemvalue="Application.Toeplitz_Matrix" />
         <item itemvalue="Application.Rotate_90_AntiClockWise" />
         <item itemvalue="Application.Multiplication_Of_Two_Matrices" />
         <item itemvalue="Application.Upper_Bound" />
-        <item itemvalue="Application.Lower_Bound" />
       </list>
     </recent_temporary>
   </component>
