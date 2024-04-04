@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Extra_Practice/Lexicographically_Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_8_Basic_Sorting/Extra_Practice/Move_Zeroes_To_End.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/IntervalMerge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Practice_Matrix/Diagonal_Traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Practice_Matrix/Diagonal_Traversal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +94,7 @@
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
     "Application.Insertion_Sort.executor": "Run",
     "Application.Interning_and_New_Keyword.executor": "Run",
+    "Application.IntervalMerge.executor": "Run",
     "Application.IsSortedArray.executor": "Run",
     "Application.KthSmallest.executor": "Run",
     "Application.Largest_String.executor": "Run",
@@ -119,6 +118,7 @@
     "Application.Multiplication_Of_Matrix.executor": "Run",
     "Application.Multiplication_Of_Two_Matrices.executor": "Run",
     "Application.NumberSpiral.executor": "Run",
+    "Application.Number_Of_NonOverlap_Interval.executor": "Run",
     "Application.Number_Triangular.executor": "Run",
     "Application.OddNumberTriangle.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
@@ -229,13 +229,13 @@
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lexicographically_Sorting">
-    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Extra_Practice.Bubble_Sort" />
+  <component name="RunManager" selected="Application.IntervalMerge">
+    <configuration name="Diagonal_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Diagonal_Traversal" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Diagonal_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Diagonal_Traversal" />
+    <configuration name="IntervalMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.IntervalMerge" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -261,7 +261,7 @@
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,7 +274,7 @@
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_8_Basic_Sorting.Extra_Practice.Selection_Sort" />
+    <configuration name="Number_Of_NonOverlap_Interval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Number_Of_NonOverlap_Interval" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_8_Basic_Sorting.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,18 +297,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Diagonal_Traversal" />
+      <item itemvalue="Application.IntervalMerge" />
       <item itemvalue="Application.Lexicographically_Sorting" />
       <item itemvalue="Application.Move_Zeroes_To_End" />
-      <item itemvalue="Application.Selection_Sort" />
-      <item itemvalue="Application.Bubble_Sort" />
+      <item itemvalue="Application.Number_Of_NonOverlap_Interval" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntervalMerge" />
+        <item itemvalue="Application.Number_Of_NonOverlap_Interval" />
         <item itemvalue="Application.Lexicographically_Sorting" />
         <item itemvalue="Application.Move_Zeroes_To_End" />
         <item itemvalue="Application.Diagonal_Traversal" />
-        <item itemvalue="Application.Selection_Sort" />
-        <item itemvalue="Application.Bubble_Sort" />
       </list>
     </recent_temporary>
   </component>
