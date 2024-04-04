@@ -55,9 +55,6 @@ public class IntervalMerge {
             intervals[i][1] = scanner.nextInt();
         }
 
-        // Close the scanner
-        scanner.close();
-
         // Call the mergeIntervalsAndCount function to merge intervals and get the merged intervals
         List<int[]> mergedIntervals = mergeIntervalsAndCount(intervals);
 
