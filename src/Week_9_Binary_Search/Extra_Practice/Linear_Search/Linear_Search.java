@@ -1,3 +1,14 @@
+/*
+Best Case Time Complexity of Linear Search: O(1)
+Average Case Time Complexity of Linear Search: O(N)
+Worst Case Time Complexity of Linear Search: O(N)
+
+Space Complexity of Linear Search: O(1)
+
+Number of comparisons in Best Case: 1
+Number of comparisons in Average Case: N/2 + N/(N+1)
+Number of comparisons in Worst Case: N
+*/
 package Week_9_Binary_Search.Extra_Practice.Linear_Search;
 
 import java.util.Scanner;
