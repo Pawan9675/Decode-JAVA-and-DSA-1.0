@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Perfect_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/PrefixSum_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5_Multidimensional_Arrays/Practice_Matrix/Print_Upper_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/First_Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Last_Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Precision_Square_Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Square_Root.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Extra_Practice/Linear_Search/Linear_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Extra_Practice/Linear_Search/Linear_Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Practice_Matrix/Print_Upper_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_5_Multidimensional_Arrays/Practice_Matrix/Print_Upper_Matrix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +92,7 @@
     "Application.FirstRepeatingElement.executor": "Run",
     "Application.FirstRepeatingNumbers.executor": "Run",
     "Application.First_Half_Reverse.executor": "Run",
+    "Application.First_Occurrence.executor": "Run",
     "Application.FloydsTriangle.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
     "Application.Hallow_Hourglass_Pattern.executor": "Run",
@@ -130,6 +133,7 @@
     "Application.Pascal_Triangle.executor": "Run",
     "Application.Perfect_Matrix.executor": "Run",
     "Application.Plus_Operator.executor": "Run",
+    "Application.Precision_Square_Root.executor": "Run",
     "Application.PrefixSum.executor": "Run",
     "Application.PrefixSum_2D.executor": "Run",
     "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
@@ -171,6 +175,7 @@
     "Application.Spiral_Matrix_Generation.executor": "Run",
     "Application.Spiral_Matrix_Traversal.executor": "Run",
     "Application.Split_Word.executor": "Run",
+    "Application.Square_Root.executor": "Run",
     "Application.StarTriangle.executor": "Run",
     "Application.StarTriangleFlipped.executor": "Run",
     "Application.String_Array.executor": "Run",
@@ -238,13 +243,13 @@
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Print_Upper_Matrix">
-    <configuration name="Linear_Search_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Linear_Search.Linear_Search_2D" />
+  <component name="RunManager" selected="Application.Precision_Square_Root">
+    <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Binary_Search" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.Linear_Search.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perfect_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.Perfect_Matrix" />
+    <configuration name="First_Occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.First_Occurrence" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixSum_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5_Multidimensional_Arrays.Practice_Matrix.PrefixSum_2D" />
+    <configuration name="Precision_Square_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Precision_Square_Root" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5_Multidimensional_Arrays.Practice_Matrix.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_In_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Linear_Search.Search_In_Range" />
+    <configuration name="Square_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Square_Root" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.Linear_Search.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Perfect_Matrix" />
-      <item itemvalue="Application.PrefixSum_2D" />
+      <item itemvalue="Application.First_Occurrence" />
+      <item itemvalue="Application.Precision_Square_Root" />
+      <item itemvalue="Application.Square_Root" />
+      <item itemvalue="Application.Binary_Search" />
       <item itemvalue="Application.Print_Upper_Matrix" />
-      <item itemvalue="Application.Linear_Search_2D" />
-      <item itemvalue="Application.Search_In_Range" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Precision_Square_Root" />
+        <item itemvalue="Application.Square_Root" />
+        <item itemvalue="Application.First_Occurrence" />
+        <item itemvalue="Application.Binary_Search" />
         <item itemvalue="Application.Print_Upper_Matrix" />
-        <item itemvalue="Application.Perfect_Matrix" />
-        <item itemvalue="Application.PrefixSum_2D" />
-        <item itemvalue="Application.Linear_Search_2D" />
-        <item itemvalue="Application.Search_In_Range" />
       </list>
     </recent_temporary>
   </component>
