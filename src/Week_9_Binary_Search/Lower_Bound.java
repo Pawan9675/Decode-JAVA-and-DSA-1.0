@@ -1,5 +1,14 @@
 // Given a sorted integer array and an integer 'x', find the lower bound of x.
+/*
+Linear Approach:
 
+for (int i = 0; i < arr.length; i++){
+    if (arr[i] > target){
+        System.out.println(arr[i-1]);
+        break;
+    }
+}
+*/
 package Week_9_Binary_Search;
 
 import java.util.Scanner;
@@ -21,27 +30,22 @@ public class Lower_Bound {
         System.out.print("Enter the target: ");
         int target = sc.nextInt();
 
-        // Initialize the lower bound to be the size of the array, it will be updated with the lowest index where target can be inserted
-        int lowerBound = n;
-        // Initialize the start and end pointers for binary search
-        int start = 0, end = n - 1;
-        // Perform binary search to find the lower bound of the target element
-        while (start <= end) {
-            // Calculate the middle index
-            int mid = start + (end - start) / 2;
+        int start = 0, end = n-1; // Initialize start and end pointers for binary search
+        boolean flag = false; // Initialize a flag to track if the target is found
 
-            // If the middle element is greater than or equal to the target
-            if (arr[mid] >= target) {
-                // Update the lower bound and move the end pointer to search the left sub-array
-                lowerBound = Math.min(lowerBound, mid);
-                end = mid - 1;
-            } else {
-                // Move the start pointer to search the right sub-array
-                start = mid + 1;
+        // Binary search loop
+        while (start <= end){
+            int mid = start + (end - start)/2; // Calculate the middle index
+            if (target == arr[mid]){ // If target is found at the middle index
+                flag = true; // Set flag to true
+                System.out.println("Lower bound of "+target+" is: "+arr[mid-1]); // Print the lower bound
+                break; // Exit the loop
             }
+            else if (target < arr[mid]) end = mid - 1; // If target is less than the middle element, adjust the end pointer
+            else start = mid + 1; // If target is greater than the middle element, adjust the start pointer
         }
 
-        // Output the lower bound of the target element
-        System.out.println("Lower bound of " + target + " is at index: " + lowerBound);
+        // If target is not found, print the lower bound based on the end pointer
+        if (!flag) System.out.println("Lower bound of "+target+" is: "+arr[end]);
     }
 }
