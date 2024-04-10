@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/First_Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Last_Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Smallest_Missing_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_9_Binary_Search/Lower_Bound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Lower_Bound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_9_Binary_Search/Upper_Bound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Upper_Bound.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,186 +46,189 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Add_Element_At_Specific_Position.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Addition_Of_Two_Matrices.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Addition_Of_Two_Matrices_With_Using_Extra_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Addition_and_Multiplication_Of_Two_Matrices.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Almost_Sorted_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlternatePositiveAndNegative.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Appending_In_StringBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayList_2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicDeclaration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicsOfArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binary_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bubble_Sort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Built_In_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharAt_and_Length.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatenate_With_Its_Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConsecutiveSub_arrayWithOddSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Contains_StartsWith.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Convert_Int_To_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Convert_To_Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Consonants.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Decending_Using_Bubble_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Delete_Element_At_Specific_Position.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Diagonal_Traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Different_Neighbouring_Character.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoubletSumOptimised.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualSumPartition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Equals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial_Of_Large__Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Duplicate_Approach_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Duplicate_Approach_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Duplicate_Approach_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstRepeatingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstRepeatingNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Half_Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Occurrence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloydsTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generate_Spiral.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hallow_Hourglass_Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexOf_and_CompareTo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Insert_and_Delete_In_StringBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Insertion_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interning_and_New_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntervalMerge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KthSmallest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_and_Smallest_Element_In_2D_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lexicographically_Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Linear_Search_2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lower_Bound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.M_GreaterThan_NumberOfUnique.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum_Lexicographical_Word.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum_Occurring_Character_In_a_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum_Occurring_Character_In_a_String1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Middle_Row_And_Middle_Column_Printing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumPlatform.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Operation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Sum_From_Digits_Of_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Modify_Character_In_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Modify_Even_and_Odd_Indices.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Most_Occurring_Word_In_a_Sentence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Move_All_Zeroes_To_End.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Move_Zeroes_To_End.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication_Of_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication_Of_Two_Matrices.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberSpiral.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number_Of_NonOverlap_Interval.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number_Triangular.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddNumberTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PascalTriangleUsingCombinationFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pascal_Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Perfect_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Plus_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Precision_Square_Root.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrefixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrefixSum_2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrefixSum_WithoutUsingExtraArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_All_Substring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_Upper_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Printing_Diagonals_Of_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RangeQuery.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Each_Row.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Each_Word_In_a_Sentence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Second_Half.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_StringBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Right_Pascal_Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Roll_No_and_Marks_Of_Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rotate_90_AntiClockWise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rotate_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rotate_Matrix_By_90_Degree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Row_Of_Maximum_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Row_and_Column_Printing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Search_In_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Search_In_Range.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Search_In_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Searching_In_Sorted_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Second_Largest_Digit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selection_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selection_Sort_With_Maximum_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Smallest_Missing_Positive_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortSquares.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortSquaresOfNumber_NonDecreasing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort_0_and_1_Method1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort_0_and_1_Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort_Even_and_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort_String_Decreasing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorted_After_Subtracting_K.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorting_String_And_StringBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Spiral_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Spiral_Matrix_Generation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Spiral_Matrix_Traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Split_Word.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Square_Root.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StarTriangleFlipped.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Builders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Compression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Substring_Contain_Vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SuffixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SuffixSumWithUsingExtraArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Elements_In_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Even_and_Odd_Indices.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Rectangle_In_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Rectangle_Using_Brute_Force_Method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_and_Product_Of_Elements_In_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreeLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToLower_and_Concat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Toeplitz_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Toggle_Character.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Total_Digit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transform_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transform_Array_Approach_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transform_Array_With_Using_Extra_Space.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transform_Into_Transpose_Of_Square_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transpose_Of_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transpose_Of_Square_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transpose_Using_Column_Wise_Printing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transpose_Using_New_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TraversalsThrough2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UpdateEvenPositions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Update_Odd_Position_To_Character.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Upper_Bound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Waveform_Printing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.What_and_Why_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zeroes_To_End_Maintaining_Order.executor&quot;: &quot;Run&quot;,
-    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Add_Element_At_Specific_Position.executor": "Run",
+    "Application.Addition_Of_Two_Matrices.executor": "Run",
+    "Application.Addition_Of_Two_Matrices_With_Using_Extra_Array.executor": "Run",
+    "Application.Addition_and_Multiplication_Of_Two_Matrices.executor": "Run",
+    "Application.Almost_Sorted_Array.executor": "Run",
+    "Application.AlternatePositiveAndNegative.executor": "Run",
+    "Application.Appending_In_StringBuilders.executor": "Run",
+    "Application.ArrayList_2D.executor": "Run",
+    "Application.BasicDeclaration.executor": "Run",
+    "Application.BasicsOfArrays.executor": "Run",
+    "Application.BinaryTriangle.executor": "Run",
+    "Application.Binary_Search.executor": "Run",
+    "Application.Bubble_Sort.executor": "Debug",
+    "Application.Built_In_Sort.executor": "Run",
+    "Application.CharAt_and_Length.executor": "Run",
+    "Application.Check_Anagram.executor": "Run",
+    "Application.Check_Palindrome.executor": "Run",
+    "Application.Concatenate_With_Its_Reverse.executor": "Run",
+    "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
+    "Application.Contains_StartsWith.executor": "Run",
+    "Application.Convert_Int_To_String.executor": "Run",
+    "Application.Convert_To_Integer.executor": "Run",
+    "Application.Count_Consonants.executor": "Run",
+    "Application.Count_Vowels.executor": "Run",
+    "Application.Decending_Using_Bubble_Sort.executor": "Run",
+    "Application.Delete_Element_At_Specific_Position.executor": "Run",
+    "Application.Diagonal_Traversal.executor": "Run",
+    "Application.Different_Neighbouring_Character.executor": "Run",
+    "Application.DoubletSumOptimised.executor": "Run",
+    "Application.DuplicateElements.executor": "Run",
+    "Application.EqualSumPartition.executor": "Run",
+    "Application.Equals.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factorial_Of_Large__Number.executor": "Run",
+    "Application.Find_Duplicate_Approach_1.executor": "Run",
+    "Application.Find_Duplicate_Approach_2.executor": "Run",
+    "Application.Find_Duplicate_Approach_3.executor": "Run",
+    "Application.FirstNonRepeatingNumbers.executor": "Run",
+    "Application.FirstRepeatingElement.executor": "Run",
+    "Application.FirstRepeatingNumbers.executor": "Run",
+    "Application.First_Half_Reverse.executor": "Run",
+    "Application.First_Occurrence.executor": "Run",
+    "Application.FloydsTriangle.executor": "Run",
+    "Application.Generate_Spiral.executor": "Run",
+    "Application.Hallow_Hourglass_Pattern.executor": "Run",
+    "Application.IndexOf_and_CompareTo.executor": "Run",
+    "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
+    "Application.Insertion_Sort.executor": "Run",
+    "Application.Interning_and_New_Keyword.executor": "Run",
+    "Application.IntervalMerge.executor": "Run",
+    "Application.IsSortedArray.executor": "Run",
+    "Application.KthSmallest.executor": "Run",
+    "Application.Largest_String.executor": "Run",
+    "Application.Largest_and_Smallest_Element_In_2D_Array.executor": "Run",
+    "Application.Last_Occurrence.executor": "Run",
+    "Application.Lexicographically_Sorting.executor": "Run",
+    "Application.Linear_Search_2D.executor": "Run",
+    "Application.Lower_Bound.executor": "Run",
+    "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
+    "Application.Maximum_Lexicographical_Word.executor": "Run",
+    "Application.Maximum_Occurring_Character_In_a_String.executor": "Run",
+    "Application.Maximum_Occurring_Character_In_a_String1.executor": "Run",
+    "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
+    "Application.MinimumPlatform.executor": "Run",
+    "Application.Minimum_Operation.executor": "Run",
+    "Application.Minimum_Sum_From_Digits_Of_Array.executor": "Run",
+    "Application.MissingElement.executor": "Run",
+    "Application.Modify_Character_In_String.executor": "Run",
+    "Application.Modify_Even_and_Odd_Indices.executor": "Run",
+    "Application.Most_Occurring_Word_In_a_Sentence.executor": "Run",
+    "Application.Move_All_Zeroes_To_End.executor": "Run",
+    "Application.Move_Zeroes_To_End.executor": "Run",
+    "Application.Multiplication_Of_Matrix.executor": "Run",
+    "Application.Multiplication_Of_Two_Matrices.executor": "Run",
+    "Application.NumberSpiral.executor": "Run",
+    "Application.Number_Of_NonOverlap_Interval.executor": "Run",
+    "Application.Number_Triangular.executor": "Run",
+    "Application.OddNumberTriangle.executor": "Run",
+    "Application.Palindrome_Array.executor": "Run",
+    "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
+    "Application.Pascal_Triangle.executor": "Run",
+    "Application.Perfect_Matrix.executor": "Run",
+    "Application.Plus_Operator.executor": "Run",
+    "Application.Precision_Square_Root.executor": "Run",
+    "Application.PrefixSum.executor": "Run",
+    "Application.PrefixSum_2D.executor": "Run",
+    "Application.PrefixSum_WithoutUsingExtraArray.executor": "Run",
+    "Application.Print_All_Substring.executor": "Run",
+    "Application.Print_Upper_Matrix.executor": "Run",
+    "Application.Printing_Diagonals_Of_Matrix.executor": "Run",
+    "Application.Question13.executor": "Run",
+    "Application.Question14.executor": "Run",
+    "Application.RangeQuery.executor": "Run",
+    "Application.Reverse_Each_Row.executor": "Run",
+    "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
+    "Application.Reverse_Second_Half.executor": "Run",
+    "Application.Reverse_StringBuilder.executor": "Run",
+    "Application.Right_Pascal_Triangle.executor": "Run",
+    "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
+    "Application.Rotate_90_AntiClockWise.executor": "Run",
+    "Application.Rotate_Matrix.executor": "Run",
+    "Application.Rotate_Matrix_By_90_Degree.executor": "Run",
+    "Application.Row_Of_Maximum_Sum.executor": "Run",
+    "Application.Row_and_Column_Printing.executor": "Run",
+    "Application.Search_In_Matrix.executor": "Run",
+    "Application.Search_In_Range.executor": "Run",
+    "Application.Search_In_String.executor": "Run",
+    "Application.Searching_In_Sorted_Matrix.executor": "Run",
+    "Application.Second_Largest_Digit.executor": "Run",
+    "Application.Selection_Sort.executor": "Run",
+    "Application.Selection_Sort_With_Maximum_Element.executor": "Run",
+    "Application.Smallest_Missing_Number.executor": "Run",
+    "Application.Smallest_Missing_Positive_Number.executor": "Run",
+    "Application.SortSquares.executor": "Run",
+    "Application.SortSquaresOfNumber_NonDecreasing.executor": "Run",
+    "Application.Sort_0_and_1_Method1.executor": "Run",
+    "Application.Sort_0_and_1_Method2.executor": "Run",
+    "Application.Sort_Even_and_Odd.executor": "Run",
+    "Application.Sort_String.executor": "Run",
+    "Application.Sort_String_Decreasing.executor": "Run",
+    "Application.Sorted_After_Subtracting_K.executor": "Run",
+    "Application.Sorting_String_And_StringBuilders.executor": "Run",
+    "Application.Spiral_Matrix.executor": "Run",
+    "Application.Spiral_Matrix_Generation.executor": "Run",
+    "Application.Spiral_Matrix_Traversal.executor": "Run",
+    "Application.Split_Word.executor": "Run",
+    "Application.Square_Root.executor": "Run",
+    "Application.StarTriangle.executor": "Run",
+    "Application.StarTriangleFlipped.executor": "Run",
+    "Application.String_Array.executor": "Run",
+    "Application.String_Builders.executor": "Run",
+    "Application.String_Compression.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.Substring_Contain_Vowels.executor": "Run",
+    "Application.SuffixSum.executor": "Run",
+    "Application.SuffixSumWithUsingExtraArray.executor": "Run",
+    "Application.Sum_Of_Elements_In_Array.executor": "Run",
+    "Application.Sum_Of_Even_and_Odd_Indices.executor": "Run",
+    "Application.Sum_Of_Rectangle_In_Matrix.executor": "Run",
+    "Application.Sum_Of_Rectangle_Using_Brute_Force_Method.executor": "Run",
+    "Application.Sum_Of_Rectangle_Using_PreCalculating_Horizontal_Sum_For_Each_Row.executor": "Run",
+    "Application.Sum_Of_Rectangle_Using_Prefix_Sum_Over_Rows_and_Cols.executor": "Run",
+    "Application.Sum_and_Product_Of_Elements_In_Array.executor": "Run",
+    "Application.ThreeLargest.executor": "Run",
+    "Application.ToLower_and_Concat.executor": "Run",
+    "Application.Toeplitz_Matrix.executor": "Run",
+    "Application.Toggle_Character.executor": "Run",
+    "Application.Total_Digit.executor": "Run",
+    "Application.Transform_Array.executor": "Run",
+    "Application.Transform_Array_Approach_3.executor": "Run",
+    "Application.Transform_Array_With_Using_Extra_Space.executor": "Run",
+    "Application.Transform_Into_Transpose_Of_Square_Matrix.executor": "Run",
+    "Application.Transpose_Of_Matrix.executor": "Run",
+    "Application.Transpose_Of_Square_Matrix.executor": "Run",
+    "Application.Transpose_Using_Column_Wise_Printing.executor": "Run",
+    "Application.Transpose_Using_New_Matrix.executor": "Run",
+    "Application.TraversalsThrough2DArray.executor": "Run",
+    "Application.UpdateEvenPositions.executor": "Run",
+    "Application.Update_Odd_Position_To_Character.executor": "Run",
+    "Application.Upper_Bound.executor": "Run",
+    "Application.Waveform_Printing.executor": "Run",
+    "Application.Week_9_Binary_Search.First_Occurrence.executor": "Run",
+    "Application.What_and_Why_Strings.executor": "Run",
+    "Application.Zeroes_To_End_Maintaining_Order.executor": "Run",
+    "Application.demo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_5_Multidimensional_Arrays/Assignment_Multidimension_Arrays",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_5_Multidimensional_Arrays\Assignment_Multidimension_Arrays" />
@@ -239,13 +243,13 @@
       <recent name="Week_5_Multidimensional_Arrays.Assignment_Multidimension_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Upper_Bound">
-    <configuration name="First_Occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.First_Occurrence" />
+  <component name="RunManager" selected="Application.Smallest_Missing_Number">
+    <configuration name="Last_Occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Last_Occurrence" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,25 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Precision_Square_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Precision_Square_Root" />
+    <configuration name="Smallest_Missing_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Smallest_Missing_Number" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Square_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Square_Root" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,20 +296,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week_9_Binary_Search.First_Occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.First_Occurrence" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Last_Occurrence" />
       <item itemvalue="Application.Lower_Bound" />
+      <item itemvalue="Application.Smallest_Missing_Number" />
       <item itemvalue="Application.Upper_Bound" />
-      <item itemvalue="Application.First_Occurrence" />
-      <item itemvalue="Application.Precision_Square_Root" />
-      <item itemvalue="Application.Square_Root" />
+      <item itemvalue="Application.Week_9_Binary_Search.First_Occurrence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Smallest_Missing_Number" />
+        <item itemvalue="Application.Last_Occurrence" />
+        <item itemvalue="Application.Week_9_Binary_Search.First_Occurrence" />
         <item itemvalue="Application.Upper_Bound" />
         <item itemvalue="Application.Lower_Bound" />
-        <item itemvalue="Application.Precision_Square_Root" />
-        <item itemvalue="Application.Square_Root" />
-        <item itemvalue="Application.First_Occurrence" />
       </list>
     </recent_temporary>
   </component>
