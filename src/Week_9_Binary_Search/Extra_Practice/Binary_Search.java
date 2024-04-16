@@ -4,6 +4,11 @@ Average Case Time Complexity of Binary Search: O(logN)
 Worst Case Time Complexity of Binary Search: O(logN)
 Space Complexity of Binary Search: O(1) for iterative, O(logN) for recursive.
 */
+/*
+In some cases, finding the middle element using the formula (low + high) / 2, may lead to integer
+overflow i.e. when the value of low and high is close to INT_MAX.To avoid this we instead use -
+low + (high - low) / 2.
+*/
 package Week_9_Binary_Search.Extra_Practice;
 
 import java.util.Scanner;
