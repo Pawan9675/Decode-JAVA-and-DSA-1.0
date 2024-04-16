@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Lower_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Minimum_Element_In_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Occurrence_Of_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Upper_Bound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Binary_Search_On_Infinite_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Binary_Search_On_Infinite_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Extra_Practice/Binary_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Extra_Practice/Binary_Search.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +120,7 @@
     "Application.Maximum_Occurring_Character_In_a_String1.executor": "Run",
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
+    "Application.Minimum_Element_In_Rotated_Sorted_Array.executor": "Run",
     "Application.Minimum_Operation.executor": "Run",
     "Application.Minimum_Sum_From_Digits_Of_Array.executor": "Run",
     "Application.MissingElement.executor": "Run",
@@ -126,6 +134,7 @@
     "Application.NumberSpiral.executor": "Run",
     "Application.Number_Of_NonOverlap_Interval.executor": "Run",
     "Application.Number_Triangular.executor": "Run",
+    "Application.Occurrence_Of_Element.executor": "Run",
     "Application.OddNumberTriangle.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
@@ -249,7 +258,7 @@
       <recent name="Week_8_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Binary_Search_On_Decreasing_Array">
+  <component name="RunManager" selected="Application.Minimum_Element_In_Rotated_Sorted_Array">
     <configuration name="Binary_Search_On_Decreasing_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Binary_Search_On_Decreasing_Array" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -289,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_2_Index_Of_Target_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Rotated_Sorted_Array.Problem_2_Index_Of_Target_Element" />
+    <configuration name="Minimum_Element_In_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Minimum_Element_In_Rotated_Sorted_Array" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.Rotated_Sorted_Array.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Assignment_BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_3_Check_For_An_Element_With_Duplicate_Values" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Rotated_Sorted_Array.Problem_3_Check_For_An_Element_With_Duplicate_Values" />
+    <configuration name="Occurrence_Of_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Occurrence_Of_Element" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.Rotated_Sorted_Array.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Assignment_BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,19 +325,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Minimum_Element_In_Rotated_Sorted_Array" />
+      <item itemvalue="Application.Occurrence_Of_Element" />
       <item itemvalue="Application.Binary_Search_On_Decreasing_Array" />
       <item itemvalue="Application.Lower_Bound" />
       <item itemvalue="Application.Find_One_Repeated" />
-      <item itemvalue="Application.Problem_3_Check_For_An_Element_With_Duplicate_Values" />
-      <item itemvalue="Application.Problem_2_Index_Of_Target_Element" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Element_In_Rotated_Sorted_Array" />
+        <item itemvalue="Application.Occurrence_Of_Element" />
         <item itemvalue="Application.Binary_Search_On_Decreasing_Array" />
         <item itemvalue="Application.Lower_Bound" />
         <item itemvalue="Application.Find_One_Repeated" />
-        <item itemvalue="Application.Problem_3_Check_For_An_Element_With_Duplicate_Values" />
-        <item itemvalue="Application.Problem_2_Index_Of_Target_Element" />
       </list>
     </recent_temporary>
   </component>
