@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Lower_Bound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Minimum_Element_In_Rotated_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Occurrence_Of_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Assignment_BinarySearch/Upper_Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Binary_Search_On_Infinite_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Binary_Search_On_Infinite_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Extra_Practice/Binary_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Extra_Practice/Binary_Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Minimum_Element_In_Rotated_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Minimum_Element_In_Rotated_Sorted_Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +93,8 @@
     "Application.First_Half_Reverse.executor": "Run",
     "Application.First_Occurrence.executor": "Run",
     "Application.FloydsTriangle.executor": "Run",
+    "Application.FunctionCall1.executor": "Run",
+    "Application.FunctionCall2.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
     "Application.Hallow_Hourglass_Pattern.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
@@ -258,13 +255,13 @@
       <recent name="Week_8_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Minimum_Element_In_Rotated_Sorted_Array">
-    <configuration name="Binary_Search_On_Decreasing_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Binary_Search_On_Decreasing_Array" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Factorial" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Assignment_BinarySearch.*" />
+          <option name="PATTERN" value="Week_10_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_One_Repeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Find_One_Repeated" />
+    <configuration name="FunctionCall1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.FunctionCall1" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Assignment_BinarySearch.*" />
+          <option name="PATTERN" value="Week_10_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lower_Bound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Lower_Bound" />
+    <configuration name="FunctionCall2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.FunctionCall2" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.*" />
+          <option name="PATTERN" value="Week_10_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,19 +322,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.FunctionCall1" />
+      <item itemvalue="Application.FunctionCall2" />
       <item itemvalue="Application.Minimum_Element_In_Rotated_Sorted_Array" />
       <item itemvalue="Application.Occurrence_Of_Element" />
-      <item itemvalue="Application.Binary_Search_On_Decreasing_Array" />
-      <item itemvalue="Application.Lower_Bound" />
-      <item itemvalue="Application.Find_One_Repeated" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.FunctionCall2" />
+        <item itemvalue="Application.FunctionCall1" />
         <item itemvalue="Application.Minimum_Element_In_Rotated_Sorted_Array" />
         <item itemvalue="Application.Occurrence_Of_Element" />
-        <item itemvalue="Application.Binary_Search_On_Decreasing_Array" />
-        <item itemvalue="Application.Lower_Bound" />
-        <item itemvalue="Application.Find_One_Repeated" />
       </list>
     </recent_temporary>
   </component>
