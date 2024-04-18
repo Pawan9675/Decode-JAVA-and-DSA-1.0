@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Distributes_Chocolates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Race_Track.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Minimum_Element_In_Rotated_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_9_Binary_Search/Assignment_BinarySearch/Minimum_Element_In_Rotated_Sorted_Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,7 @@
     "Application.Delete_Element_At_Specific_Position.executor": "Run",
     "Application.Diagonal_Traversal.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
+    "Application.Distributes_Chocolates.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.EqualSumPartition.executor": "Run",
@@ -150,6 +151,7 @@
     "Application.Problem_3_Check_For_An_Element_With_Duplicate_Values.executor": "Run",
     "Application.Question13.executor": "Run",
     "Application.Question14.executor": "Run",
+    "Application.Race_Track.executor": "Run",
     "Application.RangeQuery.executor": "Run",
     "Application.Reverse_Each_Row.executor": "Run",
     "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
@@ -255,7 +257,20 @@
       <recent name="Week_8_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.Race_Track">
+    <configuration name="Distributes_Chocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Distributes_Chocolates" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Factorial" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -295,25 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Element_In_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Minimum_Element_In_Rotated_Sorted_Array" />
+    <configuration name="Race_Track" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Race_Track" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Assignment_BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Occurrence_Of_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Assignment_BinarySearch.Occurrence_Of_Element" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_9_Binary_Search.Assignment_BinarySearch.*" />
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +324,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Distributes_Chocolates" />
+      <item itemvalue="Application.Race_Track" />
       <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.FunctionCall1" />
       <item itemvalue="Application.FunctionCall2" />
-      <item itemvalue="Application.Minimum_Element_In_Rotated_Sorted_Array" />
-      <item itemvalue="Application.Occurrence_Of_Element" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Race_Track" />
+        <item itemvalue="Application.Distributes_Chocolates" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.FunctionCall2" />
         <item itemvalue="Application.FunctionCall1" />
-        <item itemvalue="Application.Minimum_Element_In_Rotated_Sorted_Array" />
-        <item itemvalue="Application.Occurrence_Of_Element" />
       </list>
     </recent_temporary>
   </component>
