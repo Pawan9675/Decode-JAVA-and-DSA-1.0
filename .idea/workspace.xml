@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Distributes_Chocolates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Race_Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_9_Binary_Search/Extra_Practice/Rotated_Sorted_Array/OrderAgnostic_BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
-    "Application.Binary_Search.executor": "Run",
+    "Application.Binary_Search.executor": "Coverage",
     "Application.Binary_Search_On_Decreasing_Array.executor": "Run",
     "Application.Bubble_Sort.executor": "Debug",
     "Application.Built_In_Sort.executor": "Run",
@@ -151,7 +150,7 @@
     "Application.Problem_3_Check_For_An_Element_With_Duplicate_Values.executor": "Run",
     "Application.Question13.executor": "Run",
     "Application.Question14.executor": "Run",
-    "Application.Race_Track.executor": "Run",
+    "Application.Race_Track.executor": "Debug",
     "Application.RangeQuery.executor": "Run",
     "Application.Reverse_Each_Row.executor": "Run",
     "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
@@ -222,6 +221,7 @@
     "Application.Upper_Bound.executor": "Run",
     "Application.Waveform_Printing.executor": "Run",
     "Application.Week_9_Binary_Search.Assignment_BinarySearch.Last_Occurrence.executor": "Run",
+    "Application.Week_9_Binary_Search.Extra_Practice.Binary_Search.executor": "Debug",
     "Application.Week_9_Binary_Search.First_Occurrence.executor": "Run",
     "Application.What_and_Why_Strings.executor": "Run",
     "Application.Zeroes_To_End_Maintaining_Order.executor": "Run",
@@ -257,7 +257,20 @@
       <recent name="Week_8_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Race_Track">
+  <component name="RunManager" selected="Application.Week_9_Binary_Search.Extra_Practice.Binary_Search">
+    <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Binary_Search" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_9_Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Distributes_Chocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Distributes_Chocolates" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -284,32 +297,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionCall1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.FunctionCall1" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionCall2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.FunctionCall2" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Race_Track" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Race_Track" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -323,20 +310,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Week_9_Binary_Search.Extra_Practice.Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_9_Binary_Search.Extra_Practice.Binary_Search" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_9_Binary_Search.Extra_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Binary_Search" />
       <item itemvalue="Application.Distributes_Chocolates" />
       <item itemvalue="Application.Race_Track" />
+      <item itemvalue="Application.Week_9_Binary_Search.Extra_Practice.Binary_Search" />
       <item itemvalue="Application.Factorial" />
-      <item itemvalue="Application.FunctionCall1" />
-      <item itemvalue="Application.FunctionCall2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week_9_Binary_Search.Extra_Practice.Binary_Search" />
+        <item itemvalue="Application.Binary_Search" />
         <item itemvalue="Application.Race_Track" />
         <item itemvalue="Application.Distributes_Chocolates" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.FunctionCall2" />
-        <item itemvalue="Application.FunctionCall1" />
       </list>
     </recent_temporary>
   </component>
@@ -372,5 +372,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Decode_JAVA_and_DSA_1_0$Binary_Search.ic" NAME="Binary_Search Coverage Results" MODIFIED="1713449840443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Week_9_Binary_Search.*</FILTER>
+    </SUITE>
   </component>
 </project>
