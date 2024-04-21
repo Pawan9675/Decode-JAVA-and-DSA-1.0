@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Power_A_Raised_To_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Maze_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Stair_Path.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +117,7 @@
     "Application.Maximum_Number_Of_One_In_Row.executor": "Run",
     "Application.Maximum_Occurring_Character_In_a_String.executor": "Run",
     "Application.Maximum_Occurring_Character_In_a_String1.executor": "Run",
+    "Application.Maze_Path.executor": "Run",
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
     "Application.Minimum_Element_In_Rotated_Sorted_Array.executor": "Run",
@@ -193,6 +194,7 @@
     "Application.Spiral_Matrix_Traversal.executor": "Run",
     "Application.Split_Word.executor": "Run",
     "Application.Square_Root.executor": "Run",
+    "Application.Stair_Path.executor": "Run",
     "Application.StarTriangle.executor": "Run",
     "Application.StarTriangleFlipped.executor": "Run",
     "Application.String_Array.executor": "Run",
@@ -266,9 +268,22 @@
       <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.Maze_Path">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Fibonacci" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maze_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Maze_Path" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -293,21 +308,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_1_To_N_After_Recursive_Call" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Print_1_To_N_After_Recursive_Call" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_1_To_N_Parameterised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Sum_1_To_N_Parameterised" />
+    <configuration name="Stair_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Stair_Path" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -333,19 +335,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Maze_Path" />
+      <item itemvalue="Application.Stair_Path" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.Power_A_Raised_To_B" />
-      <item itemvalue="Application.Print_1_To_N_After_Recursive_Call" />
-      <item itemvalue="Application.Sum_1_To_N_Parameterised" />
       <item itemvalue="Application.Sum_1_To_N_Return_Type" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maze_Path" />
+        <item itemvalue="Application.Stair_Path" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Power_A_Raised_To_B" />
         <item itemvalue="Application.Sum_1_To_N_Return_Type" />
-        <item itemvalue="Application.Sum_1_To_N_Parameterised" />
-        <item itemvalue="Application.Print_1_To_N_After_Recursive_Call" />
       </list>
     </recent_temporary>
   </component>
