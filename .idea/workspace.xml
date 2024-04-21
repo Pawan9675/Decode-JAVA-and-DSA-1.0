@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Maze_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Stair_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Pre_In_Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Print_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Print_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Skip_Character_A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +144,7 @@
     "Application.Perfect_Matrix.executor": "Run",
     "Application.Plus_Operator.executor": "Run",
     "Application.Power_A_Raised_To_B.executor": "Run",
+    "Application.Pre_In_Post.executor": "Run",
     "Application.Precision_Square_Root.executor": "Run",
     "Application.PrefixSum.executor": "Run",
     "Application.PrefixSum_2D.executor": "Run",
@@ -150,7 +153,9 @@
     "Application.Print_1_To_N_Extra_Parameter.executor": "Run",
     "Application.Print_1_To_N_Global_Variable.executor": "Debug",
     "Application.Print_All_Substring.executor": "Run",
+    "Application.Print_Array.executor": "Run",
     "Application.Print_N_To_1.executor": "Run",
+    "Application.Print_String.executor": "Run",
     "Application.Print_Upper_Matrix.executor": "Run",
     "Application.Printing_Diagonals_Of_Matrix.executor": "Run",
     "Application.Problem_1_Index_Of_Minimum_Element.executor": "Run",
@@ -178,6 +183,7 @@
     "Application.Second_Largest_Digit.executor": "Run",
     "Application.Selection_Sort.executor": "Run",
     "Application.Selection_Sort_With_Maximum_Element.executor": "Run",
+    "Application.Skip_Character_A.executor": "Run",
     "Application.Smallest_Missing_Number.executor": "Run",
     "Application.Smallest_Missing_Positive_Number.executor": "Run",
     "Application.SortSquares.executor": "Run",
@@ -268,20 +274,7 @@
       <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maze_Path">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Fibonacci" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Skip_Character_A">
     <configuration name="Maze_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Maze_Path" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -295,8 +288,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power_A_Raised_To_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Power_A_Raised_To_B" />
+    <configuration name="Pre_In_Post" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Pre_In_Post" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -308,8 +301,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stair_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Stair_Path" />
+    <configuration name="Print_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Print_Array" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -321,8 +314,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_1_To_N_Return_Type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Sum_1_To_N_Return_Type" />
+    <configuration name="Print_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Print_String" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Skip_Character_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Skip_Character_A" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -336,18 +342,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Maze_Path" />
-      <item itemvalue="Application.Stair_Path" />
-      <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.Power_A_Raised_To_B" />
-      <item itemvalue="Application.Sum_1_To_N_Return_Type" />
+      <item itemvalue="Application.Pre_In_Post" />
+      <item itemvalue="Application.Print_Array" />
+      <item itemvalue="Application.Print_String" />
+      <item itemvalue="Application.Skip_Character_A" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Skip_Character_A" />
+        <item itemvalue="Application.Print_String" />
+        <item itemvalue="Application.Print_Array" />
+        <item itemvalue="Application.Pre_In_Post" />
         <item itemvalue="Application.Maze_Path" />
-        <item itemvalue="Application.Stair_Path" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Power_A_Raised_To_B" />
-        <item itemvalue="Application.Sum_1_To_N_Return_Type" />
       </list>
     </recent_temporary>
   </component>
