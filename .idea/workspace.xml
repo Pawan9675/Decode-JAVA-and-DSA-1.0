@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Pre_In_Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Print_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Print_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Skip_Character_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Generate_Binary_String_Without_Consecutive_1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Generate_Parenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Greatest_Common_Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Increasing_Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Skip_Character_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Skip_Character_A.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +102,12 @@
     "Application.FloydsTriangle.executor": "Run",
     "Application.FunctionCall1.executor": "Run",
     "Application.FunctionCall2.executor": "Run",
+    "Application.Generate_Binary_String_Without_Consecutive_1s.executor": "Run",
+    "Application.Generate_Parenthesis.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
+    "Application.Greatest_Common_Divisor.executor": "Run",
     "Application.Hallow_Hourglass_Pattern.executor": "Run",
+    "Application.Increasing_Sequence.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
     "Application.Insertion_Sort.executor": "Run",
@@ -142,6 +149,7 @@
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
     "Application.Pascal_Triangle.executor": "Run",
     "Application.Perfect_Matrix.executor": "Run",
+    "Application.Permutation.executor": "Run",
     "Application.Plus_Operator.executor": "Run",
     "Application.Power_A_Raised_To_B.executor": "Run",
     "Application.Pre_In_Post.executor": "Run",
@@ -207,6 +215,7 @@
     "Application.String_Builders.executor": "Run",
     "Application.String_Compression.executor": "Run",
     "Application.SubString.executor": "Run",
+    "Application.Subsets.executor": "Run",
     "Application.Substring_Contain_Vowels.executor": "Run",
     "Application.SuffixSum.executor": "Run",
     "Application.SuffixSumWithUsingExtraArray.executor": "Run",
@@ -274,9 +283,9 @@
       <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Skip_Character_A">
-    <configuration name="Maze_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Maze_Path" />
+  <component name="RunManager" selected="Application.Generate_Parenthesis">
+    <configuration name="Generate_Binary_String_Without_Consecutive_1s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Generate_Binary_String_Without_Consecutive_1s" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -288,8 +297,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pre_In_Post" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Pre_In_Post" />
+    <configuration name="Generate_Parenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Generate_Parenthesis" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -301,8 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Print_Array" />
+    <configuration name="Greatest_Common_Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Greatest_Common_Divisor" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -314,8 +323,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Print_String" />
+    <configuration name="Increasing_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Increasing_Sequence" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -327,8 +336,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Skip_Character_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Skip_Character_A" />
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Permutation" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -341,19 +350,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Maze_Path" />
-      <item itemvalue="Application.Pre_In_Post" />
-      <item itemvalue="Application.Print_Array" />
-      <item itemvalue="Application.Print_String" />
-      <item itemvalue="Application.Skip_Character_A" />
+      <item itemvalue="Application.Generate_Binary_String_Without_Consecutive_1s" />
+      <item itemvalue="Application.Generate_Parenthesis" />
+      <item itemvalue="Application.Greatest_Common_Divisor" />
+      <item itemvalue="Application.Increasing_Sequence" />
+      <item itemvalue="Application.Permutation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Skip_Character_A" />
-        <item itemvalue="Application.Print_String" />
-        <item itemvalue="Application.Print_Array" />
-        <item itemvalue="Application.Pre_In_Post" />
-        <item itemvalue="Application.Maze_Path" />
+        <item itemvalue="Application.Generate_Parenthesis" />
+        <item itemvalue="Application.Generate_Binary_String_Without_Consecutive_1s" />
+        <item itemvalue="Application.Greatest_Common_Divisor" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Increasing_Sequence" />
       </list>
     </recent_temporary>
   </component>
