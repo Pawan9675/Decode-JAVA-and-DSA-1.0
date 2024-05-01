@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Maximum_Element_In_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Tower_Of_Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Palindrome_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Sub_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Maximum_Element_In_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Maximum_Element_In_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Greatest_Common_Divisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Greatest_Common_Divisor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +144,7 @@
     "Application.Occurrence_Of_Element.executor": "Run",
     "Application.OddNumberTriangle.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
+    "Application.Palindrome_String.executor": "Debug",
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
     "Application.Pascal_Triangle.executor": "Run",
     "Application.Perfect_Matrix.executor": "Run",
@@ -211,6 +214,8 @@
     "Application.String_Builders.executor": "Run",
     "Application.String_Compression.executor": "Run",
     "Application.SubString.executor": "Run",
+    "Application.Sub_array.executor": "Run",
+    "Application.Subarray.executor": "Run",
     "Application.Subsets.executor": "Run",
     "Application.Substring_Contain_Vowels.executor": "Run",
     "Application.SuffixSum.executor": "Run",
@@ -280,9 +285,9 @@
       <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maximum_Element_In_Array">
-    <configuration name="Generate_Parenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Generate_Parenthesis" />
+  <component name="RunManager" selected="Application.Palindrome_String">
+    <configuration name="Increasing_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Increasing_Sequence" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -307,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Maze_Path" />
+    <configuration name="Palindrome_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Palindrome_String" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -320,8 +325,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pre_In_Post" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Pre_In_Post" />
+    <configuration name="Sub_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Sub_array" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -347,19 +352,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Palindrome_String" />
+      <item itemvalue="Application.Sub_array" />
+      <item itemvalue="Application.Increasing_Sequence" />
       <item itemvalue="Application.Maximum_Element_In_Array" />
       <item itemvalue="Application.Tower_Of_Hanoi" />
-      <item itemvalue="Application.Maze_Path" />
-      <item itemvalue="Application.Pre_In_Post" />
-      <item itemvalue="Application.Generate_Parenthesis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome_String" />
+        <item itemvalue="Application.Sub_array" />
+        <item itemvalue="Application.Increasing_Sequence" />
         <item itemvalue="Application.Maximum_Element_In_Array" />
         <item itemvalue="Application.Tower_Of_Hanoi" />
-        <item itemvalue="Application.Pre_In_Post" />
-        <item itemvalue="Application.Maze_Path" />
-        <item itemvalue="Application.Generate_Parenthesis" />
       </list>
     </recent_temporary>
   </component>

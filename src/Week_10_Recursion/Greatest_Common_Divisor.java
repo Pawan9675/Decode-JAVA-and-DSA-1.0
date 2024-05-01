@@ -1,3 +1,8 @@
+/*
+Note:
+HCF(a,b) <= min(a,b)
+LCM(a,b) >= max(a,b)
+*/
 package Week_10_Recursion;
 
 import java.util.Scanner;
@@ -10,7 +15,7 @@ public class Greatest_Common_Divisor {
         return 1;
     }
 
-    public static int gcd(int a, int b) {
+    public static int gcd(int a, int b) {       // Time Complexity: O(log(a+b))
         if (b % a == 0) return a;
         return gcd(b % a, a);
     }
