@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Palindrome_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Sub_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Print_Decreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Print_Increasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Recursion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Maximum_Element_In_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Maximum_Element_In_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Greatest_Common_Divisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Greatest_Common_Divisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Greatest_Common_Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Greatest_Common_Divisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Palindrome_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Palindrome_String.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +164,8 @@
     "Application.Print_1_To_N_Global_Variable.executor": "Debug",
     "Application.Print_All_Substring.executor": "Run",
     "Application.Print_Array.executor": "Run",
+    "Application.Print_Decreasing.executor": "Run",
+    "Application.Print_Increasing.executor": "Run",
     "Application.Print_N_To_1.executor": "Run",
     "Application.Print_String.executor": "Run",
     "Application.Print_Upper_Matrix.executor": "Run",
@@ -278,20 +283,20 @@
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\Practice_Array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Week_10_Recursion.Extra_Package" />
       <recent name="Week_10_Recursion" />
       <recent name="Week_9_Binary_Search.Assignment_BinarySearch" />
       <recent name="Week_5_Multidimensional_Arrays.Practice_Matrix" />
       <recent name="Week_9_Binary_Search" />
-      <recent name="Week_8_Basic_Sorting.Assignment_Basic_Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome_String">
-    <configuration name="Increasing_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Increasing_Sequence" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Factorial" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Element_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Maximum_Element_In_Array" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Fibonacci" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sub_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Sub_array" />
+    <configuration name="Print_Decreasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Print_Decreasing" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tower_Of_Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Tower_Of_Hanoi" />
+    <configuration name="Print_Increasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Print_Increasing" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,19 +357,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.Palindrome_String" />
-      <item itemvalue="Application.Sub_array" />
-      <item itemvalue="Application.Increasing_Sequence" />
-      <item itemvalue="Application.Maximum_Element_In_Array" />
-      <item itemvalue="Application.Tower_Of_Hanoi" />
+      <item itemvalue="Application.Print_Decreasing" />
+      <item itemvalue="Application.Print_Increasing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Print_Decreasing" />
+        <item itemvalue="Application.Print_Increasing" />
         <item itemvalue="Application.Palindrome_String" />
-        <item itemvalue="Application.Sub_array" />
-        <item itemvalue="Application.Increasing_Sequence" />
-        <item itemvalue="Application.Maximum_Element_In_Array" />
-        <item itemvalue="Application.Tower_Of_Hanoi" />
       </list>
     </recent_temporary>
   </component>
