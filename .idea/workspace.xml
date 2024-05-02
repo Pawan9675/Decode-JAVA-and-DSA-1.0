@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Alternate_Series_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Multiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Series_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Armstrong_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Package/Multiplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,9 @@
     "Application.Addition_and_Multiplication_Of_Two_Matrices.executor": "Run",
     "Application.Almost_Sorted_Array.executor": "Run",
     "Application.AlternatePositiveAndNegative.executor": "Run",
+    "Application.Alternate_Series_Sum.executor": "Run",
     "Application.Appending_In_StringBuilders.executor": "Run",
+    "Application.Armstrong_Number.executor": "Run",
     "Application.ArrayList_2D.executor": "Run",
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
@@ -99,6 +101,7 @@
     "Application.FloydsTriangle.executor": "Run",
     "Application.FunctionCall1.executor": "Run",
     "Application.FunctionCall2.executor": "Run",
+    "Application.GCD.executor": "Run",
     "Application.Generate_Binary_String_Without_Consecutive_1s.executor": "Run",
     "Application.Generate_Parenthesis.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
@@ -137,6 +140,7 @@
     "Application.Move_All_Zeroes_To_End.executor": "Run",
     "Application.Move_Zeroes_To_End.executor": "Run",
     "Application.Multiples.executor": "Run",
+    "Application.Multiplication.executor": "Run",
     "Application.Multiplication_Of_Matrix.executor": "Run",
     "Application.Multiplication_Of_Two_Matrices.executor": "Run",
     "Application.NumberSpiral.executor": "Run",
@@ -290,7 +294,7 @@
       <recent name="Week_9_Binary_Search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Alternate_Series_Sum">
+  <component name="RunManager" selected="Application.Multiplication">
     <configuration name="Alternate_Series_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Alternate_Series_Sum" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -304,8 +308,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Of_Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Count_Of_Digit" />
+    <configuration name="Armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Armstrong_Number" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.GCD" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -330,21 +347,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Power" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Extra_Package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_Of_Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Sum_Of_Digit" />
+    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Package.Multiplication" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -357,19 +361,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Armstrong_Number" />
+      <item itemvalue="Application.GCD" />
+      <item itemvalue="Application.Multiplication" />
       <item itemvalue="Application.Alternate_Series_Sum" />
-      <item itemvalue="Application.Count_Of_Digit" />
       <item itemvalue="Application.Multiples" />
-      <item itemvalue="Application.Power" />
-      <item itemvalue="Application.Sum_Of_Digit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multiplication" />
+        <item itemvalue="Application.Armstrong_Number" />
+        <item itemvalue="Application.GCD" />
         <item itemvalue="Application.Alternate_Series_Sum" />
         <item itemvalue="Application.Multiples" />
-        <item itemvalue="Application.Power" />
-        <item itemvalue="Application.Count_Of_Digit" />
-        <item itemvalue="Application.Sum_Of_Digit" />
       </list>
     </recent_temporary>
   </component>
