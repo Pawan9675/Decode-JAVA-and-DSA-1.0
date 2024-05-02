@@ -1,6 +1,6 @@
 // Given two numbers p & q, find the value p^q using a recursive function.
 
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 

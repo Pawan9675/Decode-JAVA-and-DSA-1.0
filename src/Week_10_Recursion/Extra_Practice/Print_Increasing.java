@@ -1,5 +1,5 @@
 // Write a program to print all natural numbers from I to n using recursion.
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 

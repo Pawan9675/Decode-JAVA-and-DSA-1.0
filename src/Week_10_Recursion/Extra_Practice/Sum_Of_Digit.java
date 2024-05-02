@@ -1,6 +1,6 @@
 // Given an integer, find out the sum of its digits using recursion.
 
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 

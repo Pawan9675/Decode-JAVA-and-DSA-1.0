@@ -1,5 +1,5 @@
 // Calculate sum of series 1 to user's input using recursion.
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Return the count of digits in a given number n.
 
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // Given a number num and a value k. Print k multiples of num.
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 

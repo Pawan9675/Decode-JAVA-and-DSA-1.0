@@ -1,5 +1,5 @@
 // Given a number n, find the sum of natural numbers till n but with alternate signs.
-package Week_10_Recursion.Extra_Package;
+package Week_10_Recursion.Extra_Practice;
 
 import java.util.Scanner;
 
