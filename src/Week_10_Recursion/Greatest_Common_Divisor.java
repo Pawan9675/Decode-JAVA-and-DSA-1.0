@@ -15,6 +15,7 @@ public class Greatest_Common_Divisor {
         return 1;
     }
 
+    // Euclid Division Algorithm (Long Division Method)
     public static int gcd(int a, int b) {       // Time Complexity: O(log(a+b))
         if (b % a == 0) return a;
         return gcd(b % a, a);
