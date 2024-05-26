@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Construct_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Print_Array_In_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Reverse_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Search_Element_In_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Minimum_In_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Print_Increasing_Decreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Sum_Of_Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Sum_Of_Elements_In_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +134,7 @@
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
     "Application.Minimum_Element_In_Rotated_Sorted_Array.executor": "Run",
+    "Application.Minimum_In_Array.executor": "Run",
     "Application.Minimum_Operation.executor": "Run",
     "Application.Minimum_Sum_From_Digits_Of_Array.executor": "Run",
     "Application.MissingElement.executor": "Run",
@@ -175,6 +175,7 @@
     "Application.Print_Array_In_Reverse.executor": "Run",
     "Application.Print_Decreasing.executor": "Run",
     "Application.Print_Increasing.executor": "Run",
+    "Application.Print_Increasing_Decreasing.executor": "Run",
     "Application.Print_N_To_1.executor": "Run",
     "Application.Print_String.executor": "Run",
     "Application.Print_Upper_Matrix.executor": "Run",
@@ -304,9 +305,9 @@
       <recent name="Week_5_Multidimensional_Arrays.Practice_Matrix" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reverse_Number">
-    <configuration name="Construct_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Construct_Triangle" />
+  <component name="RunManager" selected="Application.Sum_Of_Elements_In_Array">
+    <configuration name="Minimum_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Minimum_In_Array" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -318,8 +319,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_Array_In_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Print_Array_In_Reverse" />
+    <configuration name="Print_Increasing_Decreasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Print_Increasing_Decreasing" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -344,8 +345,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_Element_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Search_Element_In_Array" />
+    <configuration name="Sum_Of_Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Sum_Of_Digit" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -357,8 +358,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week_10_Recursion.Assignment_Recursion.Stair_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Stair_Path" />
+    <configuration name="Sum_Of_Elements_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Sum_Of_Elements_In_Array" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -371,19 +372,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Construct_Triangle" />
-      <item itemvalue="Application.Print_Array_In_Reverse" />
+      <item itemvalue="Application.Minimum_In_Array" />
+      <item itemvalue="Application.Print_Increasing_Decreasing" />
+      <item itemvalue="Application.Sum_Of_Digit" />
+      <item itemvalue="Application.Sum_Of_Elements_In_Array" />
       <item itemvalue="Application.Reverse_Number" />
-      <item itemvalue="Application.Search_Element_In_Array" />
-      <item itemvalue="Application.Week_10_Recursion.Assignment_Recursion.Stair_Path" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum_Of_Elements_In_Array" />
+        <item itemvalue="Application.Minimum_In_Array" />
+        <item itemvalue="Application.Sum_Of_Digit" />
+        <item itemvalue="Application.Print_Increasing_Decreasing" />
         <item itemvalue="Application.Reverse_Number" />
-        <item itemvalue="Application.Construct_Triangle" />
-        <item itemvalue="Application.Search_Element_In_Array" />
-        <item itemvalue="Application.Print_Array_In_Reverse" />
-        <item itemvalue="Application.Week_10_Recursion.Assignment_Recursion.Stair_Path" />
       </list>
     </recent_temporary>
   </component>
@@ -403,6 +404,7 @@
       <workItem from="1709409761614" duration="5000" />
       <workItem from="1710948928153" duration="176000" />
       <workItem from="1712062682052" duration="211000" />
+      <workItem from="1716487496889" duration="24000" />
     </task>
     <servers />
   </component>
