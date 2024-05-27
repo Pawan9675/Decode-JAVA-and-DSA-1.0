@@ -1,3 +1,4 @@
+// Given a positive integer, return true if it is a power of 2.
 package Week_10_Recursion.Assignment_Recursion;
 import java.util.Scanner;
 

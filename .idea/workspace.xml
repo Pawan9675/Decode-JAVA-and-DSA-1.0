@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Find_Last_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Is_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Binary_To_Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Decimal_To_Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Generate_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Longest_Common_Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Assignment_Recursion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Assignment_Recursion/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Assignment_Recursion/Minimum_In_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Assignment_Recursion/Minimum_In_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Minimum_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Minimum_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Power_Of_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Power_Of_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Reverse_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Assignment_Recursion/Reverse_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +70,7 @@
     "Application.BinaryTriangle.executor": "Run",
     "Application.Binary_Search.executor": "Coverage",
     "Application.Binary_Search_On_Decreasing_Array.executor": "Run",
+    "Application.Binary_To_Decimal.executor": "Run",
     "Application.Bubble_Sort.executor": "Debug",
     "Application.Built_In_Sort.executor": "Run",
     "Application.CharAt_and_Length.executor": "Run",
@@ -78,6 +87,7 @@
     "Application.Count_Of_Digit.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
     "Application.Decending_Using_Bubble_Sort.executor": "Run",
+    "Application.Decimal_To_Binary.executor": "Run",
     "Application.Delete_Element_At_Specific_Position.executor": "Run",
     "Application.Diagonal_Traversal.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
@@ -104,6 +114,7 @@
     "Application.FunctionCall1.executor": "Run",
     "Application.FunctionCall2.executor": "Run",
     "Application.GCD.executor": "Run",
+    "Application.Generate_Arrays.executor": "Run",
     "Application.Generate_Binary_String_Without_Consecutive_1s.executor": "Run",
     "Application.Generate_Parenthesis.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
@@ -123,6 +134,7 @@
     "Application.Last_Occurrence.executor": "Run",
     "Application.Lexicographically_Sorting.executor": "Run",
     "Application.Linear_Search_2D.executor": "Run",
+    "Application.Longest_Common_Substring.executor": "Run",
     "Application.Lower_Bound.executor": "Run",
     "Application.M_GreaterThan_NumberOfUnique.executor": "Run",
     "Application.Maximum_Element_In_Array.executor": "Run",
@@ -306,13 +318,26 @@
       <recent name="Week_9_Binary_Search.Assignment_BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Find_Last_Index">
-    <configuration name="Find_All_Indices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Find_All_Indices" />
+  <component name="RunManager" selected="Application.Binary_To_Decimal">
+    <configuration name="Binary_To_Decimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Binary_To_Decimal" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Assignment_Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Decimal_To_Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Decimal_To_Binary" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_10_Recursion.Assignment_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,21 +358,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Is_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Is_Sorted" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Minimum_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Minimum_In_Array" />
+    <configuration name="Generate_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Generate_Arrays" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -359,8 +371,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Of_Elements_In_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Sum_Of_Elements_In_Array" />
+    <configuration name="Longest_Common_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Assignment_Recursion.Longest_Common_Substring" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -373,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Find_All_Indices" />
+      <item itemvalue="Application.Binary_To_Decimal" />
+      <item itemvalue="Application.Decimal_To_Binary" />
       <item itemvalue="Application.Find_Last_Index" />
-      <item itemvalue="Application.Is_Sorted" />
-      <item itemvalue="Application.Minimum_In_Array" />
-      <item itemvalue="Application.Sum_Of_Elements_In_Array" />
+      <item itemvalue="Application.Generate_Arrays" />
+      <item itemvalue="Application.Longest_Common_Substring" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Binary_To_Decimal" />
+        <item itemvalue="Application.Decimal_To_Binary" />
+        <item itemvalue="Application.Longest_Common_Substring" />
+        <item itemvalue="Application.Generate_Arrays" />
         <item itemvalue="Application.Find_Last_Index" />
-        <item itemvalue="Application.Is_Sorted" />
-        <item itemvalue="Application.Find_All_Indices" />
-        <item itemvalue="Application.Sum_Of_Elements_In_Array" />
-        <item itemvalue="Application.Minimum_In_Array" />
       </list>
     </recent_temporary>
   </component>

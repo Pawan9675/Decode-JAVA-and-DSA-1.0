@@ -1,3 +1,4 @@
+// Program to find the factorial of a given number.
 package Week_10_Recursion.Assignment_Recursion;
 
 import java.util.Scanner;

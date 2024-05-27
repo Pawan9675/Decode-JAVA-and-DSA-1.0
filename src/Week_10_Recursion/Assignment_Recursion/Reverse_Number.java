@@ -1,3 +1,4 @@
+// Write a recursive function to reverse a number. Avoid preceding 0s in the reversed number.
 package Week_10_Recursion.Assignment_Recursion;
 
 import java.util.Scanner;
