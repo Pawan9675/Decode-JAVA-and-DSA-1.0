@@ -28,6 +28,7 @@ public class Sub_array {
          */
 
         // For Sub-array of an array:
+        // Note: This will work only in unique elements.
         // Exclude the current element and move to the next index
         printSubArray_Recursion(list, arr, idx + 1);
         // Include the current element in the sub-array if the list is empty or the last element is equal to the previous element
