@@ -6,11 +6,12 @@ import java.util.Scanner;
 
 public class Power {
     public static int calculatePower1(int base, int exponent) {      // Time Complexity: O(exponent)
-        if (exponent == 0) return 1;
+        if (exponent == 0) return 1;                                 // Space Complexity: O(exponent)
         return calculatePower1(base, exponent - 1) * base;
     }
 
     public static int calculatePower2(int base, int exponent) {     // Time Complexity: O(log(exponent))
+
         if (exponent == 0) return 1;
         int smallPower = calculatePower2(base, exponent / 2);
         if (exponent % 2 == 0) return smallPower * smallPower;      // even

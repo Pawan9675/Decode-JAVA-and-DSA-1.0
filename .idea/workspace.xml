@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Check_Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Check_Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Power.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +316,7 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern_Of_5">
+  <component name="RunManager" selected="Application.Power">
     <configuration name="Increasing_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Increasing_Sequence" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -330,8 +330,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mth_Summation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Mth_Summation" />
+    <configuration name="Pattern_Of_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Pattern_Of_5" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -343,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_Of_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Pattern_Of_5" />
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Power" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Practice_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,19 +383,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Power" />
       <item itemvalue="Application.Increasing_Sequence" />
-      <item itemvalue="Application.Mth_Summation" />
       <item itemvalue="Application.Pattern_Of_5" />
       <item itemvalue="Application.Print_Increasing_Decreasing" />
       <item itemvalue="Application.Remove_Occurrences_Of_A" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Power" />
         <item itemvalue="Application.Pattern_Of_5" />
         <item itemvalue="Application.Increasing_Sequence" />
         <item itemvalue="Application.Remove_Occurrences_Of_A" />
         <item itemvalue="Application.Print_Increasing_Decreasing" />
-        <item itemvalue="Application.Mth_Summation" />
       </list>
     </recent_temporary>
   </component>
