@@ -27,3 +27,13 @@ public class GCD {
         System.out.println("GCD of " + x + " and " + y + " is: " + gcd_recursive(x, y));
     }
 }
+
+/*
+Euclid's Algorithm:
+gcd(x,y) = gcd(y, x%y)
+gcd(x,0) = x
+
+Note:
+LCM * GCD = a * b
+=> LCM = (a * b) / GCD
+*/

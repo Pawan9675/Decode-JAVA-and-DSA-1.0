@@ -14,7 +14,7 @@
    // Self work
     ```
 
-### Syntax
+### Syntax:
     methodName (N parameters)
     {
         if (haltCondition) {
@@ -22,3 +22,9 @@
         }
         return methodName (N parameters)
     }
+
+### Time Complexity:
+ ``
+      T.C. = Number of calls * Time Taken in 1 call
+ ``
+ 
