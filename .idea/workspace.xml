@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Binary_To_Gray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Construct_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Generate_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Generate_Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Grid_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Convert_To_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Count_Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Count_Lowercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Merge_String_Alternatively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Uppercase_Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Extra_Practice/Recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Extra_Practice/Recursion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Practice_Recursion/Generate_Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Practice_Recursion/Generate_Combination.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,7 @@
     "Application.Convert_To_Integer.executor": "Run",
     "Application.Count_1s_In_Binary_Array.executor": "Run",
     "Application.Count_Consonants.executor": "Run",
+    "Application.Count_Lowercase.executor": "Run",
     "Application.Count_Of_Digit.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
     "Application.Decending_Using_Bubble_Sort.executor": "Run",
@@ -114,6 +115,7 @@
     "Application.GCD.executor": "Run",
     "Application.Generate_Arrays.executor": "Run",
     "Application.Generate_Binary_String_Without_Consecutive_1s.executor": "Run",
+    "Application.Generate_Combination.executor": "Run",
     "Application.Generate_Parenthesis.executor": "Run",
     "Application.Generate_Spiral.executor": "Run",
     "Application.Greatest_Common_Divisor.executor": "Run",
@@ -143,6 +145,7 @@
     "Application.Maximum_Occurring_Character_In_a_String.executor": "Run",
     "Application.Maximum_Occurring_Character_In_a_String1.executor": "Run",
     "Application.Maze_Path.executor": "Run",
+    "Application.Merge_String_Alternatively.executor": "Run",
     "Application.Middle_Row_And_Middle_Column_Printing.executor": "Run",
     "Application.MinimumPlatform.executor": "Run",
     "Application.Minimum_Element_In_Rotated_Sorted_Array.executor": "Run",
@@ -281,6 +284,7 @@
     "Application.UpdateEvenPositions.executor": "Run",
     "Application.Update_Odd_Position_To_Character.executor": "Run",
     "Application.Upper_Bound.executor": "Run",
+    "Application.Uppercase_Substring.executor": "Run",
     "Application.Waveform_Printing.executor": "Run",
     "Application.Week_10_Recursion.Assignment_Recursion.Stair_Path.executor": "Run",
     "Application.Week_9_Binary_Search.Assignment_BinarySearch.Last_Occurrence.executor": "Run",
@@ -304,7 +308,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.grazie.pro",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -323,9 +327,9 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Generate_Combination">
-    <configuration name="Binary_To_Gray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Binary_To_Gray" />
+  <component name="RunManager" selected="Application.Convert_To_Integer">
+    <configuration name="Convert_To_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Convert_To_Integer" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -337,8 +341,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Construct_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Construct_Triangle" />
+    <configuration name="Count_Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Count_Consonants" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -350,8 +354,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generate_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Generate_Arrays" />
+    <configuration name="Count_Lowercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Count_Lowercase" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -363,8 +367,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generate_Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Generate_Combination" />
+    <configuration name="Merge_String_Alternatively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Merge_String_Alternatively" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -376,8 +380,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grid_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Grid_Path" />
+    <configuration name="Uppercase_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Uppercase_Substring" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -390,19 +394,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Binary_To_Gray" />
-      <item itemvalue="Application.Construct_Triangle" />
-      <item itemvalue="Application.Generate_Arrays" />
-      <item itemvalue="Application.Generate_Combination" />
-      <item itemvalue="Application.Grid_Path" />
+      <item itemvalue="Application.Convert_To_Integer" />
+      <item itemvalue="Application.Count_Consonants" />
+      <item itemvalue="Application.Count_Lowercase" />
+      <item itemvalue="Application.Merge_String_Alternatively" />
+      <item itemvalue="Application.Uppercase_Substring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Generate_Combination" />
-        <item itemvalue="Application.Generate_Arrays" />
-        <item itemvalue="Application.Construct_Triangle" />
-        <item itemvalue="Application.Grid_Path" />
-        <item itemvalue="Application.Binary_To_Gray" />
+        <item itemvalue="Application.Convert_To_Integer" />
+        <item itemvalue="Application.Count_Lowercase" />
+        <item itemvalue="Application.Count_Consonants" />
+        <item itemvalue="Application.Uppercase_Substring" />
+        <item itemvalue="Application.Merge_String_Alternatively" />
       </list>
     </recent_temporary>
   </component>
