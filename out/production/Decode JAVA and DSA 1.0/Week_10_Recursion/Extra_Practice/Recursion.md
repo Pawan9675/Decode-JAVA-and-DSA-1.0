@@ -23,8 +23,9 @@
         return methodName (N parameters)
     }
 
-### Time Complexity:
- ``
+### Time and Space Complexity:
+ ```
       T.C. = Number of calls * Time Taken in 1 call
- ``
+      S.C. = Number of max stack frames at any instances * Max space occupied in 1 stack frame
+ ```
  
