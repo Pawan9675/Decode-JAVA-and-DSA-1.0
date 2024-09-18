@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Digits_With_Space.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/N_Digit_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Special_Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Special_Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Strings_From_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Palindrome_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Beautiful_Strings1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Beautiful_Strings2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Count_Same_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Increasing_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Practice_Recursion/Palindrome_Partitioning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Practice_Recursion/Convert_To_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Practice_Recursion/Convert_To_Integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Extra_Practice/Remove_Occurrences_Of_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_10_Recursion/Extra_Practice/Remove_Occurrences_Of_A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Remove_Occurrences_Of_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_10_Recursion/Extra_Practice/Remove_Occurrences_Of_A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,8 @@
     "Application.ArrayList_2D.executor": "Run",
     "Application.BasicDeclaration.executor": "Run",
     "Application.BasicsOfArrays.executor": "Run",
+    "Application.Beautiful_Strings2.executor": "Run",
+    "Application.Beautiful_Strings_2.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
     "Application.Binary_Search.executor": "Coverage",
     "Application.Binary_Search_On_Decreasing_Array.executor": "Run",
@@ -84,6 +89,7 @@
     "Application.Count_Consonants.executor": "Run",
     "Application.Count_Lowercase.executor": "Run",
     "Application.Count_Of_Digit.executor": "Run",
+    "Application.Count_Same_Substring.executor": "Run",
     "Application.Count_Vowels.executor": "Run",
     "Application.Decending_Using_Bubble_Sort.executor": "Run",
     "Application.Decimal_To_Binary.executor": "Run",
@@ -122,7 +128,9 @@
     "Application.Greatest_Common_Divisor.executor": "Run",
     "Application.Grid_Path.executor": "Run",
     "Application.Hallow_Hourglass_Pattern.executor": "Run",
+    "Application.IncreasingSubstringGenerator.executor": "Run",
     "Application.Increasing_Sequence.executor": "Run",
+    "Application.Increasing_Substring.executor": "Run",
     "Application.IndexOf_and_CompareTo.executor": "Run",
     "Application.Insert_and_Delete_In_StringBuilders.executor": "Run",
     "Application.Insertion_Sort.executor": "Run",
@@ -171,7 +179,9 @@
     "Application.Occurrence_Of_Element.executor": "Run",
     "Application.OddNumberTriangle.executor": "Run",
     "Application.Palindrome_Array.executor": "Run",
+    "Application.Palindrome_Partitioning.executor": "Run",
     "Application.Palindrome_String.executor": "Run",
+    "Application.Palindrome_Strings.executor": "Run",
     "Application.PascalTriangleUsingCombinationFunction.executor": "Run",
     "Application.Pascal_Triangle.executor": "Run",
     "Application.Pattern_Of_5.executor": "Run",
@@ -211,6 +221,7 @@
     "Application.Reverse_Each_Word_In_a_Sentence.executor": "Run",
     "Application.Reverse_Number.executor": "Run",
     "Application.Reverse_Second_Half.executor": "Run",
+    "Application.Reverse_String.executor": "Run",
     "Application.Reverse_StringBuilder.executor": "Run",
     "Application.Right_Pascal_Triangle.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
@@ -240,6 +251,7 @@
     "Application.Sorted_After_Subtracting_K.executor": "Run",
     "Application.Sorting_String_And_StringBuilders.executor": "Run",
     "Application.Special_Pattern1.executor": "Run",
+    "Application.Special_Pattern2.executor": "Run",
     "Application.Spiral_Matrix.executor": "Run",
     "Application.Spiral_Matrix_Generation.executor": "Run",
     "Application.Spiral_Matrix_Traversal.executor": "Run",
@@ -302,7 +314,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_9_Binary_Search/Assignment_BinarySearch",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_10_Recursion/Practice_Recursion",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -312,12 +324,13 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_10_Recursion\Practice_Recursion" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_9_Binary_Search\Assignment_BinarySearch" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_5_Multidimensional_Arrays\Assignment_Multidimension_Arrays" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\ExtraPractice" />
@@ -331,9 +344,9 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Special_Pattern2">
-    <configuration name="Digits_With_Space" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Digits_With_Space" />
+  <component name="RunManager" selected="Application.Palindrome_Number">
+    <configuration name="Increasing_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Increasing_Substring" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -345,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N_Digit_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.N_Digit_Numbers" />
+    <configuration name="Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Palindrome_Number" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Practice_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Special_Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Special_Pattern1" />
+    <configuration name="Palindrome_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Palindrome_Strings" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Practice_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,12 +384,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Special_Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Special_Pattern2" />
+    <configuration name="Remove_Occurrences_Of_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Remove_Occurrences_Of_A" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Practice_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings_From_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Practice_Recursion.Strings_From_Set" />
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Reverse_String" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.Practice_Recursion.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,19 +411,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Digits_With_Space" />
-      <item itemvalue="Application.N_Digit_Numbers" />
-      <item itemvalue="Application.Special_Pattern1" />
-      <item itemvalue="Application.Special_Pattern2" />
-      <item itemvalue="Application.Strings_From_Set" />
+      <item itemvalue="Application.Palindrome_Number" />
+      <item itemvalue="Application.Palindrome_Strings" />
+      <item itemvalue="Application.Reverse_String" />
+      <item itemvalue="Application.Remove_Occurrences_Of_A" />
+      <item itemvalue="Application.Increasing_Substring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Special_Pattern2" />
-        <item itemvalue="Application.Digits_With_Space" />
-        <item itemvalue="Application.Strings_From_Set" />
-        <item itemvalue="Application.Special_Pattern1" />
-        <item itemvalue="Application.N_Digit_Numbers" />
+        <item itemvalue="Application.Palindrome_Number" />
+        <item itemvalue="Application.Palindrome_Strings" />
+        <item itemvalue="Application.Reverse_String" />
+        <item itemvalue="Application.Remove_Occurrences_Of_A" />
+        <item itemvalue="Application.Increasing_Substring" />
       </list>
     </recent_temporary>
   </component>
