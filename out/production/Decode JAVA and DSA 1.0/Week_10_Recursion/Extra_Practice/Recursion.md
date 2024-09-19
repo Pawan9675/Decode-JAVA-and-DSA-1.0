@@ -29,3 +29,16 @@
       S.C. = Number of max stack frames at any instances * Max space occupied in 1 stack frame
  ```
  
+### ASCII
+   - American Standard Code for Information Interchange.
+   - Standard data encoding format for communication between computers.
+   - Assigns standard values to letters, numerals, characters etc.
+   - a-z: 97 to 122.
+   - A-Z: 65 to 90.
+   - 0-9: 48 to 57.
+
+### Character to Integer Conversion
+```
+   char ch = '3';
+   int ch_val = ch - '0';
+```
