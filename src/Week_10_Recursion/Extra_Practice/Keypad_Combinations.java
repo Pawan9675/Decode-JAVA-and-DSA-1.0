@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Keypad_Combinations {
 
     // Function to recursively generate all possible letter combinations for the given digits
-    public static void generateCombinations(String digits, String[] keyPadMapping, String currentCombination) {
+    public static void generateCombinations(String digits, String[] keyPadMapping, String currentCombination) {     // T.C. = O(n*4^n)
         // Base case: if no more digits are left, print the current combination
         if (digits.isEmpty()) {
             System.out.print(currentCombination + " ");
