@@ -1,4 +1,4 @@
-### Limitations of Arrays (Short Notes):
+### Limitations of Arrays:
 
 1. **Fixed Size:** Cannot change size after allocation.
 2. **Wasted Space:** Over/underestimation leads to wasted or insufficient memory.
@@ -20,3 +20,12 @@
 3. **Non-contiguous Memory:** No need for continuous memory allocation.
 4. **No Wasted Space:** Minimizes unused memory.
 5. **Supports Complex Structures:** Easily forms stacks, queues, etc.
+
+
+### Limitations of LinkedList:
+1. **Slower Access:** `get()` is O(N) in LinkedLists vs O(1) in Arrays.
+2. **Slower Modification:** `set()` is O(N) in LinkedLists vs O(1) in Arrays.
+3. **Higher Memory Use:** Extra space for pointers in LinkedLists.
+4. **Poor Cache Performance:** LinkedLists lack continuous memory, unlike Arrays.
+5. **No Random Access:** Indexing in LinkedLists is slower.
+6. **Pointer Overhead:** Each node has an extra pointer, increasing memory use.

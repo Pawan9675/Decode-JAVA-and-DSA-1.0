@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="" />
+    <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Week_12_LinkedList/LinkedList.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/LinkedList.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
