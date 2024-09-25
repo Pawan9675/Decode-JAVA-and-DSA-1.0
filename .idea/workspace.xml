@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Middle_Node/Left_Middle_Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Middle_Node/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Middle_Node/Right_Middle_Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Nth_From_End.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/OOPS/College.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/OOPS/College.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/OOPS/OOPS$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/OOPS/OOPS$Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/OOPS/OOPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/OOPS/OOPS.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +171,7 @@
     "Application.Multiplication_Of_Matrix.executor": "Run",
     "Application.Multiplication_Of_Two_Matrices.executor": "Run",
     "Application.N_Digit_Numbers.executor": "Run",
+    "Application.Nth_From_End.executor": "Run",
     "Application.NumberSpiral.executor": "Run",
     "Application.Number_Of_NonOverlap_Interval.executor": "Run",
     "Application.Number_Triangular.executor": "Run",
@@ -228,6 +224,7 @@
     "Application.Reverse_Second_Half.executor": "Run",
     "Application.Reverse_String.executor": "Run",
     "Application.Reverse_StringBuilder.executor": "Run",
+    "Application.Right_Middle_Node.executor": "Run",
     "Application.Right_Pascal_Triangle.executor": "Run",
     "Application.Roll_No_and_Marks_Of_Student.executor": "Run",
     "Application.Rotate_90_AntiClockWise.executor": "Run",
@@ -352,7 +349,7 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Right_Middle_Node">
+  <component name="RunManager" selected="Application.Nth_From_End">
     <configuration name="Left_Middle_Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Middle_Node.Left_Middle_Node" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -379,12 +376,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList_Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.LinkedList_Introduction" />
+    <configuration name="Nth_From_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Nth_From_End" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.OOPS.*" />
+          <option name="PATTERN" value="Week_12_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,7 +394,7 @@
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.OOPS.*" />
+          <option name="PATTERN" value="Week_12_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,7 +420,7 @@
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.OOPS.*" />
+          <option name="PATTERN" value="Week_12_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,18 +430,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Left_Middle_Node" />
+      <item itemvalue="Application.Nth_From_End" />
       <item itemvalue="Application.Right_Middle_Node" />
-      <item itemvalue="Application.LinkedList_Introduction" />
       <item itemvalue="Application.OOPS" />
       <item itemvalue="Application.Shallow_Copy_Of_A_Node" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nth_From_End" />
         <item itemvalue="Application.Right_Middle_Node" />
         <item itemvalue="Application.Left_Middle_Node" />
         <item itemvalue="Application.OOPS" />
         <item itemvalue="Application.Shallow_Copy_Of_A_Node" />
-        <item itemvalue="Application.LinkedList_Introduction" />
       </list>
     </recent_temporary>
   </component>
