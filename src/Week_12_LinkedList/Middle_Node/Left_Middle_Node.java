@@ -27,11 +27,11 @@ public class Left_Middle_Node {
         // Now fast is starting from the second node, so when it reaches the end,
         // slow will be at the first (left) middle node in case of an even number of nodes
         while (fast != null && fast.next != null) {
-            slow = slow.next;        // Move slow pointer by one node
-            fast = fast.next.next;   // Move fast pointer by two nodes
+            slow = slow.next;        // Move slow-pointer by one node
+            fast = fast.next.next;   // Move fast-pointer by two nodes
         }
 
-        // When fast pointer reaches the end, slow pointer will be at the first middle
+        // When a fast-pointer reaches the end, the slow-pointer will be at the first middle
         return slow;  // Return the left middle node
     }
 
