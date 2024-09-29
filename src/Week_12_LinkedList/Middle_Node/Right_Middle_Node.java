@@ -27,11 +27,11 @@ public class Right_Middle_Node {
         // Traverse the list with fast and slow pointers
         // When fast reaches the end (or the last node), slow will be at the right middle node
         while (fast != null && fast.next != null) {
-            slow = slow.next;        // Move slow pointer by one node
-            fast = fast.next.next;   // Move fast pointer by two nodes
+            slow = slow.next;        // Move slow-pointer by one node
+            fast = fast.next.next;   // Move fast-pointer by two nodes
         }
 
-        // When fast pointer reaches the end, slow pointer will be at the right middle
+        // When the fast-pointer reaches the end, the slow-pointer will be at the right middle
         return slow;  // Return the right middle node
     }
 
