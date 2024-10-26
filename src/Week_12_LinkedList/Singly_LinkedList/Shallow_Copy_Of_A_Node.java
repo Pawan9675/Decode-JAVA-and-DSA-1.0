@@ -1,4 +1,4 @@
-package Week_12_LinkedList;
+package Week_12_LinkedList.Singly_LinkedList;
 
 public class Shallow_Copy_Of_A_Node {
     public static void main(String[] args) {

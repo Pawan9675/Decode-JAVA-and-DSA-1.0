@@ -1,4 +1,4 @@
-package Week_12_LinkedList;
+package Week_12_LinkedList.Singly_LinkedList;
 
 // Class representing a node in the linked list
 class Node {

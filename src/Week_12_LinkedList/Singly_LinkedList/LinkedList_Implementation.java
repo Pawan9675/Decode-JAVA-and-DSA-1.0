@@ -1,4 +1,4 @@
-package Week_12_LinkedList;
+package Week_12_LinkedList.Singly_LinkedList;
 
 // This is the class to implement a Singly Linked List
 class SinglyLinkedList {        // User Defined Data Structure

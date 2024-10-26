@@ -1,4 +1,4 @@
-package Week_12_LinkedList;
+package Week_12_LinkedList.Singly_LinkedList;
 
 import java.util.Scanner;
 
