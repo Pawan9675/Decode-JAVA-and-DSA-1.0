@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Assignment_LinkedList/LinkedList_Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Access_First_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Basics_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Copy_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Display_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Display_Stack_Recursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Implementation_Of_Stack_Using_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Implementation_Of_Stack_Using_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Push_Element_At_Any_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Reverse_Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +85,7 @@
     "Application.Contains_StartsWith.executor": "Run",
     "Application.Convert_Int_To_String.executor": "Run",
     "Application.Convert_To_Integer.executor": "Run",
+    "Application.Copy_Stack.executor": "Run",
     "Application.Count_1s_In_Binary_Array.executor": "Run",
     "Application.Count_Consonants.executor": "Run",
     "Application.Count_Lowercase.executor": "Run",
@@ -89,6 +98,8 @@
     "Application.Diagonal_Traversal.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
     "Application.Digits_With_Space.executor": "Run",
+    "Application.Display_Stack.executor": "Run",
+    "Application.Display_Stack_Recursively.executor": "Run",
     "Application.Distributes_Chocolates.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.Doubly_LinkedList.executor": "Run",
@@ -123,6 +134,12 @@
     "Application.Greatest_Common_Divisor.executor": "Run",
     "Application.Grid_Path.executor": "Run",
     "Application.Hallow_Hourglass_Pattern.executor": "Run",
+    "Application.Implementation_Of_Stack_Using_Array.executor": "Run",
+    "Application.Implementation_Of_Stack_Using_LinkedList (1).executor": "Run",
+    "Application.Implementation_Of_Stack_Using_LinkedList (2).executor": "Run",
+    "Application.Implementation_Of_Stack_Using_LinkedList (3).executor": "Run",
+    "Application.Implementation_Of_Stack_Using_LinkedList (4).executor": "Run",
+    "Application.Implementation_Of_Stack_Using_LinkedList.executor": "Run",
     "Application.IncreasingSubstringGenerator.executor": "Run",
     "Application.Increasing_Sequence.executor": "Run",
     "Application.Increasing_Substring.executor": "Run",
@@ -324,7 +341,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_12_LinkedList/Assignment_LinkedList",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_13_Stack",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -340,11 +357,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_13_Stack" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_12_LinkedList\Assignment_LinkedList" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_12_LinkedList\Singly_Circular_LinkedList" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_10_Recursion\Practice_Recursion" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_9_Binary_Search\Assignment_BinarySearch" />
-      <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_5_Multidimensional_Arrays\Assignment_Multidimension_Arrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Week_10_Recursion.Practice_Recursion" />
@@ -354,13 +371,13 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedList_Implementation (2)">
-    <configuration name="Doubly_LinkedList_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Doubly_LinkedList.Doubly_LinkedList_Implementation" />
+  <component name="RunManager" selected="Application.Implementation_Of_Stack_Using_LinkedList">
+    <configuration name="Implementation_Of_Stack_Using_LinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Implementation_Of_Stack_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Doubly_LinkedList.*" />
+          <option name="PATTERN" value="Week_13_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,12 +385,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Singly_Circular_LinkedList.LinkedListImplementation" />
+    <configuration name="Implementation_Of_Stack_Using_LinkedList (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Implementation_Of_Stack_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Singly_Circular_LinkedList.*" />
+          <option name="PATTERN" value="Week_13_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,12 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList_Implementation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Assignment_LinkedList.LinkedList_Implementation" />
+    <configuration name="Implementation_Of_Stack_Using_LinkedList (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Implementation_Of_Stack_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Assignment_LinkedList.*" />
+          <option name="PATTERN" value="Week_13_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,12 +411,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList_Implementation (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Assignment_LinkedList.LinkedList_Implementation" />
+    <configuration name="Implementation_Of_Stack_Using_LinkedList (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Implementation_Of_Stack_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Assignment_LinkedList.*" />
+          <option name="PATTERN" value="Week_13_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +424,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Assignment_LinkedList.LinkedList_Implementation" />
+    <configuration name="Implementation_Of_Stack_Using_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Implementation_Of_Stack_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Assignment_LinkedList.*" />
+          <option name="PATTERN" value="Week_13_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,19 +438,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LinkedList_Implementation" />
-      <item itemvalue="Application.LinkedList_Implementation (1)" />
-      <item itemvalue="Application.LinkedList_Implementation (2)" />
-      <item itemvalue="Application.Doubly_LinkedList_Implementation" />
-      <item itemvalue="Application.LinkedListImplementation" />
+      <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList" />
+      <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (1)" />
+      <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (2)" />
+      <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (3)" />
+      <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedList_Implementation (2)" />
-        <item itemvalue="Application.LinkedList_Implementation" />
-        <item itemvalue="Application.LinkedList_Implementation (1)" />
-        <item itemvalue="Application.LinkedListImplementation" />
-        <item itemvalue="Application.Doubly_LinkedList_Implementation" />
+        <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList" />
+        <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (4)" />
+        <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (3)" />
+        <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (2)" />
+        <item itemvalue="Application.Implementation_Of_Stack_Using_LinkedList (1)" />
       </list>
     </recent_temporary>
   </component>
