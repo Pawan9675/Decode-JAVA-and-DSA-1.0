@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Doubly_LinkedList/Check_Palindrome_In_Doubly_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Doubly_LinkedList/DoublyLinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Doubly_LinkedList/Doubly_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Doubly_LinkedList/Doubly_LinkedList_Implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Singly_Circular_LinkedList/LinkedListImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Assignment_LinkedList/LinkedList_Implementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/LinkedList_Implementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/LinkedList_Introduction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/Nth_From_End$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/Nth_From_End.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/Shallow_Copy_Of_A_Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_12_LinkedList/SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_12_LinkedList/LinkedList_Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Singly_LinkedList/LinkedList_Implementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_12_LinkedList/LinkedList_Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Singly_LinkedList/LinkedList_Introduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_12_LinkedList/Nth_From_End.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Singly_LinkedList/Nth_From_End.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_12_LinkedList/Shallow_Copy_Of_A_Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_12_LinkedList/Singly_LinkedList/Shallow_Copy_Of_A_Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +143,7 @@
     "Application.Linear_Search_2D.executor": "Run",
     "Application.LinkedListImplementation.executor": "Run",
     "Application.LinkedList_Implementation (1).executor": "Run",
+    "Application.LinkedList_Implementation (2).executor": "Run",
     "Application.LinkedList_Implementation.executor": "Run",
     "Application.LinkedList_Introduction.executor": "Run",
     "Application.Longest_Common_Substring.executor": "Run",
@@ -334,10 +320,11 @@
     "Application.demo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_12_LinkedList/Singly_Circular_LinkedList",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Decode JAVA and DSA 1.0/src/Week_12_LinkedList/Assignment_LinkedList",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -353,11 +340,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_12_LinkedList\Assignment_LinkedList" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_12_LinkedList\Singly_Circular_LinkedList" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_10_Recursion\Practice_Recursion" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_9_Binary_Search\Assignment_BinarySearch" />
       <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_5_Multidimensional_Arrays\Assignment_Multidimension_Arrays" />
-      <recent name="C:\Users\Asus\IdeaProjects\Decode JAVA and DSA 1.0\src\Week_4_Arrays\ExtraPractice" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Week_10_Recursion.Practice_Recursion" />
@@ -367,20 +354,7 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListImplementation">
-    <configuration name="Doubly_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Doubly_LinkedList.Doubly_LinkedList" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Doubly_LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedList_Implementation (2)">
     <configuration name="Doubly_LinkedList_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Doubly_LinkedList.Doubly_LinkedList_Implementation" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -407,12 +381,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nth_From_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Singly_LinkedList.Nth_From_End" />
+    <configuration name="LinkedList_Implementation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Assignment_LinkedList.LinkedList_Implementation" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Singly_LinkedList.*" />
+          <option name="PATTERN" value="Week_12_LinkedList.Assignment_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +394,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Right_Middle_Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Middle_Node.Right_Middle_Node" />
+    <configuration name="LinkedList_Implementation (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Assignment_LinkedList.LinkedList_Implementation" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_12_LinkedList.Middle_Node.*" />
+          <option name="PATTERN" value="Week_12_LinkedList.Assignment_LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_12_LinkedList.Assignment_LinkedList.LinkedList_Implementation" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_12_LinkedList.Assignment_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,19 +421,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Doubly_LinkedList" />
+      <item itemvalue="Application.LinkedList_Implementation" />
+      <item itemvalue="Application.LinkedList_Implementation (1)" />
+      <item itemvalue="Application.LinkedList_Implementation (2)" />
       <item itemvalue="Application.Doubly_LinkedList_Implementation" />
       <item itemvalue="Application.LinkedListImplementation" />
-      <item itemvalue="Application.Nth_From_End" />
-      <item itemvalue="Application.Right_Middle_Node" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList_Implementation (2)" />
+        <item itemvalue="Application.LinkedList_Implementation" />
+        <item itemvalue="Application.LinkedList_Implementation (1)" />
         <item itemvalue="Application.LinkedListImplementation" />
         <item itemvalue="Application.Doubly_LinkedList_Implementation" />
-        <item itemvalue="Application.Doubly_LinkedList" />
-        <item itemvalue="Application.Nth_From_End" />
-        <item itemvalue="Application.Right_Middle_Node" />
       </list>
     </recent_temporary>
   </component>
