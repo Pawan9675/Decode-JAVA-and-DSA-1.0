@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Push_At_Bottom_Recursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Push_At_Index_Recursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_13_Stack/Reverse_Stack_Recursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/Basics_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/CircularQueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/DequeSTL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/Deque_Implementation_Using_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/Implementation_Of_Queue_Using_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/LinkedList_Implementation_Of_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/PrintQueueUsingAllFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/RemoveEvenIndexElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/ReverseQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +79,7 @@
     "Application.Check_Anagram.executor": "Run",
     "Application.Check_Palindrome.executor": "Run",
     "Application.Check_Prime.executor": "Run",
+    "Application.CircularQueueArray.executor": "Run",
     "Application.Concatenate_With_Its_Reverse.executor": "Run",
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
     "Application.Construct_Triangle.executor": "Run",
@@ -89,6 +96,7 @@
     "Application.Decending_Using_Bubble_Sort.executor": "Run",
     "Application.Decimal_To_Binary.executor": "Run",
     "Application.Delete_Element_At_Specific_Position.executor": "Run",
+    "Application.Deque_Implementation_Using_LinkedList.executor": "Run",
     "Application.Diagonal_Traversal.executor": "Run",
     "Application.Different_Neighbouring_Character.executor": "Run",
     "Application.Digits_With_Space.executor": "Run",
@@ -128,6 +136,7 @@
     "Application.Greatest_Common_Divisor.executor": "Run",
     "Application.Grid_Path.executor": "Run",
     "Application.Hallow_Hourglass_Pattern.executor": "Run",
+    "Application.Implementation_Of_Queue_Using_Array.executor": "Run",
     "Application.Implementation_Of_Stack_Using_Array.executor": "Run",
     "Application.Implementation_Of_Stack_Using_LinkedList (1).executor": "Run",
     "Application.Implementation_Of_Stack_Using_LinkedList (2).executor": "Run",
@@ -158,6 +167,7 @@
     "Application.LinkedList_Implementation (1).executor": "Run",
     "Application.LinkedList_Implementation (2).executor": "Run",
     "Application.LinkedList_Implementation.executor": "Run",
+    "Application.LinkedList_Implementation_Of_Queue.executor": "Run",
     "Application.LinkedList_Introduction.executor": "Run",
     "Application.Longest_Common_Substring.executor": "Run",
     "Application.Lower_Bound.executor": "Run",
@@ -375,13 +385,13 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PreviousGreaterElement">
-    <configuration name="Display_Stack_Recursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Display_Stack_Recursively" />
+  <component name="RunManager" selected="Application.CircularQueueArray">
+    <configuration name="CircularQueueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_14_Queue.CircularQueueArray" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_13_Stack.*" />
+          <option name="PATTERN" value="Week_14_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,12 +399,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Postfix_To_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Postfix_To_Prefix" />
+    <configuration name="Deque_Implementation_Using_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_14_Queue.Deque_Implementation_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_13_Stack.*" />
+          <option name="PATTERN" value="Week_14_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Implementation_Of_Queue_Using_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_14_Queue.Implementation_Of_Queue_Using_Array" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_14_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList_Implementation_Of_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_14_Queue.LinkedList_Implementation_Of_Queue" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_14_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,46 +451,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Push_At_Bottom_Recursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Push_At_Bottom_Recursively" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_13_Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reverse_Stack_Recursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_13_Stack.Reverse_Stack_Recursively" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_13_Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Display_Stack_Recursively" />
+      <item itemvalue="Application.CircularQueueArray" />
+      <item itemvalue="Application.Deque_Implementation_Using_LinkedList" />
+      <item itemvalue="Application.Implementation_Of_Queue_Using_Array" />
+      <item itemvalue="Application.LinkedList_Implementation_Of_Queue" />
       <item itemvalue="Application.PreviousGreaterElement" />
-      <item itemvalue="Application.Push_At_Bottom_Recursively" />
-      <item itemvalue="Application.Reverse_Stack_Recursively" />
-      <item itemvalue="Application.Postfix_To_Prefix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircularQueueArray" />
+        <item itemvalue="Application.Deque_Implementation_Using_LinkedList" />
+        <item itemvalue="Application.LinkedList_Implementation_Of_Queue" />
+        <item itemvalue="Application.Implementation_Of_Queue_Using_Array" />
         <item itemvalue="Application.PreviousGreaterElement" />
-        <item itemvalue="Application.Reverse_Stack_Recursively" />
-        <item itemvalue="Application.Display_Stack_Recursively" />
-        <item itemvalue="Application.Push_At_Bottom_Recursively" />
-        <item itemvalue="Application.Postfix_To_Prefix" />
       </list>
     </recent_temporary>
   </component>
