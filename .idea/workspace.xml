@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/RemoveLastKFromQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_14_Queue/ReverseLastK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/Tree_Implementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_14_Queue/CircularQueueArray$CircularQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_14_Queue/CircularQueueArray.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +17,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -251,6 +246,7 @@
     &quot;Application.Race_Track.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RangeQuery.executor&quot;: &quot;Run&quot;,
     &quot;Application.Remove_Occurrences_Of_A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLastK.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reverse_Each_Row.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reverse_Each_Word_In_a_Sentence.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reverse_Number.executor&quot;: &quot;Run&quot;,
@@ -336,6 +332,7 @@
     &quot;Application.Transpose_Using_Column_Wise_Printing.executor&quot;: &quot;Run&quot;,
     &quot;Application.Transpose_Using_New_Matrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.TraversalsThrough2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tree_Implementation.executor&quot;: &quot;Run&quot;,
     &quot;Application.UpdateEvenPositions.executor&quot;: &quot;Run&quot;,
     &quot;Application.Update_Odd_Position_To_Character.executor&quot;: &quot;Run&quot;,
     &quot;Application.Upper_Bound.executor&quot;: &quot;Run&quot;,
@@ -385,22 +382,9 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseLastK">
+  <component name="RunManager" selected="Application.Tree_Implementation">
     <configuration name="CircularQueue_Implementation_Using_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_14_Queue.CircularQueue_Implementation_Using_Array" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_14_Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deque_Implementation_Using_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_14_Queue.Deque_Implementation_Using_LinkedList" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -451,20 +435,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tree_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.Tree_Implementation" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_15_Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Tree_Implementation" />
       <item itemvalue="Application.ReverseLastK" />
       <item itemvalue="Application.CircularQueue_Implementation_Using_Array" />
-      <item itemvalue="Application.Deque_Implementation_Using_LinkedList" />
       <item itemvalue="Application.Increasing_Sequence" />
       <item itemvalue="Application.Stair_Path" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tree_Implementation" />
         <item itemvalue="Application.ReverseLastK" />
         <item itemvalue="Application.Stair_Path" />
         <item itemvalue="Application.Increasing_Sequence" />
         <item itemvalue="Application.CircularQueue_Implementation_Using_Array" />
-        <item itemvalue="Application.Deque_Implementation_Using_LinkedList" />
       </list>
     </recent_temporary>
   </component>
