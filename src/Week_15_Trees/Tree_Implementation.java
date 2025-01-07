@@ -1,5 +1,9 @@
 package Week_15_Trees;
 
+import com.sun.source.tree.Tree;
+
+import java.util.*;
+
 public class Tree_Implementation {
 
     public static class TreeNode {
@@ -11,6 +15,19 @@ public class Tree_Implementation {
             this.value = value;
             this.leftChild = null;
             this.rightChild = null;
+        }
+    }
+
+    /**
+     * A helper class to store a tree node and its corresponding level
+     */
+    public static class Pair {
+        TreeNode node;
+        int level;
+
+        Pair(TreeNode node, int level) {
+            this.node = node;
+            this.level = level;
         }
     }
 
@@ -165,7 +182,76 @@ public class Tree_Implementation {
         System.out.print(root.value + " ");
     }
 
+    /**
+     * Time Complexity: O(n) - Each node is visited once.
+     * Space Complexity: O(n) - Queue space for level order traversal.
+     */
+    public static void levelOrder1(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        if (root != null) queue.add(root);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size(); // Number of nodes at the current level
+
+            while (size-- > 0) {
+                TreeNode node = queue.remove();
+                System.out.print(node.value + " ");
+
+                if (node.leftChild != null) queue.add(node.leftChild);
+                if (node.rightChild != null) queue.add(node.rightChild);
+            }
+            System.out.println(); // Move to the next level
+        }
+    }
+
+    /**
+     * Level Order Traversal Using Pair Class
+     * Prints nodes level by level using a Pair to keep track of node levels.
+     * Time Complexity: O(n) - Visits each node once.
+     * Space Complexity: O(n) - Queue space for storing nodes and levels.
+     */
+    public static void levelOrder2(TreeNode root) {
+        int prevLevel = 0;
+        Queue<Pair> queue = new LinkedList<>();
+        if (root != null) queue.add(new Pair(root, 0));
+
+        System.out.println("Level-Order Traversal Using Pair Class:");
+        while (!queue.isEmpty()) {
+            Pair front = queue.remove();
+            TreeNode temp = front.node;
+            int lvl = front.level;
+
+            if (lvl != prevLevel) {
+                System.out.println();
+                prevLevel++;
+            }
+            System.out.print(temp.value + " ");
+
+            if (temp.leftChild != null) queue.add(new Pair(temp.leftChild, lvl + 1));
+            if (temp.rightChild != null) queue.add(new Pair(temp.rightChild, lvl + 1));
+        }
+        System.out.println();
+    }
+
+    /**
+     * Time Complexity: O(n) - Each node is visited once.
+     * Space Complexity: O(h) - h is the height of the tree (recursion stack).
+     */
+    public static void nthLevel(TreeNode root, int currLevel, int level) {
+        if (root == null) return;
+
+        if (currLevel == level) {
+            System.out.print(root.value + " ");
+            return;
+        }
+
+        nthLevel(root.leftChild, currLevel + 1, level);
+        nthLevel(root.rightChild, currLevel + 1, level);
+    }
+
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
         TreeNode root = new TreeNode(1); // Root Node
         TreeNode node2 = new TreeNode(2);
         TreeNode node3 = new TreeNode(3);
@@ -222,5 +308,26 @@ public class Tree_Implementation {
 
         System.out.print("\nReverse Postorder Traversal: ");
         reversePostorderTraversal(root); // Output: 6 3 5 4 2 1
+
+        System.out.println("\nLevel-Order Traversal: ");
+        levelOrder1(root); // Output: 1 2 3 4 5 6
+
+        System.out.println("\nLevel-Order Traversal Using Pair Class: ");
+        levelOrder2(root); // Output: Each level on a new line
+
+        // Input for nth Level Elements
+        System.out.print("\nEnter the level (0-based) of the Tree: ");
+        int level = sc.nextInt();
+        System.out.print("Elements of level " + level + ": ");
+        nthLevel(root, 0, level); // Prints elements of the nth level
+
+        // Level-Order Traversal Using nthLevel
+        System.out.println("\n\nLevel-Order Traversal Using nthLevel:");
+        for (int lvl = 0; lvl <= calculateTreeLevel(root) - 1; lvl++) {
+            System.out.print("Level " + lvl + ": ");
+            nthLevel(root, 0, lvl);
+            System.out.println();
+        }
+
     }
 }
