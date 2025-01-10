@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/BinaryTreeViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/ConstructTreesUsingLevelOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_15_Trees/Tree_Implementation$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_15_Trees/Tree_Implementation$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_15_Trees/Tree_Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_15_Trees/Tree_Implementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_15_Trees/Tree_Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_15_Trees/Tree_Implementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +77,7 @@
     "Application.CircularQueueArray.executor": "Run",
     "Application.Concatenate_With_Its_Reverse.executor": "Run",
     "Application.ConsecutiveSub_arrayWithOddSum.executor": "Run",
+    "Application.ConstructTreesUsingLevelOrder.executor": "Run",
     "Application.Construct_Triangle.executor": "Run",
     "Application.Contains_StartsWith.executor": "Run",
     "Application.Convert_Int_To_String.executor": "Run",
@@ -386,7 +384,7 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeViews">
+  <component name="RunManager" selected="Application.ConstructTreesUsingLevelOrder">
     <configuration name="BinaryTreeViews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_15_Trees.BinaryTreeViews" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -400,12 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Increasing_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Increasing_Sequence" />
+    <configuration name="ConstructTreesUsingLevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.ConstructTreesUsingLevelOrder" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_10_Recursion.*" />
+          <option name="PATTERN" value="Week_15_Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,19 +451,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ConstructTreesUsingLevelOrder" />
       <item itemvalue="Application.BinaryTreeViews" />
       <item itemvalue="Application.Tree_Implementation" />
       <item itemvalue="Application.ReverseLastK" />
-      <item itemvalue="Application.Increasing_Sequence" />
       <item itemvalue="Application.Stair_Path" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructTreesUsingLevelOrder" />
         <item itemvalue="Application.BinaryTreeViews" />
         <item itemvalue="Application.Tree_Implementation" />
         <item itemvalue="Application.ReverseLastK" />
         <item itemvalue="Application.Stair_Path" />
-        <item itemvalue="Application.Increasing_Sequence" />
       </list>
     </recent_temporary>
   </component>
