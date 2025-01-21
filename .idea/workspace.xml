@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/InOrderPredecessorSuccessorFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/CountNodesInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/CountSubtreesInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_15_Trees/DistanceBetweenNodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_15_Trees/ConstructTreesUsingLevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_15_Trees/ConstructTreesUsingLevelOrder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +85,8 @@
     "Application.Convert_Int_To_String.executor": "Run",
     "Application.Convert_To_Integer.executor": "Run",
     "Application.Copy_Stack.executor": "Run",
+    "Application.CountNodesInRange.executor": "Run",
+    "Application.CountSubtreesInRange.executor": "Run",
     "Application.Count_1s_In_Binary_Array.executor": "Run",
     "Application.Count_Consonants.executor": "Run",
     "Application.Count_Lowercase.executor": "Run",
@@ -99,6 +102,7 @@
     "Application.Digits_With_Space.executor": "Run",
     "Application.Display_Stack.executor": "Run",
     "Application.Display_Stack_Recursively.executor": "Run",
+    "Application.DistanceBetweenNodes.executor": "Run",
     "Application.Distributes_Chocolates.executor": "Run",
     "Application.DoubletSumOptimised.executor": "Run",
     "Application.Doubly_LinkedList.executor": "Run",
@@ -388,9 +392,9 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InOrderPredecessorSuccessorFinder (1)">
-    <configuration name="BinaryTreeViews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.BinaryTreeViews" />
+  <component name="RunManager" selected="Application.DistanceBetweenNodes">
+    <configuration name="CountNodesInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.CountNodesInRange" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -402,8 +406,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructTreesUsingLevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.ConstructTreesUsingLevelOrder" />
+    <configuration name="CountSubtreesInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.CountSubtreesInRange" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_15_Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceBetweenNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.DistanceBetweenNodes" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
@@ -441,33 +458,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.temp" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_15_Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.CountNodesInRange" />
+      <item itemvalue="Application.CountSubtreesInRange" />
+      <item itemvalue="Application.DistanceBetweenNodes" />
       <item itemvalue="Application.InOrderPredecessorSuccessorFinder" />
       <item itemvalue="Application.InOrderPredecessorSuccessorFinder (1)" />
-      <item itemvalue="Application.temp" />
-      <item itemvalue="Application.ConstructTreesUsingLevelOrder" />
-      <item itemvalue="Application.BinaryTreeViews" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DistanceBetweenNodes" />
+        <item itemvalue="Application.CountSubtreesInRange" />
+        <item itemvalue="Application.CountNodesInRange" />
         <item itemvalue="Application.InOrderPredecessorSuccessorFinder (1)" />
         <item itemvalue="Application.InOrderPredecessorSuccessorFinder" />
-        <item itemvalue="Application.temp" />
-        <item itemvalue="Application.ConstructTreesUsingLevelOrder" />
-        <item itemvalue="Application.BinaryTreeViews" />
       </list>
     </recent_temporary>
   </component>
