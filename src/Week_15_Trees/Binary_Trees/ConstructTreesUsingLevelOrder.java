@@ -1,4 +1,4 @@
-package Week_15_Trees;
+package Week_15_Trees.Binary_Trees;
 
 import java.util.LinkedList;
 import java.util.Queue;

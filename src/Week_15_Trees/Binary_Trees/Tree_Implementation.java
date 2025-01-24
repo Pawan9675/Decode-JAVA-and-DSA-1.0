@@ -1,6 +1,4 @@
-package Week_15_Trees;
-
-import com.sun.source.tree.Tree;
+package Week_15_Trees.Binary_Trees;
 
 import java.util.*;
 
