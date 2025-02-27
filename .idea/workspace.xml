@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_16_HashMap_And_HashSet/BasicsOfTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_16_HashMap_And_HashSet/SetToArrayListConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_16_HashMap_And_HashSet/SubarraySumCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +32,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Week_6_Strings_and_Stringbuilders/Maximum_Occurring_Character_In_a_String1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -391,7 +395,7 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicsOfHashMap">
+  <component name="RunManager" selected="Application.Subset_Sum">
     <configuration name="BasicsOfHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_16_HashMap_And_HashSet.BasicsOfHashMap" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -444,25 +448,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InOrderPredecessorSuccessorFinder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.InOrderPredecessorSuccessorFinder" />
+    <configuration name="Subset_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Subset_Sum" />
       <module name="Decode JAVA and DSA 1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_15_Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InOrderPredecessorSuccessorFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.Binary_Search_Trees.InOrderPredecessorSuccessorFinder" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_15_Trees.Binary_Search_Trees.*" />
+          <option name="PATTERN" value="Week_10_Recursion.Extra_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,20 +462,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InOrderPredecessorSuccessorFinder" />
+      <item itemvalue="Application.Subset_Sum" />
       <item itemvalue="Application.BasicsOfHashMap" />
       <item itemvalue="Application.CountNodesInRange" />
       <item itemvalue="Application.CountSubtreesInRange" />
       <item itemvalue="Application.DistanceBetweenNodes" />
-      <item itemvalue="Application.InOrderPredecessorSuccessorFinder (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subset_Sum" />
         <item itemvalue="Application.BasicsOfHashMap" />
         <item itemvalue="Application.DistanceBetweenNodes" />
         <item itemvalue="Application.CountSubtreesInRange" />
         <item itemvalue="Application.CountNodesInRange" />
-        <item itemvalue="Application.InOrderPredecessorSuccessorFinder (1)" />
       </list>
     </recent_temporary>
   </component>
