@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/MaxHeapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/MinHeapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -462,11 +460,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Subset_Sum" />
       <item itemvalue="Application.BasicsOfHashMap" />
       <item itemvalue="Application.CountNodesInRange" />
       <item itemvalue="Application.CountSubtreesInRange" />
       <item itemvalue="Application.DistanceBetweenNodes" />
+      <item itemvalue="Application.Subset_Sum" />
     </list>
     <recent_temporary>
       <list>
