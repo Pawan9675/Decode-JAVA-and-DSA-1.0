@@ -62,6 +62,24 @@ public class MaxHeapImplementation {
             return removedElement;
         }
 
+        public void removeElement(int element) {
+            int index = -1;
+            for (int i = 0; i < size; i++) {
+                if (heap[i] == element){
+                    index = i;
+                    break;
+                }
+            }
+
+            if (index == -1) {
+                throw new IllegalStateException("Element not found in the heap");
+            }
+
+            heap[index] = Integer.MAX_VALUE;
+            heapifyUp(index);
+            remove();
+        }
+
         public int peek() {
             if (size == 0) {
                 throw new IllegalStateException("Heap is empty");

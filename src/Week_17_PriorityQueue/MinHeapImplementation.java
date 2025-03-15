@@ -104,6 +104,24 @@ public class MinHeapImplementation {
             return removedElement;
         }
 
+        public void removeElement(int element) {
+            int index = -1;
+            for (int i = 0; i < size; i++) {
+                if (heap[i] == element) {
+                    index = i;
+                    break;
+                }
+            }
+
+            if (index == -1) {
+                throw new IllegalStateException("Element not found in the heap");
+            }
+
+            heap[index] = Integer.MIN_VALUE;
+            heapifyUp(index);
+            remove();
+        }
+
         public int peek() {
             if (size == 0) {
                 throw new IllegalStateException("Heap is empty");
@@ -155,5 +173,9 @@ public class MinHeapImplementation {
         System.out.println(minHeap.remove());
         System.out.println(minHeap.size());
         System.out.println(minHeap.peek());
+
+        minHeap.printHeap();
+        minHeap.removeElement(20);
+        minHeap.printHeap();
     }
 }
