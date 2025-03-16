@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeHeapChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeToMinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/Assignment_PriorityQueue/MinCostToConnectRopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/Assignment_PriorityQueue/MinHeapSortDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/ConvertArrayToHeap_Optimised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/ConvertArrayToHeap_Unoptimised.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
