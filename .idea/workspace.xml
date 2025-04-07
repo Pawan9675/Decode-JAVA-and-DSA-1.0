@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762c2faa-31c5-4471-85a1-52d41774ec98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week_17_PriorityQueue/Assignment_PriorityQueue/StackUsingPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/CheckKthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/ClearKthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/SetKthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/ToggleKthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_18_BitManipulation/TurnOffRightmostSetBit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeHeapChecker$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeHeapChecker$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeHeapChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeHeapChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeToMinHeap$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeToMinHeap$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeToMinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decode JAVA and DSA 1.0/Week_17_PriorityQueue/Assignment_PriorityQueue/BinaryTreeToMinHeap.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,6 +356,7 @@
     &quot;Application.Transpose_Using_New_Matrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.TraversalsThrough2DArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Tree_Implementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TurnOffRightmostSetBit.executor&quot;: &quot;Run&quot;,
     &quot;Application.UpdateEvenPositions.executor&quot;: &quot;Run&quot;,
     &quot;Application.Update_Odd_Position_To_Character.executor&quot;: &quot;Run&quot;,
     &quot;Application.Upper_Bound.executor&quot;: &quot;Run&quot;,
@@ -396,7 +407,7 @@
       <recent name="Week_10_Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeToMinHeap (1)">
+  <component name="RunManager" selected="Application.TurnOffRightmostSetBit">
     <configuration name="BasicsOfHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_16_HashMap_And_HashSet.BasicsOfHashMap" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -436,19 +447,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistanceBetweenNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_15_Trees.Binary_Search_Trees.DistanceBetweenNodes" />
-      <module name="Decode JAVA and DSA 1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_15_Trees.Binary_Search_Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Subset_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_10_Recursion.Extra_Practice.Subset_Sum" />
       <module name="Decode JAVA and DSA 1.0" />
@@ -462,20 +460,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TurnOffRightmostSetBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TurnOffRightmostSetBit" />
+      <module name="Decode JAVA and DSA 1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BinaryTreeToMinHeap" />
-      <item itemvalue="Application.BinaryTreeToMinHeap (1)" />
       <item itemvalue="Application.BasicsOfHashMap" />
-      <item itemvalue="Application.DistanceBetweenNodes" />
+      <item itemvalue="Application.BinaryTreeToMinHeap (1)" />
+      <item itemvalue="Application.BinaryTreeToMinHeap" />
       <item itemvalue="Application.Subset_Sum" />
+      <item itemvalue="Application.TurnOffRightmostSetBit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TurnOffRightmostSetBit" />
         <item itemvalue="Application.BinaryTreeToMinHeap (1)" />
         <item itemvalue="Application.BinaryTreeToMinHeap" />
         <item itemvalue="Application.Subset_Sum" />
         <item itemvalue="Application.BasicsOfHashMap" />
-        <item itemvalue="Application.DistanceBetweenNodes" />
       </list>
     </recent_temporary>
   </component>
