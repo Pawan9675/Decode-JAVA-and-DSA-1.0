@@ -1,4 +1,5 @@
-package Week_18_BitManipulation;// 📌 Question: Given an integer n and a value k, toggle (flip) the k-th bit of n.
+package Week_18_BitManipulation;
+// 📌 Question: Given an integer n and a value k, toggle (flip) the k-th bit of n.
 // 📎 Note: Bit positions are considered 0-based (rightmost bit is at position 0).
 // 🔄 Toggling means:
 //     - If the bit is 1 ➤ make it 0
